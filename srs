@@ -32566,6 +32566,42 @@
             "8":"https://streamhub.to/5f9vcphe92h6",
             "9":"https://streamhub.to/iinxlehwv2u0"
             }
-        }
+        },
+        {
+        "id": "823",
+        "activity": "FALSE",
+        "ImageUrlHorizontal": "https://i.postimg.cc/FKR1P4BW/Santo-Season-1.jpg",
+        "ImageUrlVertical": "https://i.postimg.cc/y69xpnLH/Santo-Season-1.jpg",
+        "movieName": "Santo Season 1",
+        "htmlFile": "https://www.18048",
+        "directOne": "FALSE",
+        "directSecond": "sspsUdLrc-g",
+        "imbd": "7.2",
+        "rating": "Dual",
+        "catergory": "webSeries",
+        "Industry": "webSeries",
+        "latest": "FALSE",
+        "latestCatergory": "FALSE",
+        "keyName": "Santo",
+        "pathName": "S1",
+        "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Santo Season 1.jpg",
+        "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Santo Season 1.jpg",
+            "EpisodeTape": {
+            "1":"https://streamtape.com/v/ydMDVd06djH1z21/Santo.S01E01_18037.mkv.mp4",
+            "2":"https://streamtape.com/v/4GaxZl9w1gHKbYR/Santo.S01E02_18038.mkv.mp4",
+            "3":"https://streamtape.com/v/me3VXYG08PiVbO/Santo.S01E03_18039.mkv.mp4",
+            "4":"https://streamtape.com/v/wOQl0qPZjgfJrRQ/Santo.S01E04_18040.mkv.mp4",
+            "5":"https://streamtape.com/v/2bzZvj3092FWmy/Santo.S01E05_18041.mkv.mp4",
+            "6":"https://streamtape.com/v/dqVpljxBPmFkOg6/Santo.S01E06_18042.mkv.mp4"
+            },
+            "EpisodeHub": {
+            "1":"https://streamhub.to/fvm0rd0w7q90",
+            "2":"https://streamhub.to/xd1x4eilj0qg",
+            "3":"https://streamhub.to/3vflpu5lwezz",
+            "4":"https://streamhub.to/i8jexmlqzkp2",
+            "5":"https://streamhub.to/ydt6v2m8m19i",
+            "6":"https://streamhub.to/t2iu15do9ev8"
+            }
+    }
     ]
 }
