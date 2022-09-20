@@ -10,7 +10,7 @@
             "directOne": "Hindi",
             "directSecond": "QBkHs46cB_A",
             "imbd": "9.9",
-            "rating": "pDVDRip",
+            "rating": "HD 720p",
             "catergory": "Thriller",
             "Industry": "Bollywood",
             "latest": "no",
