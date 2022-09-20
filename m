@@ -20,7 +20,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Judaa%20Hoke%20Bhi%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Judaa%20Hoke%20Bhi%20%282022%29.jpg",
             "hub": "https://streamhub.to/4iemiy1uq7yd",
-            "tape": "https://streamtape.com/v/xX38x3LzAmilp3/Judaa_Hoke_Bhi_%282022%29_17659.mkv"
+            "tape": "https://streamtape.site/v/xX38x3LzAmilp3/Judaa_Hoke_Bhi_%282022%29_17659.mkv"
         },
          {
             "id": "2592",
