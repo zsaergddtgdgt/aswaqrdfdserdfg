@@ -1,6 +1,29 @@
 {
     "AllMovieDataList": [
-    {
+   
+   {
+        "id": "2602",
+        "activity": "1",
+        "ImageUrlHorizontal": "https://i.postimg.cc/GtBmPkw2/Dhokha-2022.jpg",
+        "ImageUrlVertical": "https://i.postimg.cc/9XyS0Dqt/Dhokha-2022.jpg",
+        "movieName": "Dhokha - Round D Corner (2022)",
+        "htmlFile": "https://www.18094",
+        "directOne": "Hindi",
+        "directSecond": "tCSX4d_8oLQ",
+        "imbd": "6.8",
+        "rating": "pDVDRip",
+        "catergory": "Drama",
+        "Industry": "Bollywood",
+        "latest": "no",
+        "latestCatergory": "yes",
+        "keyName": "FALSE",
+        "pathName": "FALSE",
+        "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Dhokha - Round D Corner (2022).jpg",
+        "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Dhokha - Round D Corner (2022).jpg",
+       "hub": "https://hobbytrack.net/TopData/movie/480p/Dhokha - Round D Corner (2022) 18094.mkv",
+       "tape": "https://streamtape.site/v/8XQ3RjLDe8soQM2/Dhokha_-_Round_D_Corner_%282022%29_18094.mkv"
+    },
+     {
         "id": "2601",
         "activity": "1",
         "ImageUrlHorizontal": "https://i.postimg.cc/rwq634hZ/ATHENA-2022.jpg",
@@ -32,7 +55,7 @@
             "directOne": "Hindi",
             "directSecond": "V51sMMFMWqg",
             "imbd": "8.9",
-            "rating": "HD 720p",
+            "rating": "pDVDRip",
             "catergory": "Drama",
             "Industry": "Bollywood",
             "latest": "no",
