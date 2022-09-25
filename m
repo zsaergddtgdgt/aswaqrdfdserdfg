@@ -1,7 +1,50 @@
 {
     "AllMovieDataList": [
-   
    {
+        "id": "2603",
+        "activity": "1",
+        "ImageUrlHorizontal": "https://i.postimg.cc/cH8yhGQv/Beast-2022.jpg",
+        "ImageUrlVertical": "https://i.postimg.cc/mDkKDfdd/Beast-2022.jpg",
+        "movieName": "Beast (2022)",
+        "htmlFile": "https://www.12603",
+        "directOne": "Dual [Hindi-English]",
+        "directSecond": "oQMc7Sq36mI",
+        "imbd": "7.0",
+        "rating": "HD 720p",
+        "catergory": "Action",
+        "Industry": "Hollywood",
+        "latest": "no",
+        "latestCatergory": "yes",
+        "keyName": "FALSE",
+        "pathName": "FALSE",
+        "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Athena (2022).jpg",
+        "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Athena (2022).jpg",
+       "hub": "https://streamhub.to/clz5rs4llyju",
+       "tape": "https://streamtape.site/v/2DXPe1xW1ytxmO/Beast_%282022%29_12603.mkv"
+    },
+   {
+        "id": "2602",
+        "activity": "1",
+        "ImageUrlHorizontal": "https://i.postimg.cc/4xVRT5rM/LOU-2022.jpg",
+        "ImageUrlVertical": "https://i.postimg.cc/2yzgm7Fd/LOU-2022.jpg",
+        "movieName": "Lou (2022)",
+        "htmlFile": "https://www.12602",
+        "directOne": "Dual [Hindi-English]",
+        "directSecond": "QILhvR4QPsQ",
+        "imbd": "7.0",
+        "rating": "HD 720p",
+        "catergory": "Action",
+        "Industry": "Hollywood",
+        "latest": "no",
+        "latestCatergory": "yes",
+        "keyName": "FALSE",
+        "pathName": "FALSE",
+        "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Athena (2022).jpg",
+        "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Athena (2022).jpg",
+       "hub": "https://streamhub.to/ophwua9ze9i7",
+       "tape": "https://streamtape.site/v/dPp63Da8JJuPMV/Lou_%282022%29_12602.mkv"
+    },
+    {
         "id": "2602",
         "activity": "1",
         "ImageUrlHorizontal": "https://i.postimg.cc/GtBmPkw2/Dhokha-2022.jpg",
@@ -20,7 +63,7 @@
         "pathName": "FALSE",
         "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Dhokha - Round D Corner (2022).jpg",
         "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Dhokha - Round D Corner (2022).jpg",
-       "hub": "https://hobbytrack.net/TopData/movie/480p/Dhokha - Round D Corner (2022) 18094.mkv",
+       "hub": "https://streamhub.to/mbmjqpsehcot",
        "tape": "https://streamtape.site/v/8XQ3RjLDe8soQM2/Dhokha_-_Round_D_Corner_%282022%29_18094.mkv"
     },
      {
