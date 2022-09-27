@@ -10,7 +10,7 @@
             "directOne": "Dual [Hindi-English]",
             "directSecond": "0IOsk2Vlc4o",
             "imbd": "7.0",
-            "rating": "pDVDRip",
+            "rating": "Hd 720p",
             "catergory": "Action",
             "Industry": "Hollywood",
             "latest": "no",
