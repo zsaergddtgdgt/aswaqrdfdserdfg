@@ -32726,7 +32726,75 @@
             "7":"https://streamhub.to/aicyociyrn2c",
             "8":"https://streamhub.to/chz67wbuu6wk"
             }
-    }
+    },
+     {
+            "id": "828",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/JhH42nFB/Hush-Hush-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/JznhjKcx/Hush-Hush-2022.jpg",
+            "movieName": "Hush Hush Season 1",
+            "htmlFile": "https://www.18121",
+            "directOne": "FALSE",
+            "directSecond": "M_4tRMvTE5A",
+            "imbd": "7.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Hush Hush",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Hush%20Hush%20Season%201.jpg",
+            "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Hush%20Hush%20Season%201.jpg",
+            "EpisodeTape": {
+            "1":"https://streamtape.site/v/bk7L0kGZJRFx66/Hush.Hush.S01E01.What.Lies.Beneath..mkv.mp4",
+            "2":"https://streamtape.site/v/o6Pa1GgMzaUJBox/Hush.Hush.S01E02.What.Cant.Be.Said..mkv.mp4",
+            "3":"https://streamtape.site/v/7K18yM23yOiAA0Y/Hush.Hush.S01E03.What.Cant.Be.Killed..mkv.mp4",
+            "4":"https://streamtape.site/v/mP4Y6QgvOZhbKKJ/Hush.Hush.S01E04.What.The.Past.Holds..mkv.mp4",
+            "5":"https://streamtape.site/v/Gvy4Q8bGBWiZRQ/Hush.Hush.S01E05.What.Keeps.Us.Awake..mkv.mp4",
+            "6":"https://streamtape.site/v/mvb7omZoLeu6ao/Hush.Hush.S01E06.What.Remains.Unseen..mkv.mp4",
+            "7":"https://streamtape.site/v/wkVPzRzg6rilJM/Hush.Hush.S01E07.What.Is.To.Be.Known.mkv.mp4"
+            },
+            "EpisodeHub": {
+            "1":"https://streamhub.to/3e62s243gpmk",
+            "2":"https://streamhub.to/0z1oc2yv4dih",
+            "3":"https://streamhub.to/lnl2264jexnl",
+            "4":"https://streamhub.to/dir7cgw54cdj",
+            "5":"https://streamhub.to/kpuu6ict96rn",
+            "6":"https://streamhub.to/746b5cl90b9a",
+            "7":"https://streamhub.to/aaakilvsp3w7"
+            }
+        },
+        {
+            "id": "829",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/25y2RpdW/Andor-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Fz7PjMzm/Andor-2022.png",
+            "movieName": "Star Wars Andor Season 1",
+            "htmlFile": "https://www.18108",
+            "directOne": "FALSE",
+            "directSecond": "cKOegEuCcfw",
+            "imbd": "7.2",
+            "rating": "Dual",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Star Wars Andor",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Star%20Wars%20Andor%20Season%201.jpg",
+            "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Star%20Wars%20Andor%20Season%201.jpg",
+            "EpisodeTape": {
+            "1":"https://streamtape.site/v/D4aaJ1QlPGukrDd/Star.Wars.Andor.S01E01.mkv.mp4",
+            "2":"https://streamtape.site/v/PWlwOZxz7xc0qX9/Star.Wars.Andor.S01E02.mkv.mp4",
+            "3":"https://streamtape.site/v/aGPVAXoQp0Hxr1V/Star.Wars.Andor.S01E03.mkv.mp4"
+            },
+            "EpisodeHub": {
+            "1":"https://streamhub.to/3hmrxyisc1qu",
+            "2":"https://streamhub.to/4k862kc18d58",
+            "3":"https://streamhub.to/lbzbdt4n9lod"
+            }
+        }
     
     ]
 }
