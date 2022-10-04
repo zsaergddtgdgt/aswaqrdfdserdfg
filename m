@@ -1,12 +1,12 @@
 {
     "AllMovieDataList": [
      {
-            "id": "2611",
+            "id": "2614",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Kv7w8dVB/Ponniyin-Selvan-Part-One-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/qvxTWt4f/Ponniyin-Selvan-Part-One-2022.jpg",
             "movieName": "Ponniyin Selvan: Part One (2022)",
-            "htmlFile": "https://www.12611",
+            "htmlFile": "https://www.12614",
             "directOne": "Hindi",
             "directSecond": "0wiSMPJ64uA",
             "imbd": "8.1",
@@ -19,8 +19,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
-            "hub": "https://streamhub.to/hw9mypp1o6y2",
-            "tape": "https://streamtape.site/v/JWGypexoAmhjWPW/Ponniyin_Selvan-_Part_One_%282022%29_12611.mkv"
+            "hub": "https://streamhub.to/wpbcti7xea65",
+            "tape": "https://streamtape.site/v/x9BRkmQZ6jSkBqx/Ponniyin_Selvan-_Part_One_%282022%29_12614.mkv.mp4"
         },
     {
             "id": "2613",
@@ -41,9 +41,32 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
-            "hub": "https://streamhub.to/iq4p6q6hh5fa",
-            "tape": "https://streamtape.site/v/BJZxeb7l2wcybga/Vikram.Vedha.2022.12613.mkv.mp4"
-        },{
+            "hub": "https://streamhub.to/i5m8b4jl61kh",
+            "tape": "https://streamtape.site/v/ol3z2QGwjyuJ6VV/Vikram_Vedha_%282022%29_12613.mkv.mp4"
+        },
+        {
+            "id": "2615",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/nczqgDbN/Bhala-Thandanana-2022.gif",
+            "ImageUrlVertical": "https://i.postimg.cc/K8C7nvWw/Bhala-Thandanana-2022.jpg",
+            "movieName": "Bhala Thandanana (2022)",
+            "htmlFile": "https://www.12615",
+            "directOne": "Hindi",
+            "directSecond": "EYuMPCKFrW0",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/k0cx9hdbtjfd",
+            "tape": "https://streamtape.site/v/arY0VB2wAxFxrXX/Bhala_Thandanana_%282022%29_12615.mkv.mp4"
+        },
+        {
             "id": "2612",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/6qVSRt4n/Plan-A-Plan-B-2022.jpg",
@@ -65,6 +88,29 @@
             "hub": "https://streamhub.to/1vktzi3sw76z",
             "tape": "https://streamtape.site/v/gR0M0MozPKuq7dJ/Plan.A.Plan.B.2022.12612.mkv.mp4"
         },
+        {
+            "id": "2581",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/1tQw2T2v/Cobra-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/g0CjTZXd/Cobra-2022.jpg",
+            "movieName": "Cobra (2022)",
+            "htmlFile": "https://www.17982",
+            "directOne": "Hindi",
+            "directSecond": "HsAhxHWqYwM",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Cobra%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Cobra%20%282022%29.jpg",
+            "hub": "https://streamhub.to/l1a9jmwj36nd",
+            "tape": "https://streamtape.site/v/xmXAJwRwkxHk24m/Cobra_%282022%29_17982.mkv"
+        },
+        
     {
             "id": "2578",
             "activity": "1",
@@ -97,7 +143,7 @@
             "directOne": "Hindi",
             "directSecond": "J8CvvGRTziQ",
             "imbd": "8.1",
-            "rating": "pDVDRip",
+            "rating": "HD 720p",
             "catergory": "Romance",
             "Industry": "South",
             "latest": "no",
@@ -106,8 +152,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
-            "hub": "https://streamhub.to/jczn9pufyd7y",
-            "tape": "https://streamtape.site/v/YP7bKDO41XcvP4q/Ranga.Ranga.Vaibhavanga.2022.12611.mkv"
+            "hub": "https://streamhub.to/5zt1btjzilh8",
+            "tape": "https://streamtape.site/v/1d7l2LMx8YFeQwj/Ranga_Ranga_Vaibhavanga_%282022%29_12611.mkv.mp4"
         },
         {
             "id": "40",
@@ -570,28 +616,6 @@
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Cobra%20%282022%29.jpg",
             "hub": "https://streamhub.to/stjpu11krdk8",
             "tape": "https://streamtape.site/v/Jorl02e74Ysjd2Y/118_%282022%29_12594.mkv.mp4"
-        },
-        {
-            "id": "2581",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/1tQw2T2v/Cobra-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/g0CjTZXd/Cobra-2022.jpg",
-            "movieName": "Cobra (2022)",
-            "htmlFile": "https://www.17982",
-            "directOne": "Hindi",
-            "directSecond": "HsAhxHWqYwM",
-            "imbd": "7.6",
-            "rating": "HD 720p",
-            "catergory": "Action",
-            "Industry": "South",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Cobra%20%282022%29.jpg",
-            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Cobra%20%282022%29.jpg",
-            "hub": "https://streamhub.to/on7qnutoeult",
-            "tape": "https://streamtape.site/v/VmxDdOgeydSKvpv/Cobra_%282022%29_17982.mkv.mp4"
         },
         {
             "id": "2593",
