@@ -42,7 +42,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/4drsj2nghy37",
-            "tape": ""https://streamtape.xyz/v/1Pj4G1QJQQTeoeJ/Palthu_Janwar_%282022%29_12625.mkv
+            "tape": "https://streamtape.xyz/v/1Pj4G1QJQQTeoeJ/Palthu_Janwar_%282022%29_12625.mkv"
         },
         {
             "id": "2616",
