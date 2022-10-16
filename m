@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    {
+            "id": "2632",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/Nfb5fcmM/Doctor-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/QMQqyvG3/Doctor-2022.jpg",
+            "movieName": "Doctor (2022)",
+            "htmlFile": "https://www.12632",
+            "directOne": "Hindi",
+            "directSecond": "duXjvKVLsaM",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/4fd0pamvhajz",
+            "tape": "https://streamtape.to/v/GKQRKPZ068H1JvR/Doctor_%282022%29_12632.mkv.mp4"
+        },
         {
             "id": "2630",
             "activity": "1",
