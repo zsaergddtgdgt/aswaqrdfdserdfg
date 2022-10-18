@@ -33014,6 +33014,60 @@
                 "7": "https://streamhub.to/htdpk8eet1ob",
                 "8": "https://streamhub.to/krbxemu6drot"
             }
+        },
+        {
+            "id": "834",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/yxZDhLj1/mismatched-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/QMzcZ46D/mismatched-2022.jpg",
+            "movieName": "Mismatched Season 2",
+            "htmlFile": "https://www.18034",
+            "directOne": "FALSE",
+            "directSecond": "vIZWLvcMS9c",
+            "imbd": "7.6",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Mismatched",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Shiksha%20Mandal%20Season%201.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Shiksha%20Mandal%20Season%2010.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Qr204K7RQoh006e/Mismatched_Season_2_%282022%29_18034.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/je4lxm35as68"
+            }
+        },
+        {
+            "id": "835",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/8CBkGjkb/Tu-Zakhm-Hai-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Wz41XTvw/Tu-Zakhm-Hai-2022.jpg",
+            "movieName": "Tu Zakhm Hai Season 1",
+            "htmlFile": "https://www.18035",
+            "directOne": "FALSE",
+            "directSecond": "hccH_97u2RU",
+            "imbd": "7.6",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Tu Zakhm Hai",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Shiksha%20Mandal%20Season%201.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Shiksha%20Mandal%20Season%2010.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/QAxvY6XAXPi0ZO4/Tu_Zakhm_Hai_2022_S01E01T07.mkv.mp4",
+                "2":"https://streamtape.to/v/wrRDOAW8e6FJKPm/Tu_Zakhm_Hai_2022_S01E08T14.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ztgyppfqtz7s",
+                "2":"https://streamhub.to/a5nmztat2gfn"
+            }
         }
     ]
 }

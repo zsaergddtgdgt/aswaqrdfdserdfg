@@ -89,6 +89,28 @@
             "tape": "https://streamtape.xyz/v/mkKX9w6jXvfkLV/Tiranga_%282022%29_12631.mkv.mp4"
         },
         {
+            "id": "2633",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/4NtYCSQL/diary-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/FKvsQFH1/diary-2022.jpg",
+            "movieName": "Diary (2022)",
+            "htmlFile": "https://www.12633",
+            "directOne": "Hindi",
+            "directSecond": "GV6Kg6GVmig",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/gtlk9whfzn9k",
+            "tape": "https://streamtape.xyz/v/1WGB0Q86dRIy26/Diary_%282022%29_12633.mkv.mp4"
+        },
+        {
             "id": "13",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/gJqmwKBZ/Dobaaraa-2022.jpg",
