@@ -32028,40 +32028,6 @@
             }
         },
         {
-            "id": "809",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://axomark.meddyworld.com/Poster/h1/House%20of%20the%20Dragon%20Season%201.jpeg",
-            "ImageUrlVertical": "https://axomark.meddyworld.com/Poster/v1/House%20of%20the%20Dragon%20Season%201.jpg",
-            "movieName": "House of the Dragon Season 1",
-            "htmlFile": "https://www.17912",
-            "directOne": "FALSE",
-            "directSecond": "DotnJ7tTA34",
-            "imbd": "8.8",
-            "rating": "Dual",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "House of the Dragon",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/House%20of%20the%20Dragon%20Season%201.jpeg",
-            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/House%20of%20the%20Dragon%20Season%201.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/06yqjdm10BTbzz1/House_of_the_Dragon_S01E01_17911.mkv.mp4",
-                "2": "https://streamtape.to/v/jZWQVM37v7UmJK/House.Of.The.Dragon.S01E02_17944.mkv.mp4",
-                "3": "https://streamtape.to/v/3G2d7xPbdBTdQaZ/House_of_the_Dragon_S01_E03_17978.mkv.mp4",
-                "4": "https://streamtape.to/v/BbbkGakwKesygmy/House_of_the_Dragon_S1_E04_18001.mkv.mp4",
-                "5": "https://streamtape.to/v/lD2Q1yXgvwU7YYp/House.Of.The.Dragon.S01E05_18069.mkv"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/o2irssej5h5b",
-                "2": "https://streamhub.to/y6y6lrh7xb7w",
-                "3": "https://streamhub.to/8tat7f2svlf5",
-                "4": "https://streamhub.to/peixgs5g6aha",
-                "5": "https://streamhub.to/jctps15s76ob"
-            }
-        },
-        {
             "id": "810",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/L8cjXRM9/Maharani-Season-2.jpg",
@@ -32749,7 +32715,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/JhH42nFB/Hush-Hush-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/JznhjKcx/Hush-Hush-2022.jpg",
             "movieName": "Hush Hush Season 1",
-            "htmlFile": "https://www.18121",
+            "htmlFile": "https://www.18828",
             "directOne": "FALSE",
             "directSecond": "M_4tRMvTE5A",
             "imbd": "7.2",
@@ -32782,12 +32748,54 @@
             }
         },
         {
+            "id": "809",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/CKt0Qr9D/House-of-the-Dragon-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Y01s8vfT/House-of-the-Dragon-Season-1.jpg",
+            "movieName": "House of the Dragon Season 1",
+            "htmlFile": "https://www.17912",
+            "directOne": "FALSE",
+            "directSecond": "DotnJ7tTA34",
+            "imbd": "8.8",
+            "rating": "Dual",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "House of the Dragon",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/House%20of%20the%20Dragon%20Season%201.jpeg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/House%20of%20the%20Dragon%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/06yqjdm10BTbzz1/House_of_the_Dragon_S01E01_17911.mkv.mp4",
+                "2": "https://streamtape.to/v/jZWQVM37v7UmJK/House.Of.The.Dragon.S01E02_17944.mkv.mp4",
+                "3": "https://streamtape.to/v/3G2d7xPbdBTdQaZ/House_of_the_Dragon_S01_E03_17978.mkv.mp4",
+                "4": "https://streamtape.to/v/BbbkGakwKesygmy/House_of_the_Dragon_S1_E04_18001.mkv.mp4",
+                "5": "https://streamtape.to/v/lD2Q1yXgvwU7YYp/House.Of.The.Dragon.S01E05_18069.mkv",
+                "6":"https://streamtape.to/v/P7z7b7Ao6bU0XB0/House.of.the.Dragon.S01E06.mkv.mp4",
+                "7":"https://streamtape.to/v/QdM4YMYMb3c0aW7/House.of.the.Dragon.S01E07.mkv.mp4",
+                "8":"https://streamtape.to/v/ybqqzbokP4SOLb/House.of.the.Dragon.S01E08.mkv.mp4",
+                "9":"https://streamtape.to/v/lPmKagjjwkt71WA/House.Of.The.Dragon.S01E09.mkv"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/o2irssej5h5b",
+                "2": "https://streamhub.to/y6y6lrh7xb7w",
+                "3": "https://streamhub.to/8tat7f2svlf5",
+                "4": "https://streamhub.to/peixgs5g6aha",
+                "5": "https://streamhub.to/jctps15s76ob",
+                "6":"https://streamhub.to/j25g4k603qs4",
+                "7":"https://streamhub.to/jc6jotopsykq",
+                "8":"https://streamhub.to/fs1wgmklzpzo",
+                "9":"https://streamhub.to/1c1pv2maqnge"
+            }
+        },
+        {
             "id": "829",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/25y2RpdW/Andor-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/Fz7PjMzm/Andor-2022.png",
             "movieName": "Star Wars Andor Season 1",
-            "htmlFile": "https://www.18108",
+            "htmlFile": "https://www.18829",
             "directOne": "FALSE",
             "directSecond": "cKOegEuCcfw",
             "imbd": "7.2",
@@ -32803,12 +32811,18 @@
             "EpisodeTape": {
                 "1": "https://streamtape.to/v/D4aaJ1QlPGukrDd/Star.Wars.Andor.S01E01.mkv.mp4",
                 "2": "https://streamtape.to/v/PWlwOZxz7xc0qX9/Star.Wars.Andor.S01E02.mkv.mp4",
-                "3": "https://streamtape.to/v/aGPVAXoQp0Hxr1V/Star.Wars.Andor.S01E03.mkv.mp4"
+                "3": "https://streamtape.to/v/aGPVAXoQp0Hxr1V/Star.Wars.Andor.S01E03.mkv.mp4",
+                "4":"https://streamtape.to/v/8O7wMMoyJmtodW3/Andor.S01E04.Aldhani.mkv.mp4",
+                "5":"https://streamtape.to/v/DZAzp6AQV7HkKZ3/Star.Wars.-.Andor.S01E05.mkv.mp4",
+                "6":"https://streamtape.to/v/0eppKRMLmeCb3a9/Star.Wars.Andor.S01E06.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/3hmrxyisc1qu",
                 "2": "https://streamhub.to/4k862kc18d58",
-                "3": "https://streamhub.to/lbzbdt4n9lod"
+                "3": "https://streamhub.to/lbzbdt4n9lod",
+                "4":"https://streamhub.to/k5ueyl56erex",
+                "5":"https://streamhub.to/wwy716z9ffe0",
+                "6":"https://streamhub.to/c4a71bpdfv3h"
             }
         },
         {
@@ -32817,7 +32831,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/YSHNWMRp/Karm-Yudh-Season-1-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/BbBfJqmX/Karm-Yudh-Season-1-2022.jpg",
             "movieName": "Karm Yudh Season 1",
-            "htmlFile": "https://www.1810830",
+            "htmlFile": "https://www.18830",
             "directOne": "FALSE",
             "directSecond": "nu5hK2BNYLI",
             "imbd": "7.2",
@@ -32889,7 +32903,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/PJXCt1RB/Good-Bad-Girl-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/9MrW11sX/Good-Bad-Girl-2022.jpg",
             "movieName": "Good Bad Girl Season 1",
-            "htmlFile": "https://www.1810831",
+            "htmlFile": "https://www.18831",
             "directOne": "FALSE",
             "directSecond": "BpZ1uSS04wo",
             "imbd": "7.2",
@@ -32931,7 +32945,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/8Pbht3bB/The-Legend-of-Hanuman-2-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/QCQpLnZD/The-Legend-of-Hanuman2-250-1639662481.jpg",
             "movieName": "The Legend of Hanuman Season 2",
-            "htmlFile": "https://www.1810832",
+            "htmlFile": "https://www.18832",
             "directOne": "FALSE",
             "directSecond": "9E6U-n3vR2k",
             "imbd": "7.2",
@@ -32981,7 +32995,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/x1drxwLK/Aranyak-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/kGd3TDy4/Aranyak-2022.jpg",
             "movieName": "Aranyak Season 1",
-            "htmlFile": "https://www.1810833",
+            "htmlFile": "https://www.18833",
             "directOne": "FALSE",
             "directSecond": "kbp04AS5VB0",
             "imbd": "7.2",
@@ -33021,7 +33035,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/yxZDhLj1/mismatched-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/QMzcZ46D/mismatched-2022.jpg",
             "movieName": "Mismatched Season 2",
-            "htmlFile": "https://www.18034",
+            "htmlFile": "https://www.18834",
             "directOne": "FALSE",
             "directSecond": "vIZWLvcMS9c",
             "imbd": "7.6",
@@ -33047,7 +33061,7 @@
             "ImageUrlHorizontal": "https://i.postimg.cc/8CBkGjkb/Tu-Zakhm-Hai-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/Wz41XTvw/Tu-Zakhm-Hai-2022.jpg",
             "movieName": "Tu Zakhm Hai Season 1",
-            "htmlFile": "https://www.18035",
+            "htmlFile": "https://www.18835",
             "directOne": "FALSE",
             "directSecond": "hccH_97u2RU",
             "imbd": "7.6",
@@ -33067,6 +33081,44 @@
             "EpisodeHub": {
                 "1": "https://streamhub.to/ztgyppfqtz7s",
                 "2":"https://streamhub.to/a5nmztat2gfn"
+            }
+        },
+        {
+            "id": "836",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/C113yVjx/the-watcher-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/26r5n3RX/the-watcher-2022.jpg",
+            "movieName": "The Watcher Season 1",
+            "htmlFile": "https://www.18836",
+            "directOne": "FALSE",
+            "directSecond": "HLvJVEK26ms",
+            "imbd": "7.6",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Watcher",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Shiksha%20Mandal%20Season%201.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Shiksha%20Mandal%20Season%2010.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/X2lVbogKgecg09/The.Watcher.S01E01.Welcome.Friends.mkv.mp4",
+                "2": "https://streamtape.to/v/XjQKmXoe1DSZxZ/The.Watcher.S01E02.Blood.Sacrifice.mkv.mp4",
+                "3": "https://streamtape.to/v/qWj9ardK6eIKxK/The.Watcher.S01E03.Gotterdammerung.mkv.mp4",
+                "4": "https://streamtape.to/v/q9rLWpOQqdczPlW/The.Watcher.S01E04.Someone.To.Watch.Over.Me.mkv.mp4",
+                "5": "https://streamtape.to/v/m1J79gA31aibY6d/The.Watcher.S01E05.Occams.Razor.mkv.mp4",
+                "6": "https://streamtape.to/v/zlOqpqJj6VUYDob/The.Watcher.S01E06.The.Gloaming.mkv.mp4",
+                "7": "https://streamtape.to/v/BJGpbjmqm6tyxP9/The.Watcher.S01E07.Haunting.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/6nizefobnqpq",
+                "2": "https://streamhub.to/lihw9sz3qh6o",
+                "3": "https://streamhub.to/1kzwdtb8s3bt",
+                "4": "https://streamhub.to/7ucb9gd9wmy9",
+                "5": "https://streamhub.to/9qwm9xhpshqq",
+                "6": "https://streamhub.to/uvrb4znuptub",
+                "7": "https://streamhub.to/172peqy30du0"
             }
         }
     ]
