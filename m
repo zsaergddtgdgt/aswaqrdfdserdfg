@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2645",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sgwny7Fd/Black-Adam-2022.png",
+            "ImageUrlVertical": "https://i.postimg.cc/J0v6wWSy/Black-Adam-2022.jpg",
+            "movieName": "Black Adam (2022)",
+            "htmlFile": "https://www.12645",
+            "directOne": "Hindi",
+            "directSecond": "MY81VO-mSyw",
+            "imbd": "7.0",
+            "rating": "HDCamRip",
+            "catergory": "Action",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/ps8yysm76636",
+            "tape": "https://streamtape.xyz/v/MoAkym8gQwumjYK/Black.Adam.2022.12645.mkv.mp4"
+        },
     {
             "id": "2644",
             "activity": "1",
