@@ -1,6 +1,5 @@
 {
     "AllMovieDataList": [
-    
         {
             "id": "2645",
             "activity": "1",
@@ -23,7 +22,7 @@
             "hub": "https://streamhub.to/ps8yysm76636",
             "tape": "https://streamtape.xyz/v/MoAkym8gQwumjYK/Black.Adam.2022.12645.mkv.mp4"
         },
-    {
+        {
             "id": "2644",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/cCP0QgZP/Ammu-2022.jpg",
@@ -45,7 +44,29 @@
             "hub": "https://streamhub.to/wknplezx5wqr",
             "tape": "https://streamtape.xyz/v/zDV0PQkrXGsyAD/Ammu_%282022%29_12644.mkv"
         },
-       {
+        {
+            "id": "2647",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/nzF3w94r/Atithi-Devobhava-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/s2vXPw8g/Atithi-Devobhava-2022.jpg",
+            "movieName": "Atithi Devobhava (2022)",
+            "htmlFile": "https://www.12647",
+            "directOne": "Hindi-Telugu",
+            "directSecond": "vr-asxvAyV8",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Drama/Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/oktqvew3pf1w",
+            "tape": "https://streamtape.xyz/v/glvZAKx317Hq8AL/Atithi_Devo_Bhava_%282022%29_12647.mkv.mp4"
+        },
+        {
             "id": "2632",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Nfb5fcmM/Doctor-2022.jpg",
@@ -66,6 +87,28 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/4fd0pamvhajz",
             "tape": "https://streamtape.to/v/GKQRKPZ068H1JvR/Doctor_%282022%29_12632.mkv.mp4"
+        },
+        {
+            "id": "2646",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/jjdqxZKh/The-Infernal-Machine-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/DfWZ4jGj/The-Infernal-Machine-2022.jpg",
+            "movieName": "The Infernal Machine (2022)",
+            "htmlFile": "https://www.12646",
+            "directOne": "Hindi-English",
+            "directSecond": "q0vrecpxXZU",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Mystery",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/5bpna43bui0f",
+            "tape": "https://streamtape.xyz/v/LYGYqkRXmXCR2Y6/The.Infernal.Machine.2022_12646.mkv.mp4"
         },
         {
             "id": "2643",
