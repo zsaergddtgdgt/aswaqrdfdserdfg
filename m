@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    {
+            "id": "2650",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/kgvMzBcB/Ginna-Bhai-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/8c7VCCMB/Ginna-Bhai-2022.jpg",
+            "movieName": "Ginna Bhai (2022)",
+            "htmlFile": "https://www.12650",
+            "directOne": "Hindi",
+            "directSecond": "QXDK0lsC3tg",
+            "imbd": "8.1",
+            "rating": "HDCamRip",
+            "catergory": "Drama,Thriller",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/pnb8u9639e2s",
+            "tape": "https://streamtape.to/v/mP8b4vKbXvfb8O8/Ginna.2022._12650.mkv.mp4"
+        },
      {
             "id": "2648",
             "activity": "1",
@@ -21,6 +43,28 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/7r89rvqsjuyu",
             "tape": "https://streamtape.to/v/WZ1mbQYB38Ib2KZ/Bimbisara_%282022%29_12648.mkv.mp4"
+        },
+        {
+            "id": "510",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/yNGGw2x7/h8kd2ktu7ynbvmr6g.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/L81CpjJ7/waclrs69wf4cari6g.jpg",
+            "movieName": "Drishyam 2 (2021)",
+            "htmlFile": "https://www.13240",
+            "directOne": "Hindi [FanDubbed]",
+            "directSecond": "0f-nd1uGsjQ",
+            "imbd": "7.2",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "FALSE",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/16e6/h8kd2ktu7ynbvmr6g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/a5cd/waclrs69wf4cari6g.jpg",
+            "hub": "https://streamhub.to/napy2wpoex7y",
+            "tape": "https://streamtape.to/v/Xbxg06Kz8XiDJJ3/Drishyam.2.2021_13240.mkv.mp4"
         },
         {
             "id": "2645",
