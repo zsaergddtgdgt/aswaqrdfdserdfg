@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+     {
+            "id": "2648",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/k47dMr8X/Bimbisara-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/LsfWZyRY/Bimbisara-2022.jpg",
+            "movieName": "Bimbisara (2022)",
+            "htmlFile": "https://www.12648",
+            "directOne": "Hindi",
+            "directSecond": "gpb2H-WWfBE",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/7r89rvqsjuyu",
+            "tape": "https://streamtape.to/v/WZ1mbQYB38Ib2KZ/Bimbisara_%282022%29_12648.mkv.mp4"
+        },
         {
             "id": "2645",
             "activity": "1",
@@ -19,8 +41,30 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
-            "hub": "https://streamhub.to/ps8yysm76636",
-            "tape": "https://streamtape.xyz/v/MoAkym8gQwumjYK/Black.Adam.2022.12645.mkv.mp4"
+            "hub": "https://streamhub.to/bfqr0zl38cjx",
+            "tape": "https://streamtape.to/v/ygvML90Kk6i197b/Black.Adam.2022.12645.mkv.mp4"
+        },
+        {
+            "id": "4",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/tTmZ12xg/Liger-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/15ny01js/Liger-2022.jpg",
+            "movieName": "Liger (2022)",
+            "htmlFile": "https://www.17931",
+            "directOne": "Hindi",
+            "directSecond": "TgcruVx0dNM",
+            "imbd": "8.6",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/vi9b59zo2sgi",
+            "tape": "https://streamtape.to/v/PbGRrj4x6WU0wDJ/Liger_%282022%29_17931.mkv.mp4"
         },
         {
             "id": "2644",
@@ -42,7 +86,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/wknplezx5wqr",
-            "tape": "https://streamtape.xyz/v/zDV0PQkrXGsyAD/Ammu_%282022%29_12644.mkv"
+            "tape": "https://streamtape.to/v/zDV0PQkrXGsyAD/Ammu_%282022%29_12644.mkv"
         },
         {
             "id": "2647",
@@ -64,7 +108,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/oktqvew3pf1w",
-            "tape": "https://streamtape.xyz/v/glvZAKx317Hq8AL/Atithi_Devo_Bhava_%282022%29_12647.mkv.mp4"
+            "tape": "https://streamtape.to/v/glvZAKx317Hq8AL/Atithi_Devo_Bhava_%282022%29_12647.mkv.mp4"
         },
         {
             "id": "2632",
@@ -108,7 +152,29 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
             "hub": "https://streamhub.to/5bpna43bui0f",
-            "tape": "https://streamtape.xyz/v/LYGYqkRXmXCR2Y6/The.Infernal.Machine.2022_12646.mkv.mp4"
+            "tape": "https://streamtape.to/v/LYGYqkRXmXCR2Y6/The.Infernal.Machine.2022_12646.mkv.mp4"
+        },
+        {
+            "id": "2649",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/MHQ4yxCS/Argentina-1985-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Dw9TDjc5/Argentina-1985-2022.jpg",
+            "movieName": "Argentina, 1985 (2022)",
+            "htmlFile": "https://www.12649",
+            "directOne": "Hindi-English",
+            "directSecond": "a4iiyPOM6rA",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Crime,Drama",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/ld0oy8bt346e",
+            "tape": "https://streamtape.to/v/78lMk01O7JFAgyg/Argentina.1985.2022_12649.mkv.mp4"
         },
         {
             "id": "2643",
@@ -152,7 +218,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/q38bwx7g5pdr",
-            "tape": "https://streamtape.xyz/v/6p2wdP42qvF4w4/Kantara_%282022%29_12630.mkv.mp4"
+            "tape": "https://streamtape.to/v/6p2wdP42qvF4w4/Kantara_%282022%29_12630.mkv.mp4"
         },
         {
             "id": "2642",
@@ -218,7 +284,7 @@
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "hub": "https://streamhub.to/zz4mky61rgnw",
-            "tape": "https://streamtape.xyz/v/mkKX9w6jXvfkLV/Tiranga_%282022%29_12631.mkv.mp4"
+            "tape": "https://streamtape.to/v/mkKX9w6jXvfkLV/Tiranga_%282022%29_12631.mkv.mp4"
         },
         {
             "id": "2637",
@@ -284,7 +350,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/gtlk9whfzn9k",
-            "tape": "https://streamtape.xyz/v/1WGB0Q86dRIy26/Diary_%282022%29_12633.mkv.mp4"
+            "tape": "https://streamtape.to/v/1WGB0Q86dRIy26/Diary_%282022%29_12633.mkv.mp4"
         },
         {
             "id": "2636",
@@ -328,7 +394,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
             "hub": "https://streamhub.to/4t9ttdufrig7",
-            "tape": "https://streamtape.xyz/v/BO4bmDGKZafyJRX/Official.Competition.2022_12635.mkv.mp4"
+            "tape": "https://streamtape.to/v/BO4bmDGKZafyJRX/Official.Competition.2022_12635.mkv.mp4"
         },
         {
             "id": "2634",
@@ -1297,28 +1363,6 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/a6nd7uysjqh1",
             "tape": "https://streamtape.to/v/ayzDv2o9rrud77/Tees_Maar_Khan_%282022%29_12597.mkv"
-        },
-        {
-            "id": "4",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/tTmZ12xg/Liger-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/15ny01js/Liger-2022.jpg",
-            "movieName": "Liger (2022)",
-            "htmlFile": "https://www.17931",
-            "directOne": "Hindi",
-            "directSecond": "TgcruVx0dNM",
-            "imbd": "8.6",
-            "rating": "HD 720p",
-            "catergory": "Action",
-            "Industry": "South",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
-            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
-            "hub": "https://streamhub.to/7doxqcwf9dwj",
-            "tape": "https://streamtape.to/v/l2ykDlJAdjh77bX/Liger_%282022%29_17931.mkv.mp4"
         },
         {
             "id": "2575",
