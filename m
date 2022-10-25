@@ -2,6 +2,28 @@
     "AllMovieDataList": [
     
         {
+            "id": "2657",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/7PWbdGYT/Ram-Setu-2022.webp",
+            "ImageUrlVertical": "https://i.postimg.cc/KjzFQNgs/Ram-Setu.jpg",
+            "movieName": "Ram Setu (2022)",
+            "htmlFile": "https://www.12657",
+            "directOne": "Hindi",
+            "directSecond": "VgGgYOzNWno",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Action,Adventure",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/1f6f9mw29amw",
+            "tape": "https://streamtape.to/v/G6yqawQ9Qpu1DO6/Ram_Setu_%282022%29_12657.to.mkv"
+        },
+        {
             "id": "2655",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/HxZ64k5p/The-Extraordinary-Journey-of-the-Fakir-2018.jpg",
