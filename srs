@@ -33248,6 +33248,34 @@
             "1":"https://streamhub.to/ga1kxnv5deiu",
             "2":"https://streamhub.to/0xyw3kkxy8qx"
             }
+        },
+        {
+            "id": "840",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/gc4JmRj2/Guillermo-Del-Toro-s-Cabinet-of-Curiosities-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/cLLfd00V/Guillermo-Del-Toro-s-Cabinet-of-Curiosities-Season-1.jpg",
+            "movieName": "Guillermo Del Toro’s Cabinet of Curiosities Season 1",
+            "htmlFile": "https://www.18840",
+            "directOne": "Drama,Horror,Mystery",
+            "directSecond": "E3E1URhCR60",
+            "imbd": "5.5",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "Guillermo Del Toro’s Cabinet of Curiosities",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+            "1":"https://streamtape.to/v/jWLd2jrA8Xizk2M/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E01_18840_1.mkv.mp4",
+            "2":"https://streamtape.to/v/qOZRAd1pmAfzGqd/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E02_18840_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+            "1":"https://streamhub.to/hmg23ebhgli8",
+            "2":"https://streamhub.to/nsaajzx3a2uh"
+            }
         }
     ]
 }
