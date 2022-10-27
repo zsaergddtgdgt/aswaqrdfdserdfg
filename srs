@@ -33276,6 +33276,32 @@
             "1":"https://streamhub.to/hmg23ebhgli8",
             "2":"https://streamhub.to/nsaajzx3a2uh"
             }
+        },
+        {
+            "id": "841",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/PfYNh9PB/Jhansi-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/zD0Swykz/Jhansi-Season-1.jpg",
+            "movieName": "Jhansi Season 1",
+            "htmlFile": "https://www.18841",
+            "directOne": "Action",
+            "directSecond": "izKCGpZJFVY",
+            "imbd": "5.5",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "Jhansi",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+            "1":"https://streamtape.to/v/6qGyJjbB1Oh9yxy/Jhansi_%282022%29_Hindi_Season_1_18841_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+            "1":"https://streamhub.to/7j6jqw5pucyi"
+            }
         }
     ]
 }
