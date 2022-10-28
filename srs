@@ -33314,6 +33314,40 @@
             "EpisodeHub": {
             "1":"https://streamhub.to/7j6jqw5pucyi"
             }
+        },
+        {
+            "id": "842",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/P5s92s5r/Flames-Season-3.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/vHqwzS64/Flames-Season-3.jpg",
+            "movieName": "Flames Season 3",
+            "htmlFile": "https://www.18842",
+            "directOne": "Romance,Drama,Comedy",
+            "directSecond": "NkdCgjqQq7s",
+            "imbd": "5.5",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "Flames",
+            "pathName": "S3",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/wYodaxp8D2IeW0/Flames.S03E01_18842_1.mkv",
+                "2": "https://streamtape.to/v/JyA8qvV1wDCJm9/Flames.S03E02_18842_2.mkv.mp4",
+                "3": "https://streamtape.to/v/9bPrADGgP0uBqa/Flames_S03_E03_18842_3.mkv.mp4",
+                "4": "https://streamtape.to/v/VyjdD1y3wVhzW1/Flames.S03E04_18842_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Lyr49PddPLCWv4/Flames.S03E05_18842_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/yicezlw3mxzt",
+                "2": "https://streamhub.to/va3f0kgo0kfw",
+                "3": "https://streamhub.to/cyi7paqqwd71",
+                "4": "https://streamhub.to/uks2wwat6go0",
+                "5": "https://streamhub.to/8tkh74488cce"
+            }
         }
     ]
 }
