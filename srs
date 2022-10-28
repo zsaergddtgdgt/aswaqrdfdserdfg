@@ -33316,6 +33316,74 @@
             }
         },
         {
+            "id": "844",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/hGTWqFX4/Flames-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/4dpJw765/Flames-Season-1.jpg",
+            "movieName": "Flames Season 1",
+            "htmlFile": "https://www.18844",
+            "directOne": "Romance,Drama,Comedy",
+            "directSecond": "RDjsxfTZF2o",
+            "imbd": "5.5",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "Flames",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/KJZqGzjdXbu0d3B/Flames_S01E01_18844_1.mkv.mp4",
+                "2": "https://streamtape.to/v/eAYVvY3K11SYram/Flames_S01E02_18844_2.mkv.mp4",
+                "3": "https://streamtape.to/v/yVAQQ4PgQdu1Zyg/Flames_S01E03_18844_3.mkv.mp4",
+                "4": "https://streamtape.to/v/QW4eOAlLAwu0oKX/Flames_S01E04_18844_4.mkv.mp4",
+                "5": "https://streamtape.to/v/myRVj1jvzWIbKLr/Flames_S01E05_18844_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/pmo8fv4354an",
+                "2": "https://streamhub.to/6xswg386l25k",
+                "3": "https://streamhub.to/kpnk5bay6jii",
+                "4": "https://streamhub.to/vlu21d2di1i0",
+                "5": "https://streamhub.to/sg0qmehsi4gx"
+            }
+        },
+        {
+            "id": "843",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/rsfFtd2w/Flames-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/fbStnvnj/Flames-Season-2.jpg",
+            "movieName": "Flames Season 2",
+            "htmlFile": "https://www.18843",
+            "directOne": "Romance,Drama,Comedy",
+            "directSecond": "ouyrvRJ6-3M",
+            "imbd": "5.5",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "Flames",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/R47R9a2wVdTd4ve/Flames_S02E01_18843_1.mkv.mp4",
+                "2": "https://streamtape.to/v/BjXBkAA4ogsyxQQ/Flames_S02E02_18843_2.mkv.mp4",
+                "3": "https://streamtape.to/v/l4X4jpee7Bi7KdV/Flames_S02E03_18843_3.mkv.mp4",
+                "4": "https://streamtape.to/v/rJA9Y9Kz3gSbzab/Flames_S02E04_18843_4.mkv.mp4",
+                "5": "https://streamtape.to/v/vwJmD8gyvji4e6Z/Flames_S02E05_18843_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/9nymfm7qrcxr",
+                "2": "https://streamhub.to/wcpa0bxq3gt6",
+                "3": "https://streamhub.to/kdwvycuzg5rp",
+                "4": "https://streamhub.to/0smiv4v675gz",
+                "5": "https://streamhub.to/bbaiyvhlnqy3"
+            }
+        },
+        {
             "id": "842",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/P5s92s5r/Flames-Season-3.jpg",
