@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2672",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/KjRGGRmW/Bheemla-Nayak-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/fbckptbj/Bheemla-Nayak-2022.jpg",
+            "movieName": "Bheemla Nayak (2022)",
+            "htmlFile": "https://www.12672",
+            "directOne": "Hindi",
+            "directSecond": "s-TDl55JW44",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Action,Thriller",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/naefdxa85x0x",
+            "tape": "https://streamtape.to/v/GGDlA4MavDFA6V/Bheemla_Nayak_%282022%29_12672.mkv"
+        },
         {
             "id": "2671",
             "activity": "1",
