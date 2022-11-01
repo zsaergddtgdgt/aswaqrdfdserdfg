@@ -33474,6 +33474,42 @@
                 "2": "https://streamhub.to/zx5o3gtgpuhe",
                 "3": "https://streamhub.to/lq7xphw849w6"
             }
+        },
+        {
+            "id": "847",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/28vMQjMN/The-Devil-s-Hour-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/8cfBV5Mp/The-Devil-s-Hour-Season-1.jpg",
+            "movieName": "The Devil’s Hour Season 1",
+            "htmlFile": "https://www.18847",
+            "directOne": "Drama,Thriller",
+            "directSecond": "QS1tojGz93U",
+            "imbd": "6.8",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Devil’s Hour",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/D9KMWgoAZyhGzQ/The.Devils.Hour.S01E01_18847_1.mkv.mp4",
+                "2": "https://streamtape.to/v/W1LqKkKge1IbOOx/The.Devils.Hour.S01E02_18847_2.mkv.mp4",
+                "3": "https://streamtape.to/v/1BreBYxbpJCe413/The.Devils.Hour.S01E03_18847_3.mkv.mp4",
+                "4":"https://streamtape.to/v/41vwx24G33tK3zz/The.Devils.Hour.S01E04_18847_4.mkv.mp4",
+                "5":"https://streamtape.to/v/vDmW2plVWVi4y0q/The.Devils.Hour.S01E05_18847_5.mkv",
+                "6":"https://streamtape.to/v/7mey2JYo91TR39/The.Devils.Hour.S01E06_18847_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/r0uvpzx5jf6a",
+                "2": "https://streamhub.to/9vlxw4zjovxu",
+                "3": "https://streamhub.to/yypzbd52k7dj",
+                "4":"https://streamhub.to/8v91z7owd2mx",
+                "5":"https://streamhub.to/dtm8jel6adce",
+                "6":"https://streamhub.to/js8lubsiyfb3"
+            }
         }
     ]
 }
