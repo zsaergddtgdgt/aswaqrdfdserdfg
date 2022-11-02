@@ -32836,46 +32836,6 @@
             }
         },
         {
-            "id": "829",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/25y2RpdW/Andor-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/Fz7PjMzm/Andor-2022.png",
-            "movieName": "Star Wars Andor Season 1",
-            "htmlFile": "https://www.18829",
-            "directOne": "FALSE",
-            "directSecond": "cKOegEuCcfw",
-            "imbd": "7.2",
-            "rating": "Dual",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Star Wars Andor",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Star%20Wars%20Andor%20Season%201.jpg",
-            "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Star%20Wars%20Andor%20Season%201.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/D4aaJ1QlPGukrDd/Star.Wars.Andor.S01E01.mkv.mp4",
-                "2": "https://streamtape.to/v/PWlwOZxz7xc0qX9/Star.Wars.Andor.S01E02.mkv.mp4",
-                "3": "https://streamtape.to/v/aGPVAXoQp0Hxr1V/Star.Wars.Andor.S01E03.mkv.mp4",
-                "4": "https://streamtape.to/v/8O7wMMoyJmtodW3/Andor.S01E04.Aldhani.mkv.mp4",
-                "5": "https://streamtape.to/v/DZAzp6AQV7HkKZ3/Star.Wars.-.Andor.S01E05.mkv.mp4",
-                "6": "https://streamtape.to/v/0eppKRMLmeCb3a9/Star.Wars.Andor.S01E06.mkv.mp4",
-                "7": "https://streamtape.to/v/JyPYRQ2ll4cj3xM/Star.Wars.-.Andor.S01E07_18829_7.mkv.mp4",
-                "8": "https://streamtape.to/v/1zwpeJ2qQpte2X0/Andor.S01E08_18829_8.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/3hmrxyisc1qu",
-                "2": "https://streamhub.to/4k862kc18d58",
-                "3": "https://streamhub.to/lbzbdt4n9lod",
-                "4": "https://streamhub.to/k5ueyl56erex",
-                "5": "https://streamhub.to/wwy716z9ffe0",
-                "6": "https://streamhub.to/c4a71bpdfv3h",
-                "7": "https://streamhub.to/ibrl7thplyhx",
-                "8": "https://streamhub.to/zel9z2fl1f44"
-            }
-        },
-        {
             "id": "830",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/YSHNWMRp/Karm-Yudh-Season-1-2022.jpg",
@@ -33256,42 +33216,6 @@
             }
         },
         {
-            "id": "840",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/gc4JmRj2/Guillermo-Del-Toro-s-Cabinet-of-Curiosities-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/cLLfd00V/Guillermo-Del-Toro-s-Cabinet-of-Curiosities-Season-1.jpg",
-            "movieName": "Guillermo Del Toro’s Cabinet of Curiosities Season 1",
-            "htmlFile": "https://www.18840",
-            "directOne": "Drama,Horror,Mystery",
-            "directSecond": "E3E1URhCR60",
-            "imbd": "5.5",
-            "rating": "Hindi-English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "A",
-            "keyName": "Guillermo Del Toro’s Cabinet of Curiosities",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
-            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/jWLd2jrA8Xizk2M/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E01_18840_1.mkv.mp4",
-                "2": "https://streamtape.to/v/qOZRAd1pmAfzGqd/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E02_18840_2.mkv.mp4",
-                "3": "https://streamtape.to/v/XbWAp6Bl8phPK3/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E03_18440_3.mkv.mp4",
-                "4": "https://streamtape.to/v/qjY60zwbwrFYb8/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E04_18440_4.mkv.mp4",
-                "5": "https://streamtape.to/v/Y6QMy9azwWSvVz2/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E05_18440_5.mkv.mp4",
-                "6": "https://streamtape.to/v/46eRG7kxg0iywX/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E06_18440_6.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/hmg23ebhgli8",
-                "2": "https://streamhub.to/nsaajzx3a2uh",
-                "3": "https://streamhub.to/gy2j78n8bf0c",
-                "4": "https://streamhub.to/yasl9kcns9mg",
-                "5": "https://streamhub.to/irom3he636so",
-                "6": "https://streamhub.to/j3ks21l7nbkb"
-            }
-        },
-        {
             "id": "841",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/PfYNh9PB/Jhansi-Season-1.jpg",
@@ -33476,6 +33400,46 @@
             }
         },
         {
+            "id": "840",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/gc4JmRj2/Guillermo-Del-Toro-s-Cabinet-of-Curiosities-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/cLLfd00V/Guillermo-Del-Toro-s-Cabinet-of-Curiosities-Season-1.jpg",
+            "movieName": "Guillermo Del Toro’s Cabinet of Curiosities Season 1",
+            "htmlFile": "https://www.18840",
+            "directOne": "Drama,Horror,Mystery",
+            "directSecond": "E3E1URhCR60",
+            "imbd": "5.5",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "Guillermo Del Toro’s Cabinet of Curiosities",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/jWLd2jrA8Xizk2M/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E01_18840_1.mkv.mp4",
+                "2": "https://streamtape.to/v/qOZRAd1pmAfzGqd/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E02_18840_2.mkv.mp4",
+                "3": "https://streamtape.to/v/XbWAp6Bl8phPK3/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E03_18440_3.mkv.mp4",
+                "4": "https://streamtape.to/v/qjY60zwbwrFYb8/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E04_18440_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Y6QMy9azwWSvVz2/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E05_18440_5.mkv.mp4",
+                "6": "https://streamtape.to/v/46eRG7kxg0iywX/Guillermo_del_Toros_Cabinet_of_Curiosities_S01E06_18440_6.mkv.mp4",
+                "7":"https://streamtape.to/v/lkXgqyOdR7h7GPx/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E07_18840_7.mkv.mp4",
+                "8":"https://streamtape.to/v/e24LvRZWDWhwjB/Guillermo.del.Toros.Cabinet.of.Curiosities.S01E08_18840_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/hmg23ebhgli8",
+                "2": "https://streamhub.to/nsaajzx3a2uh",
+                "3": "https://streamhub.to/gy2j78n8bf0c",
+                "4": "https://streamhub.to/yasl9kcns9mg",
+                "5": "https://streamhub.to/irom3he636so",
+                "6": "https://streamhub.to/j3ks21l7nbkb",
+                "7":"https://streamhub.to/tn2o34o0x2xa",
+                "8":"https://streamhub.to/wqu12i2r3mt2"
+            }
+        },
+        {
             "id": "847",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/28vMQjMN/The-Devil-s-Hour-Season-1.jpg",
@@ -33509,6 +33473,48 @@
                 "4":"https://streamhub.to/8v91z7owd2mx",
                 "5":"https://streamhub.to/dtm8jel6adce",
                 "6":"https://streamhub.to/js8lubsiyfb3"
+            }
+        },
+        {
+            "id": "829",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/25y2RpdW/Andor-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Fz7PjMzm/Andor-2022.png",
+            "movieName": "Star Wars Andor Season 1",
+            "htmlFile": "https://www.18829",
+            "directOne": "FALSE",
+            "directSecond": "cKOegEuCcfw",
+            "imbd": "7.2",
+            "rating": "Dual",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Star Wars Andor",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Star%20Wars%20Andor%20Season%201.jpg",
+            "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Star%20Wars%20Andor%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/D4aaJ1QlPGukrDd/Star.Wars.Andor.S01E01.mkv.mp4",
+                "2": "https://streamtape.to/v/PWlwOZxz7xc0qX9/Star.Wars.Andor.S01E02.mkv.mp4",
+                "3": "https://streamtape.to/v/aGPVAXoQp0Hxr1V/Star.Wars.Andor.S01E03.mkv.mp4",
+                "4": "https://streamtape.to/v/8O7wMMoyJmtodW3/Andor.S01E04.Aldhani.mkv.mp4",
+                "5": "https://streamtape.to/v/DZAzp6AQV7HkKZ3/Star.Wars.-.Andor.S01E05.mkv.mp4",
+                "6": "https://streamtape.to/v/0eppKRMLmeCb3a9/Star.Wars.Andor.S01E06.mkv.mp4",
+                "7": "https://streamtape.to/v/JyPYRQ2ll4cj3xM/Star.Wars.-.Andor.S01E07_18829_7.mkv.mp4",
+                "8": "https://streamtape.to/v/1zwpeJ2qQpte2X0/Andor.S01E08_18829_8.mkv.mp4",
+                "9":"https://streamtape.to/v/GkZ4W4ak7AI1e30/Star_Wars_-_Andor_S01E09_18829_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/3hmrxyisc1qu",
+                "2": "https://streamhub.to/4k862kc18d58",
+                "3": "https://streamhub.to/lbzbdt4n9lod",
+                "4": "https://streamhub.to/k5ueyl56erex",
+                "5": "https://streamhub.to/wwy716z9ffe0",
+                "6": "https://streamhub.to/c4a71bpdfv3h",
+                "7": "https://streamhub.to/ibrl7thplyhx",
+                "8": "https://streamhub.to/zel9z2fl1f44",
+                "9":"https://streamhub.to/jw0k6r0ughrd"
             }
         }
     ]
