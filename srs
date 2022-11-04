@@ -33516,6 +33516,46 @@
                 "8": "https://streamhub.to/zel9z2fl1f44",
                 "9":"https://streamhub.to/jw0k6r0ughrd"
             }
+        },
+        {
+            "id": "848",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/VkPvcSyr/Kaiyum-Kalavum-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/QdcBBQgJ/Kaiyum-Kalavum-Season-1.jpg",
+            "movieName": "Kaiyum Kalavum Season 1",
+            "htmlFile": "https://www.18848",
+            "directOne": "Thriller",
+            "directSecond": "ChFVRZQV4nk",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Kaiyum Kalavum",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Rpp1XZO7vBTZXK/Kaiyum.Kalavum.S01E01_18848_1.mkv.mp4",
+                "2": "https://streamtape.to/v/23w1x4bmybHzM2/Kaiyum.Kalavum.S01E02_18848_2.mkv.mp4",
+                "3": "https://streamtape.to/v/zKAzg0z9wztoKA/Kaiyum.Kalavum.S01E03_18848_3.mkv.mp4",
+                "4": "https://streamtape.to/v/l0jdwlovPmC7JpQ/Kaiyum.Kalavum.S01E04_18848_4.mkv.mp4",
+                "5": "https://streamtape.to/v/WGJyOJVxVOIb7pz/Kaiyum.Kalavum.S01E05_18848_5.mkv.mp4",
+                "6": "https://streamtape.to/v/kpzwxXeG8KUeq4/Kaiyum.Kalavum.S01E06_18848_6.mkv.mp4",
+                "7": "https://streamtape.to/v/wD6m3L9dlgSJ7WG/Kaiyum.Kalavum.S01E07_18848_7.mkv.mp4",
+                "8": "https://streamtape.to/v/6pwQl9AWWzi98oM/Kaiyum.Kalavum.S01E08_18848_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/s3o3b9ng096a",
+                "2": "https://streamhub.to/97rqs2v62m5n",
+                "3": "https://streamhub.to/mht9mss5sgxz",
+                "4": "https://streamhub.to/c3kbgfgpa252",
+                "5": "https://streamhub.to/02oymgjxr9hs",
+                "6": "https://streamhub.to/psjeos33m4t2",
+                "7": "https://streamhub.to/ytexrq4kv7sp",
+                "8": "https://streamhub.to/zmfg0po5e06l"
+            }
         }
     ]
 }
