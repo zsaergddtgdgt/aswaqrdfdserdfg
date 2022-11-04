@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "2581",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/5Np7kb3c/Double-XL-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/5NPYRRQK/Double-XL-2022.jpg",
+            "movieName": "Double XL (2022)",
+            "htmlFile": "https://www.12681",
+            "directOne": "Hindi",
+            "directSecond": "cQmQy-Wu72g",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
+            "hub": "https://streamhub.to/o1xxxw9bx7ap",
+            "tape": "https://streamtape.to/v/MxxalGKer3tmV83/Double_XL_%282022%29_12681.mkv.mp4"
+        },
         {
             "id": "2582",
             "activity": "1",
@@ -20,7 +41,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
-            "hub": "https://streamhub.to/15dnlnxi59eo",
+            "hub": "https://streamhub.to/t0raj4gwrxkf",
             "tape": "https://streamtape.to/v/m1qO8lMeJkCbwk4/Brahmastra_Part_One_Shiva_%282022%29_17981.mkv.mp4"
         },
     {
