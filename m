@@ -24,7 +24,7 @@
             "tape": "https://streamtape.to/v/RyzoVVm3OYUd1qa/The_Ghost_%282022%29_12628.mkv.mp4"
         },
     {
-            "id": "2582",
+            "id": "2682",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/vmHV554J/Phone-Bhoot-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/Mp1cCdB2/Phone-Bhoot-2022.jpg",
@@ -46,7 +46,7 @@
             "tape": "https://streamtape.to/v/OX7k6WjVwkFZRP8/Phone_Bhoot_%282022%29_12682.mkv.mp4"
         },
     {
-            "id": "2581",
+            "id": "2681",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/5Np7kb3c/Double-XL-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/5NPYRRQK/Double-XL-2022.jpg",
@@ -110,6 +110,50 @@
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "hub": "https://streamhub.to/9y26qphdoxch",
             "tape": "https://streamtape.to/v/VB3jZA9Og8IKpko/Tadka_%282022%29_12680.mkv.mp4"
+        },
+        {
+            "id": "2684",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/j5WDJysq/Enola-Holmes-2-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/7L984R7j/Enola-Holmes-2-2022.png",
+            "movieName": "Enola Holmes 2 (2022)",
+            "htmlFile": "https://www.12684",
+            "directOne": "Hindi-English",
+            "directSecond": "KKXNmYoPkx0",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Action,Adventure",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/ty5elh87t72r",
+            "tape": "https://streamtape.to/v/a7pGY7ekGxTxYw3/Enola.Holmes.2_%282022%29_12684.mkv"
+        },
+        {
+            "id": "2683",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/8zf7Xh22/Overdose-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/3JJp10Jh/Overdose-2022.jpg",
+            "movieName": "Overdose (2022)",
+            "htmlFile": "https://www.12683",
+            "directOne": "Hindi-English",
+            "directSecond": "0lsWXRFfrZY",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Action,Crime",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/5x2pnuy386an",
+            "tape": "https://streamtape.to/v/2qkkyrRVAQuZ8av/Overdose_%282022%29_12683.mkv.mp4"
         },
         {
             "id": "2661",
