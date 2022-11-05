@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "2685",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/RFgdmwrx/Mili-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/59ZvCsSk/Mili-2022.jpg",
+            "movieName": "Mili (2022)",
+            "htmlFile": "https://www.12685",
+            "directOne": "Hindi",
+            "directSecond": "F9rnpoAwNsE",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Thriller",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
+            "hub": "https://streamhub.to/erbzm1omev6l",
+            "tape": "https://streamtape.to/v/YBOr6AVljjSo4R/Mili_%282022%29_12685.mkv.mp4"
+        },
         {
             "id": "2628",
             "activity": "1",
@@ -88,6 +109,28 @@
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
             "hub": "https://streamhub.to/t0raj4gwrxkf",
             "tape": "https://streamtape.to/v/m1qO8lMeJkCbwk4/Brahmastra_Part_One_Shiva_%282022%29_17981.mkv.mp4"
+        },
+        {
+            "id": "2686",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/PqFSB0BQ/Lyle-Lyle-Crocodile-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/CKv2wRfD/Lyle-Lyle-Crocodile-2022.jpg",
+            "movieName": "Lyle Lyle Crocodile (2022)",
+            "htmlFile": "https://www.12686",
+            "directOne": "Hindi",
+            "directSecond": "qfElkzzpCAk",
+            "imbd": "7.0",
+            "rating": "HDCamRip",
+            "catergory": "Animation,Adventure",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/pa6j5rx3kyuq",
+            "tape": "https://streamtape.to/v/2BO74ZBvzyuZb61/Lyle_lyle_crocodile_%282022%29_12686.mkv.mp4"
         },
     {
             "id": "2680",
