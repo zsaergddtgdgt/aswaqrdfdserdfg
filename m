@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2687",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/4y0z2vhW/Kaduva-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/zfT0LQR8/Kaduva-2022.jpg",
+            "movieName": "Kaduva (2022)",
+            "htmlFile": "https://www.12687",
+            "directOne": "Hindi",
+            "directSecond": "n2G3XDNeu9c",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/h2n4176hvavq",
+            "tape": "https://streamtape.to/v/8qo2qpa9VGuoVzz/Kaduva_%282022%29_12687.mkv.mp4"
+        },
     {
             "id": "2685",
             "activity": "1",
