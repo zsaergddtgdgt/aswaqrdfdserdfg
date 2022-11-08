@@ -1,6 +1,5 @@
 {
     "AllMovieDataList": [
-    
         {
             "id": "52",
             "activity": "1",
@@ -33,7 +32,7 @@
             "directOne": "Hindi",
             "directSecond": "GwYi1TI9_N4",
             "imbd": "8.1",
-            "rating": "HD 720p",
+            "rating": "HDcamRip",
             "catergory": "Romance",
             "Industry": "South",
             "latest": "no",
@@ -89,7 +88,7 @@
             "hub": "https://streamhub.to/lhciyi490q6v",
             "tape": "https://streamtape.to/v/WP2v6vRqYjUbveZ/Stand_Up_Rahul_%282022%29_12689.mkv.mp4"
         },
-    {
+        {
             "id": "2685",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/RFgdmwrx/Mili-2022.jpg",
@@ -133,7 +132,7 @@
             "hub": "https://streamhub.to/63bxvl4nddvw",
             "tape": "https://streamtape.to/v/RyzoVVm3OYUd1qa/The_Ghost_%282022%29_12628.mkv.mp4"
         },
-    {
+        {
             "id": "2682",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/vmHV554J/Phone-Bhoot-2022.jpg",
@@ -155,7 +154,7 @@
             "hub": "https://streamhub.to/k87y4xo7ub0w",
             "tape": "https://streamtape.to/v/OX7k6WjVwkFZRP8/Phone_Bhoot_%282022%29_12682.mkv.mp4"
         },
-    {
+        {
             "id": "2681",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/5Np7kb3c/Double-XL-2022.jpg",
@@ -221,7 +220,7 @@
             "hub": "https://streamhub.to/pa6j5rx3kyuq",
             "tape": "https://streamtape.to/v/2BO74ZBvzyuZb61/Lyle_lyle_crocodile_%282022%29_12686.mkv.mp4"
         },
-    {
+        {
             "id": "2680",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/qR298FF7/Tadka-2022.webp",
@@ -419,7 +418,7 @@
             "hub": "https://streamhub.to/z5ph0bubw0o2",
             "tape": "https://streamtape.to/v/VYaWwmdGLQUK1a1/Gandhada_Gudi_%282022%29_12674.to.mkv"
         },
-     {
+        {
             "id": "2673",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/3wnpv79X/Rowdy-Singh-2022.jpg",
