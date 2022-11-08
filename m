@@ -24,6 +24,28 @@
             "tape": "https://streamtape.to/v/yAvWWxBOMLC1p2J/Godse_%282022%29_17713.mkv.mp4"
         },
         {
+            "id": "2690",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/fRDWWvqD/Banaras-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Wzyp1Ryy/Banaras-2022.jpg",
+            "movieName": "Banaras (2022)",
+            "htmlFile": "https://www.12690",
+            "directOne": "Hindi",
+            "directSecond": "GwYi1TI9_N4",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Romance",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/34xasq4heokn",
+            "tape": "https://streamtape.to/v/dvBXvBk6vmUZpQ/Banaras_%282022%29_12690.mkv.mp4"
+        },
+        {
             "id": "2687",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/4y0z2vhW/Kaduva-2022.jpg",
