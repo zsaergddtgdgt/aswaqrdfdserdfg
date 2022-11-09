@@ -67,6 +67,28 @@
             "tape": "https://streamtape.to/v/8qo2qpa9VGuoVzz/Kaduva_%282022%29_12687.mkv.mp4"
         },
         {
+            "id": "2691",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/QxQXyF96/Oye-Makhna-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/SR5yb9L5/Oye-Makhna-2022.jpg",
+            "movieName": "Oye Makhna (2022)",
+            "htmlFile": "https://www.12691",
+            "directOne": "Punjabi",
+            "directSecond": "AFZbuBmw-KA",
+            "imbd": "8.1",
+            "rating": "HDcamRip",
+            "catergory": "Romance",
+            "Industry": "Punjabi",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/yyvz8evigczb",
+            "tape": "https://streamtape.to/v/L3bRlOZqZ0cRmP2/Oye_Makhna_%282022%29_12691.mkv.mp4"
+        },
+        {
             "id": "2689",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Wzy5ttSv/Stand-Up-Rahul-2022.jpg",
