@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
         {
+            "id": "2692",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/c4JQzZb3/Mike-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/GmVJYNzy/Mike-2022.jpg",
+            "movieName": "Mike (2022)",
+            "htmlFile": "https://www.12692",
+            "directOne": "Hindi [HQ Dubbed]",
+            "directSecond": "gUAxUu9pkcg",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/hrp514a8uhg3",
+            "tape": "https://streamtape.to/v/xyp2OeDmVbcvGR/Mike_%282022%29_12692.mkv.mp4"
+        },
+        {
             "id": "52",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/QCvFmmhd/Godse-2022.jpg",
