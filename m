@@ -54,7 +54,7 @@
             "directOne": "Hindi",
             "directSecond": "1FmqSUwAirA",
             "imbd": "8.1",
-            "rating": "HDCamRip",
+            "rating": "HD 720p",
             "catergory": "Action",
             "Industry": "South",
             "latest": "no",
