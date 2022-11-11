@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2693",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/VNgdcB7B/Monica-O-My-Darling-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/y8JPxWqZ/Monica-O-My-Darling-2022.jpg",
+            "movieName": "Monica, O My Darling (2022)",
+            "htmlFile": "https://www.12693",
+            "directOne": "Hindi",
+            "directSecond": "AQubo_u_jec",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Comedy,Crime,Drama",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/iqphaxh6uor7",
+            "tape": "https://streamtape.to/v/Xr7aKaXJmAHX7q/Monica%2C_O_My_Darling_%282022%29_12693.mkv.mp4"
+        },
         {
             "id": "2614",
             "activity": "1",
