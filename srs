@@ -33598,6 +33598,42 @@
                 "7": "https://streamhub.to/5795j1955oyb",
                 "8": "https://streamhub.to/xjftjkyofr3p"
             }
+        },
+        {
+            "id": "850",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sDLbBqzb/Tanaav-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/qvXXf61Q/Tanaav-Season-1.jpg",
+            "movieName": "Tanaav Season 1",
+            "htmlFile": "https://www.18850",
+            "directOne": "Action,Thriller,Drama",
+            "directSecond": "mElpF6g67FA",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Tanaav",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/MXl8Aa2xwVt6QM/Tanaav_S01E01_18850_1.mkv.mp4",
+                "2": "https://streamtape.to/v/pbqGya722asr2do/Tanaav_S01E02_18850_2.mkv.mp4",
+                "3": "https://streamtape.to/v/GJQM8KDYXgF1eLV/Tanaav_S01E03_18850_3.mkv.mp4",
+                "4": "https://streamtape.to/v/mvDrKYvzA1sbrzR/Tanaav_S01E04_18850_4.mkv.mp4",
+                "5": "https://streamtape.to/v/AXJ24ZX2GJuGjJ/Tanaav_S01E05_18850_5.mkv.mp4",
+                "6": "https://streamtape.to/v/MqdBBZkoZqsmvbe/Tanaav_S01E06_18850_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/5vv2rorytga9",
+                "2": "https://streamhub.to/gknie4z270r6",
+                "3": "https://streamhub.to/gn2ot33varf5",
+                "4": "https://streamhub.to/co9um1w980b6",
+                "5": "https://streamhub.to/35cf883h7rwh",
+                "6": "https://streamhub.to/i1shpinn49et"
+            }
         }
     ]
 }
