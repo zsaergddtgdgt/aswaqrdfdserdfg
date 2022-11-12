@@ -67,6 +67,28 @@
             "tape": "https://streamtape.to/v/Xr7aKaXJmAHX7q/Monica%2C_O_My_Darling_%282022%29_12693.mkv.mp4"
         },
         {
+            "id": "2696",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/Y9qPjzwc/Jeepers-Creepers-Reborn-2022.png",
+            "ImageUrlVertical": "https://i.postimg.cc/TYyZr05f/Jeepers-Creepers-Reborn-2022.jpg",
+            "movieName": "Jeepers Creepers: Reborn (2022)",
+            "htmlFile": "https://www.12696",
+            "directOne": "Hindi+English",
+            "directSecond": "2QWOe4thK_4",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Horror,Thriller",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/2pni4u1c2hrt",
+            "tape": "https://streamtape.to/v/BeR1lz0yZbFyJWy/Jeepers.Creepers.Reborn_%282022%29_12696.mkv.mp4"
+        },
+        {
             "id": "2614",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Kv7w8dVB/Ponniyin-Selvan-Part-One-2022.jpg",
