@@ -9,7 +9,7 @@
             "movieName": "Pakka Commercial (2022)",
             "htmlFile": "https://www.17670",
             "directOne": "Hindi [Original]",
-            "directSecond": "uHpNPdNqYrM",
+            "directSecond": "NPX3Ym_Huu4",
             "imbd": "7.0",
             "rating": "HD 720p",
             "catergory": "Action",
