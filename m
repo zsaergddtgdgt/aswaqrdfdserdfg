@@ -68,6 +68,28 @@
             "tape": "https://streamtape.to/v/ldq7aOxPkpFz17/Sardar_%282022%29_12700.mkv.mp4"
         },
         {
+            "id": "23",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/Dy1H7zHS/Cadaver-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Jzvh9csV/Cadaver-2022.jpg",
+            "movieName": "Cadaver (2022)",
+            "htmlFile": "https://www.17843",
+            "directOne": "Hindi",
+            "directSecond": "foSlB_cTXrI",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Thriller",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Cadaver%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Cadaver%20%282022%29.jpg",
+            "hub": "https://streamhub.to/h110ftwrqa12",
+            "tape": "https://streamtape.to/v/0ekVVOmYy0HbRZ7/Cadaver_%282022%29_17843.mkv.mp4"
+        },
+        {
             "id": "2699",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/DzFhCQPD/Hero-2022.jpg",
@@ -330,6 +352,28 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/34xasq4heokn",
             "tape": "https://streamtape.to/v/dvBXvBk6vmUZpQ/Banaras_%282022%29_12690.mkv.mp4"
+        },
+        {
+            "id": "2701",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/26Xrb1yD/Emergency-Declaration-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/zDx10tCG/Emergency-Declaration-2022.jpg",
+            "movieName": "Emergency Declaration (2022)",
+            "htmlFile": "https://www.12701",
+            "directOne": "Hindi+Korean",
+            "directSecond": "uBcIJRuOpAY",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Action,Drama",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/9bviohleq9ht",
+            "tape": "https://streamtape.to/v/ZywlqbQxKmS7RA/Emergency_Declaration_%282022%29_12701.mkv.mp4"
         },
         {
             "id": "2687",
@@ -2946,7 +2990,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/The%20Roundup%20(2022).jpg",
             "driveImageUrlVertical": "https://leathermed.net/Poster/v1/The%20Roundup%20(2022).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/mgtsgi41kim9",
             "tape": "https://streamtape.to/v/yAz8yrQVobikBK/The_Roundup_%282022%29_18047.mkv.mp4"
         },
         {
@@ -3452,8 +3496,8 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Fullmetal%20Alchemist%20%282017%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Fullmetal%20Alchemist%20%282017%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/nyp4j4e9c75p",
+            "tape": "https://streamtape.to/v/BqPL9PPodzTy4g6/Fullmetal_Alchemist_%282017%29_17909.mkv.mp4"
         },
         {
             "id": "12",
@@ -3474,8 +3518,8 @@
             "pathName": "2",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Fullmetal%20Alchemist%20The%20Revenge%20of%20Scar%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Fullmetal%20Alchemist%20The%20Revenge%20of%20Scar%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/bqaljuozdb7p",
+            "tape": "https://streamtape.to/v/MjRazJk2Pxtm2aW/Fullmetal_Alchemist_The_Revenge_of_Scar_%282022%29_17910.mkv.mp4"
         },
         {
             "id": "14",
@@ -3628,8 +3672,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/No%20Way%20Out%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/No%20Way%20Out%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/yc90lfpnsarn",
+            "tape": "https://streamtape.to/v/Awee3802OyiXLJ6/No_Way_Out_%282022%29_17858.mkv.mp4"
         },
         {
             "id": "21",
@@ -3650,30 +3694,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Phillauri%20%282015%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Phillauri%20%282015%29.jpg",
-            "hub": "",
-            "tape": ""
-        },
-        {
-            "id": "23",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/Dy1H7zHS/Cadaver-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/Jzvh9csV/Cadaver-2022.jpg",
-            "movieName": "Cadaver (2022)",
-            "htmlFile": "https://www.17843",
-            "directOne": "Hindi",
-            "directSecond": "foSlB_cTXrI",
-            "imbd": "7.0",
-            "rating": "HD 720p",
-            "catergory": "Thriller",
-            "Industry": "South",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Cadaver%20%282022%29.jpg",
-            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Cadaver%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/a5vto7rrzkjq",
+            "tape": "https://streamtape.to/v/Zyk2LZKrjBTqlo8/Phillauri_%282015%29_17860.mkv.mp4"
         },
         {
             "id": "24",
@@ -3738,8 +3760,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Gargi%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Gargi%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/ocntjlnfud3h",
+            "tape": "https://streamtape.to/v/BOyqb78x7gumAg/Gargi_%282022%29_17845.mkv.mp4"
         },
         {
             "id": "29",
@@ -3826,8 +3848,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/19%281%29%28a%29%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/19%281%29%28a%29%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/lhi98e06zpaw",
+            "tape": "https://streamtape.to/v/8JmD2ZmmDjtomd3/19%281%29%28a%29_%282022%29_17816.mkv.mp4"
         },
         {
             "id": "35",
@@ -4266,8 +4288,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Zombivli%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Zombivli%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/3pukorf80ecn",
+            "tape": "https://streamtape.to/v/J3pop3DPVls6gZ/Zombivli_%282022%29_17668.mkv.mp4"
         },
         {
             "id": "62",
@@ -4288,8 +4310,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Demonic%20%282021%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Demonic%20%282021%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/yaevxjl74ci8",
+            "tape": "https://streamtape.to/v/4AWLLQ0lvQuKlvK/Demonic_%282021%29_17638.mkv.mp4"
         },
         {
             "id": "63",
@@ -4332,8 +4354,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Natasaarvabhoma%20%282019%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Natasaarvabhoma%20%282019%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/0cyogiqysvd6",
+            "tape": "https://streamtape.to/v/G3b60yD8JQt16AQ/Natasaarvabhoma_%282019%29_17640.mkv.mp4"
         },
         {
             "id": "65",
@@ -4442,8 +4464,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Shareek%20%282015%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Shareek%20%282015%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/39mna28qvx5k",
+            "tape": "https://streamtape.to/v/7BgkyrdoL0TAgpg/Shareek_%282015%29_17623.mkv.mp4"
         },
         {
             "id": "71",
@@ -4574,8 +4596,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/O2%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/O2%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/iayg47840758",
+            "tape": "https://streamtape.to/v/z14VeyembZcY0eR/O2_%282022%29_17576.mkv.mp4"
         },
         {
             "id": "79",
@@ -4618,8 +4640,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Virata%20Parvam%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Virata%20Parvam%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/t52ytg6dg5a0",
+            "tape": "https://streamtape.to/v/0L9pPpdGxyTbp91/Virata_Parvam_%282022%29_17578.mkv.mp4"
         },
         {
             "id": "81",
@@ -4860,7 +4882,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Virgin%20Forest%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Virgin%20Forest%20%282022%29.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/recq5krc1mw0",
             "tape": "https://streamtape.to/v/lPaYo3zo1RC73el/Virgin_Forest_%282022%29_17522.mkv.mp4"
         },
         {
@@ -5212,8 +5234,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Jhalle%20Pai%20Gaye%20Palle%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Jhalle%20Pai%20Gaye%20Palle%20%282022%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/84aw56c7jose",
+            "tape": "https://streamtape.to/v/Mj7qpWm1d4sd0w/Jhalle_Pai_Gaye_Palle_%282022%29_17380.mkv.mp4"
         },
         {
             "id": "108",
@@ -5344,8 +5366,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Ardh%20%282O22%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Ardh%20%282O22%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/ahki01l50ayi",
+            "tape": "https://streamtape.to/v/gPqBV78Py8Iq0VX/Ardh_%282022%29_17360.mkv.mp4"
         },
         {
             "id": "114",
@@ -5960,8 +5982,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Khatta%20Meetha%20%282010%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Khatta%20Meetha%20%282010%29.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/x8cycpvy86zd",
+            "tape": "https://streamtape.to/v/z1RzzvwaerIY0a3/Khatta_Meetha_%282010%29_17117.mkv.mp4"
         },
         {
             "id": "142",
@@ -8032,28 +8054,6 @@
             "tape": "https://streamtape.to/v/W13GbeOgaZu0Yy/Love_And_Leashes_%282022%29_16068.mkv.mp4"
         },
         {
-            "id": "237",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/0N8j7sQV/Teeja-Punjab-2021.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/Y9hk17Jw/Teeja-Punjab-2021.jpg",
-            "movieName": "Teeja Punjab (2021)",
-            "htmlFile": "https://www.16069",
-            "directOne": "Punjabi",
-            "directSecond": "VxXNg5qDmfA",
-            "imbd": "6.8",
-            "rating": "HD 720p",
-            "catergory": "Comedy",
-            "Industry": "Punjabi",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Teeja Punjab (2021).jpg",
-            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Teeja Punjab (2021).jpg",
-            "hub": "https://streamhub.to/h79e0grbxd1v",
-            "tape": ""
-        },
-        {
             "id": "238",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/NF1L1f1P/Uncharted-2022.jpg",
@@ -8424,7 +8424,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Maanaadu (2021).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Maanaadu (2021).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/olihxz2za720",
             "tape": "https://streamtape.to/v/ZPA4DvjRKqIq0dw/Maanaadu_%282021%29_15864.mkv.mp4"
         },
         {
@@ -8468,7 +8468,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Check (2021).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Check (2021).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/uyi2vhlpzpha",
             "tape": "https://streamtape.to/v/mQl98dz7mvhb1jj/Check_%282021%29_15809.mkv.mp4"
         },
         {
@@ -8490,7 +8490,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Dumdaar Khiladi 2 (2022).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Dumdaar Khiladi 2 (2022).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/qhbetva97c7a",
             "tape": "https://streamtape.to/v/rlLJyKQpOGI3aB/Dumdaar_Khiladi_2_%282022%29_15810.mkv.mp4"
         },
         {
@@ -8512,7 +8512,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Harry Potter 20th Anniversary Return to Hogwarts (2022).jpeg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Harry Potter 20th Anniversary Return to Hogwarts (2022).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/hlbf3trhzll4",
             "tape": "https://streamtape.to/v/olQKRxpboQiOPV/Harry_Potter_20th_Anniversary_Return_to_Hogwarts_%282022%29_15761.mkv.mp4"
         },
         {
@@ -8534,7 +8534,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bekhudi (2021).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bekhudi (2021).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/j55slw42b6u0",
             "tape": "https://streamtape.to/v/ywxvmYM4xec1Vll/Bekhudi_%282021%29_15742.mkv.mp4"
         },
         {
