@@ -22,6 +22,29 @@
             "hub": "https://streamhub.to/p6nu2fgo6agn",
             "tape": "https://streamtape.to/v/6kPAawDz0yF903o/Chobbar_%282022%29_12706.mkv.mp4"
         },
+        
+    {
+            "id": "2707",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/bwSGxBjF/Smile-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/X7MtNZYG/Smile-2022.jpg",
+            "movieName": "Smile (2022)",
+            "htmlFile": "https://www.12707",
+            "directOne": "Hindi-English",
+            "directSecond": "BcDK7lkzzsU",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Horror,Mystery",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/ij217z5psfrd",
+            "tape": "https://streamtape.to/v/qj9vowwZjgS16o/Smile_%282022%29_12707.mkv.mp4"
+        },
     {
             "id": "2705",
             "activity": "1",
