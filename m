@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
     
+    {
+            "id": "2705",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/5tcsNhFp/Ori-Devuda-2022.webp",
+            "ImageUrlVertical": "https://i.postimg.cc/brjPxCMR/Ori-Devuda-2022.jpg",
+            "movieName": "Ori Devuda (2022)",
+            "htmlFile": "https://www.112705",
+            "directOne": "Hindi [HQ Dubbed]",
+            "directSecond": "x4-7tqS1h_Q",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Comedy,Romance",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/rcrccyn2hi5d",
+            "tape": "https://streamtape.to/v/a4xVyzmlmDFxXJP/Ori_Devuda_%282022%29_112705.mkv.mp4"
+        },
         {
             "id": "58",
             "activity": "1",
@@ -133,6 +155,28 @@
             "hub": "https://streamhub.to/80cuuwnztfgy",
             "tape": "https://streamtape.to/v/6Q24qK6kBdt42b/Uunchai_%282022%29_12697.mkv.mp4"
         },
+    {
+            "id": "2704",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/MGrSvKqV/Hot-Seat-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/sgsyLNTQ/Hot-Seat-2022.jpg",
+            "movieName": "Hot Seat (2022)",
+            "htmlFile": "https://www.12704",
+            "directOne": "Hindi-English",
+            "directSecond": "-YZwSzh82zU",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Thriller",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/a29otk9jqjcu",
+            "tape": "https://streamtape.to/v/KzbbQyW4VgT0QKB/Hot_Seat_%282022%29_12704.mkv.mp4"
+        },
         {
             "id": "2698",
             "activity": "1",
@@ -198,6 +242,50 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
             "hub": "https://streamhub.to/iqphaxh6uor7",
             "tape": "https://streamtape.to/v/Xr7aKaXJmAHX7q/Monica%2C_O_My_Darling_%282022%29_12693.mkv.mp4"
+        },
+    {
+            "id": "2703",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/vT0w9YdW/Don-t-Leave-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/vTYdc1CY/Don-t-Leave-2022.webp",
+            "movieName": "Don’t Leave (2022)",
+            "htmlFile": "https://www.12703",
+            "directOne": "Hindi-English",
+            "directSecond": "f-LKtOPn8U4",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Drama,Romance",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/jj7sogtoavqm",
+            "tape": "https://streamtape.to/v/y2K1RlObA4F1WmV/Dont_Leave_%282022%29_12703.mkv.mp4"
+        },
+    {
+            "id": "2702",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/g2csJ0f4/Lost-Bullet-2-Back-for-More-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Y0c8qzHm/Lost-Bullet-2-Back-for-More-2022.jpg",
+            "movieName": "Lost Bullet 2: Back for More (2022)",
+            "htmlFile": "https://www.12702",
+            "directOne": "Hindi-English",
+            "directSecond": "_Vw3Nur4YDo",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Action,Crime",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/n7uxkx1m9rof",
+            "tape": "https://streamtape.to/v/Aodrz8XJKkfXyAk/Lost.Bullet_2_%282022%29_12702.mkv.mp4"
         },
         {
             "id": "2696",
@@ -8556,7 +8644,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Ghostbusters Afterlife (2021).jpeg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Ghostbusters%20Afterlife%20%282021%29.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/cui6xrxbje5t",
             "tape": "https://streamtape.to/v/9jMdmB9k7kSaQyA/Ghostbusters_Afterlife_%282021%29_15745.mkv.mp4"
         },
         {
@@ -8578,7 +8666,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Kaun Banegi Shikharwati (2022).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Kaun Banegi Shikharwati (2022).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/drk9ttkiklgi",
             "tape": "https://streamtape.to/v/Rw0KLxM9qefdbMa/Kaun_Banegi_Shikharwati_%282022%29_15752.mkv.mp4"
         },
         {
@@ -8600,7 +8688,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/MotherAndroid (2021).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/MotherAndroid (2021).jpeg",
-            "hub": "",
+            "hub": "https://streamhub.to/9ykspc4e4nv4",
             "tape": "https://streamtape.to/v/dvJ0lwWGV0tkqW4/MotherAndroid_%282021%29_15760.mkv.mp4"
         },
         {
