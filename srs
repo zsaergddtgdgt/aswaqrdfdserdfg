@@ -31396,6 +31396,40 @@
             }
         },
         {
+            "id": "852",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sXCdbmpN/Hostel-Daze-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/FFq115Vt/Hostel-Daze-Season-1.jpg",
+            "movieName": "Hostel Daze Season 1",
+            "htmlFile": "https://www.18852",
+            "directOne": "Comedy,Drama",
+            "directSecond": "6Xdj-Jn9_iI",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Hostel Daze",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/9oQW0309qZFaJbb/hostel.daze_S01EP01_18852_1.mkv.mp4",
+                "2": "https://streamtape.to/v/39XQlQjAdZc2ag/hostel.daze_S01EP02_18852_2.mkv.mp4",
+                "3": "https://streamtape.to/v/J3pxK2XamDFjXZ8/hostel.daze_S01EP03_18852_3.mkv.mp4",
+                "4": "https://streamtape.to/v/DlwzOwq3Y9ikMLz/hostel.daze_S01EP04_18852_4.mkv.mp4",
+                "5": "https://streamtape.to/v/BGpq8p4z98cGoY/hostel.daze_S01EP05_18852_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/y2wod6us6pt3",
+                "2": "https://streamhub.to/poqrxv1caji4",
+                "3": "https://streamhub.to/tcx5pw73igya",
+                "4": "https://streamhub.to/ieomhtbjk2ne",
+                "5": "https://streamhub.to/e3ed8e3ddg46"
+            }
+        },
+        {
             "id": "788",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/fR1XJvs7/Singles-Inferno-Season-1.jpg",
@@ -33675,6 +33709,64 @@
                 "6": "https://streamhub.to/r145zp3w7gad",
                 "7": "https://streamhub.to/anz1x1dbo0r0",
                 "8": "https://streamhub.to/80hukh3ydt9j"
+            }
+        },
+        {
+            "id": "853",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/DZgX5Dcc/Hostel-Daze-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/v8CVhWrk/Hostel-Daze-Season-2.webp",
+            "movieName": "Hostel Daze Season 2",
+            "htmlFile": "https://www.18853",
+            "directOne": "Comedy,Drama",
+            "directSecond": "Pa4Zy_3pxk4",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Hostel Daze",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/ZqYaKx6R7qfq0ae/Hostel_Daze_S02_E01_18853_1.mkv",
+                "2": "https://streamtape.to/v/yB1lMQMAPdid0w/Hostel_Daze_S02_E02_18853_2.mkv",
+                "3": "https://streamtape.to/v/4XwRJ4xbyJU2oj/Hostel_Daze_S02_E03_18853_3.mkv.mp4",
+                "4": "https://streamtape.to/v/8OGgOVd47ytoKx8/Hostel_Daze_S02_E04_18853_4.mkv"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/8vd6iui773ti",
+                "2": "https://streamhub.to/6wh6mv6uvd1f",
+                "3": "https://streamhub.to/n0mbnintc3v6",
+                "4": "https://streamhub.to/kzvj74mew9og"
+            }
+        },
+        {
+            "id": "854",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/mD6Dv3zv/Sixer-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/K8HMTg5v/Sixer-Season-1.jpg",
+            "movieName": "Sixer Season 1",
+            "htmlFile": "https://www.18854",
+            "directOne": "Sports,Drama",
+            "directSecond": "S2cyRwLLhEo",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Sixer",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/DXWzM8oQxxTkKQY/Sixer_S01_18854_1.mkv"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/wpgktjke44pg"
             }
         }
     ]
