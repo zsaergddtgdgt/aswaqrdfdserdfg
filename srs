@@ -33768,6 +33768,42 @@
             "EpisodeHub": {
                 "1": "https://streamhub.to/wpgktjke44pg"
             }
+        },
+        {
+            "id": "855",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sgwJGGcf/Hostel-Daze-Season-3.png",
+            "ImageUrlVertical": "https://i.postimg.cc/J4CxfL08/Hostel-Daze-Season-3.jpg",
+            "movieName": "Hostel Daze Season 3",
+            "htmlFile": "https://www.18855",
+            "directOne": "Comedy,Drama",
+            "directSecond": "h1k6sGmHqoE",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Hostel Daze",
+            "pathName": "S3",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/g3GKZDXzAxcq77G/Hostel_Daze_S03E01_18855_1.mkv.mp4",
+                "2": "https://streamtape.to/v/okqVMkrle8CJBjO/Hostel_Daze_S03E02_18855_2.mkv.mp4",
+                "3": "https://streamtape.to/v/84XklRBYoGioVGg/Hostel_Daze_S03E03_18855_3.mkv.mp4",
+                "4": "https://streamtape.to/v/xkMpBqDdmOhkMx2/Hostel_Daze_S03E04_18855_4.mkv.mp4",
+                "5": "https://streamtape.to/v/D09lqqQzQGikzOD/Hostel_Daze_S03E05_18855_5.mkv.mp4",
+                "6": "https://streamtape.to/v/4AMP28BgZquKYR7/Hostel_Daze_S03E06_18855_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/nfe772ccrrpl",
+                "2": "https://streamhub.to/zea0bv6vsb6b",
+                "3": "https://streamhub.to/6pjom23colux",
+                "4": "https://streamhub.to/2l9c6vj45bmh",
+                "5": "https://streamhub.to/mgl8w66puseg",
+                "6": "https://streamhub.to/lvm602npi7k9"
+            }
         }
     ]
 }
