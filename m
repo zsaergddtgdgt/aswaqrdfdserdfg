@@ -42,7 +42,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
-            "hub": "https://v700.streamhub.to/sc6t75gnxuytnuzvovvs5ybe7l5dosnycje5ivqfg2kfsztfnvdvubfejb7q/v.mp4",
+            "hub": "https://streamhub.to/fh63wiljdct1",
             "tape": "https://streamtape.to/v/39WRLlWZQATdBgV/Black_Adam_%282022%29_12645.mkv.mp4"
         },
     {
