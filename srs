@@ -33804,6 +33804,46 @@
                 "5": "https://streamhub.to/mgl8w66puseg",
                 "6": "https://streamhub.to/lvm602npi7k9"
             }
+        },
+        {
+            "id": "856",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/HLYD2S5f/1899-Season-1.png",
+            "ImageUrlVertical": "https://i.postimg.cc/J4xQXPry/1899-Season-1.jpg",
+            "movieName": "1899 Season 1",
+            "htmlFile": "https://www.18856",
+            "directOne": "History,Horror,Drama",
+            "directSecond": "H8a0HDfsN5Q",
+            "imbd": "6.8",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Hostel Daze",
+            "pathName": "S3",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/K4g0VPy1pyC0GVm/1899_S01E01_18856_1.mkv.mp4",
+                "2": "https://streamtape.to/v/aberYZZypOuxjMP/1899_S01E02_18856_2.mkv.mp4",
+                "3": "https://streamtape.to/v/8ZywmgVQbXcMJb/1899_S01E03_18856_3.mkv.mp4",
+                "4": "https://streamtape.to/v/l7rwO28G7gS7YQ7/1899_S01E04_18856_4.mkv.mp4",
+                "5": "https://streamtape.to/v/vz0zQdx6V1s4rj6/1899_S01E05_18856_5.mkv.mp4",
+                "6": "https://streamtape.to/v/BArABMQ66BcMA0/1899_S01E06_18856_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Wqg9PDRLKltppP/1899_S01E07_18856_7.mkv.mp4",
+                "8": "https://streamtape.to/v/yb6j4O8J8Gs3e1/1899_S01E08_18856_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ensyfv6gblep",
+                "2": "https://streamhub.to/1qurvwc5rc0c",
+                "3": "https://streamhub.to/ytj0xnkxhgai",
+                "4": "https://streamhub.to/vb43lttghmpw",
+                "5": "https://streamhub.to/978f28xojnas",
+                "6": "https://streamhub.to/6yv1ydkytojz",
+                "7": "https://streamhub.to/d7gdgcahjyp7",
+                "8": "https://streamhub.to/3g3xvcs6qsi5"
+            }
         }
     ]
 }
