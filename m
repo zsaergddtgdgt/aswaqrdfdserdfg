@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "2708",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/3JZ96pk5/The-Wonder-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/y8vQJ9KX/The-Wonder-2022.jpg",
+            "movieName": "The Wonder (2022)",
+            "htmlFile": "https://www.2708",
+            "directOne": "Hindi-English",
+            "directSecond": "htybz7XscIY",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Drama,Thriller",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/gn9lrdi80sw4",
+            "tape": "https://streamtape.to/v/272GkK6rwdcZ2Rb/The_Wonder_%282022%29_2708.mkv.mp4"
+        },
     {
             "id": "2694",
             "activity": "1",
@@ -20,7 +41,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
-            "hub": "https://v600.streamhub.to/sc6t7tgnxuytnuzvovvs57zhv6aui52gsm2yesxno4gkhemj23j6qeet5bca/v.mp4",
+            "hub": "https://streamhub.to/undtl2vf8jpt",
             "tape": "https://streamtape.to/v/gazjVmaXmKT3vR/Black_Panther_-_Wakanda_Forever_%282022%29_12694.to.mkv.mp4"
         },
         {
@@ -30,7 +51,7 @@
             "ImageUrlVertical": "https://i.postimg.cc/J0v6wWSy/Black-Adam-2022.jpg",
             "movieName": "Black Adam (2022)",
             "htmlFile": "https://www.12645",
-            "directOne": "Hindi",
+            "directOne": "Hindi-English",
             "directSecond": "MY81VO-mSyw",
             "imbd": "7.0",
             "rating": "HDRip",
