@@ -33820,8 +33820,8 @@
             "Industry": "webSeries",
             "latest": "FALSE",
             "latestCatergory": "FALSE",
-            "keyName": "Hostel Daze",
-            "pathName": "S3",
+            "keyName": "1899",
+            "pathName": "S1",
             "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
             "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
             "EpisodeTape": {
@@ -33843,6 +33843,32 @@
                 "6": "https://streamhub.to/6yv1ydkytojz",
                 "7": "https://streamhub.to/d7gdgcahjyp7",
                 "8": "https://streamhub.to/3g3xvcs6qsi5"
+            }
+        },
+        {
+            "id": "857",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/ZKNsmhqd/Country-Mafia-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/MTztzkgW/Country-Mafia-Season-1.jpg",
+            "movieName": "Country Mafia Season 1",
+            "htmlFile": "https://www.18857",
+            "directOne": "Crime",
+            "directSecond": "pwh9BXw0fZU",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Country Mafia",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/9ekA0PB2rmiaWKW/Country_Mafia_%282022%29_18857_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/26i68j3x6ntb"
             }
         }
     ]
