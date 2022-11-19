@@ -42,8 +42,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Dhokha - Round D Corner (2022).jpg",
             "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Dhokha - Round D Corner (2022).jpg",
-            "hub": "https://streamhub.to/72wze8pp8kqt",
-            "tape": "https://streamtape.to/v/XkwyvZpr3xiDrWv/Drishyam_2_%282022%29_2710.mkv.mp4"
+            "hub": "https://streamhub.to/dakrk11v0w3x",
+            "tape": "https://streamtape.to/v/P8YGplWpJpu0p83/Drishyam_2_%282022%29_2710.mkv.mp4"
         },
         {
             "id": "2711",
