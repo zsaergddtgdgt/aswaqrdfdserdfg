@@ -33522,42 +33522,6 @@
             }
         },
         {
-            "id": "839",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/wjYkQk6K/The-Peripheral-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/fWHFCpPG/The-Peripheral-Season-1.jpg",
-            "movieName": "The Peripheral Season 1",
-            "htmlFile": "https://www.18839",
-            "directOne": "Drama,Sci-Fi,Thriller",
-            "directSecond": "Oq1qBRmR96s",
-            "imbd": "5.5",
-            "rating": "Hindi-English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "A",
-            "keyName": "The Peripheral",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
-            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/4GvP2x3mR2CZzA/The.Peripheral.S01E01.Pilot.mkv.mp4",
-                "2": "https://streamtape.to/v/m9rjaBXGz0tdM1/The.Peripheral.S01E02.Empathy.Bonus.mkv.mp4",
-                "3": "https://streamtape.to/v/0Aob3ozlV1IbXjv/The.Peripheral.S01E03_18839_3.mkv.mp4",
-                "4":"https://streamtape.to/v/6bMAmzY99MSoYr/The.Peripheral.S01E04_18839_4.mkv.mp4",
-                "5":"https://streamtape.to/v/dLW882zMGxhkvWX/The_Peripheral_S01E05_18839_5.mkv.mp4",
-                "6":"https://streamtape.to/v/WQKP7Rpd3gHb7mm/The.Peripheral.S01E06_18839_6.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/ga1kxnv5deiu",
-                "2": "https://streamhub.to/0xyw3kkxy8qx",
-                "3": "https://streamhub.to/1cxco477tosd",
-                "4":"https://streamhub.to/ozads13powe0",
-                "5":"https://streamhub.to/fiuxzo79vynt",
-                "6":"https://dl.cloudhub5.workers.dev/0:/EP%206%20The%20Peripheral%20720p%20HD%20DesireMoVies.pics.mkv"
-            }
-        },
-        {
             "id": "848",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/VkPvcSyr/Kaiyum-Kalavum-Season-1.jpg",
@@ -33871,6 +33835,86 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/26i68j3x6ntb"
+            }
+        },
+        {
+            "id": "839",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/wjYkQk6K/The-Peripheral-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/fWHFCpPG/The-Peripheral-Season-1.jpg",
+            "movieName": "The Peripheral Season 1",
+            "htmlFile": "https://www.18839",
+            "directOne": "Drama,Sci-Fi,Thriller",
+            "directSecond": "Oq1qBRmR96s",
+            "imbd": "5.5",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "The Peripheral",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4GvP2x3mR2CZzA/The.Peripheral.S01E01.Pilot.mkv.mp4",
+                "2": "https://streamtape.to/v/m9rjaBXGz0tdM1/The.Peripheral.S01E02.Empathy.Bonus.mkv.mp4",
+                "3": "https://streamtape.to/v/0Aob3ozlV1IbXjv/The.Peripheral.S01E03_18839_3.mkv.mp4",
+                "4":"https://streamtape.to/v/6bMAmzY99MSoYr/The.Peripheral.S01E04_18839_4.mkv.mp4",
+                "5":"https://streamtape.to/v/dLW882zMGxhkvWX/The_Peripheral_S01E05_18839_5.mkv.mp4",
+                "6":"https://streamtape.to/v/WQKP7Rpd3gHb7mm/The.Peripheral.S01E06_18839_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ga1kxnv5deiu",
+                "2": "https://streamhub.to/0xyw3kkxy8qx",
+                "3": "https://streamhub.to/1cxco477tosd",
+                "4":"https://streamhub.to/ozads13powe0",
+                "5":"https://streamhub.to/fiuxzo79vynt",
+                "6":"https://streamhub.to/y7xr7iq4kvtj"
+            }
+        },
+        {
+            "id": "858",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sfbJ7sDm/Dharavi-Bank-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/5NZ2qKZ8/Dharavi-Bank-Season-1.jpg",
+            "movieName": "Dharavi Bank Season 1",
+            "htmlFile": "https://www.18858",
+            "directOne": "Crime,Drama",
+            "directSecond": "Ka6z3Ck7wgI",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Dharavi Bank",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4vozxQMrVWhKogd/Dharavi_Bank_S01_E01_18858_1.mkv.mp4",
+                "2": "https://streamtape.to/v/6bejpV1pMkToPv/Dharavi_Bank_S01_E02_18858_2.mkv.mp4",
+                "3": "https://streamtape.to/v/jq16opMZKatzAzA/Dharavi_Bank_S01_E03_18858_3.mkv.mp4",
+                "4": "https://streamtape.to/v/V6L076p7V4HKm6o/Dharavi_Bank_S01_E04_18858_4.mkv.mp4",
+                "5": "https://streamtape.to/v/0JXvw1gR0oSbq6q/Dharavi_Bank_S01_E05_18858_5.mkv.mp4",
+                "6": "https://streamtape.to/v/gRqbJDedWOHqyJD/Dharavi_Bank_S01_E06_18858_6.mkv.mp4",
+                "7": "https://streamtape.to/v/26oBRGJdZotZLaV/Dharavi_Bank_S01_E07_18858_7.mkv.mp4",
+                "8": "https://streamtape.to/v/94bQdDWyMpsBWY/Dharavi_Bank_S01_E08_18858_8.mkv.mp4",
+                "9": "https://streamtape.to/v/KqmL89MW2WC0dqY/Dharavi_Bank_S01_E09_18858_9.mkv.mp4",
+                "10": "https://streamtape.to/v/ZKdzk2ZlwJUqGqq/Dharavi_Bank_S01_E10_18858_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/xv2khd8uhpse",
+                "2": "https://streamhub.to/r4w7mkf2t5l2",
+                "3": "https://streamhub.to/fe4te05tw4g2",
+                "4": "https://streamhub.to/5toibusjw7fk",
+                "5": "https://streamhub.to/kj9hidomqb9a",
+                "6": "https://streamhub.to/8rxq3gid90d0",
+                "7": "https://streamhub.to/1snks1z14zal",
+                "8": "https://streamhub.to/t0n8jfanmeo3",
+                "9": "https://streamhub.to/hhzhbusxaony",
+                "10": "https://streamhub.to/ur3s5ln3yn22"
             }
         }
     ]
