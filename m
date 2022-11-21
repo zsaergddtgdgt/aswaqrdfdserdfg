@@ -9304,8 +9304,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Sorry Bhaisaab (2021).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Sorry Bhaisaab (2021).jpg",
-            "hub": "https://streamhub.to/8xi1yd4bboss",
-            "tape": ""
+            "hub": "https://streamhub.to/g8tfid5hnasq",
+            "tape": "https://streamtape.to/v/m3e9kPw4wlFbmeJ/Sorry_Bhaisaab_%282021%29_15637.mkv.mp4"
         },
         {
             "id": "282",
@@ -11662,28 +11662,6 @@
             "tape": "https://streamtape.to/v/MJ0jkB6jZZimgrM/A1_Express_%282021%29_14222.mkv.mp4"
         },
         {
-            "id": "389",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/xT5dGdkB/Anjaam-Pathiraa-2020.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/VNmbsbf4/Anjaam-Pathiraa-2020.jpg",
-            "movieName": "Anjaam Pathiraa (2020)",
-            "htmlFile": "https://www.16062",
-            "directOne": "Hindi",
-            "directSecond": "dn5KZD1E67Y",
-            "imbd": "6.6",
-            "rating": "HD 720p",
-            "catergory": "Action",
-            "Industry": "South",
-            "latest": "no",
-            "latestCatergory": "FALSE",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Anjaam Pathiraa (2020).jpg",
-            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Anjaam Pathiraa (2020).jpg",
-            "hub": "",
-            "tape": ""
-        },
-        {
             "id": "390",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/7ZQYcQnV/Cold-Case-2021.jpg",
@@ -11768,7 +11746,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Major Grom Plague Doctor (2021).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Major Grom Plague Doctor (2021).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/itlpo080vve7",
             "tape": "https://streamtape.to/v/O4J2x4yLB9uZbA8/Major_Grom_Plague_Doctor_%282021%29_14226.mkv.mp4"
         },
         {
@@ -11878,7 +11856,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Jinde Meriye (2020).jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Jinde Meriye (2020).jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/91rg1r5oax5r",
             "tape": "https://streamtape.to/v/09a8moLY8acbwZo/Jinde_Meriye_%282020%29_14180.mkv.mp4"
         },
         {
@@ -11922,7 +11900,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/The%20Boss%20Baby%20Family%20Business%20%282021%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/The%20Boss%20Baby%20Family%20Business%20%282021%29.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/j9958f6hquv4",
             "tape": "https://streamtape.to/v/Ww80Y21Wl7fARL/The_Boss_Baby_Family_Business_%282021%29_14178.mkv.mp4"
         },
         {
@@ -13704,7 +13682,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2d09/3mcuze8kufo3fh96g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/b299/okpskozn2u7i8bl6g.jpg",
-            "hub": "https://streamhub.to/2sg4evf95fhl",
+            "hub": "https://streamhub.to/jowcv0z5cwjn",
             "tape": "https://streamtape.to/v/gr3g4MbYdqsq28K/Mumbai_Saga_%282021%29_13485.mkv.mp4"
         },
         {
@@ -13792,7 +13770,7 @@
             "pathName": "2",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/381f/smk6z607sl4utob6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/5cd9/z7zo5mh6wo45sas6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/hqt1o0mndr9n",
             "tape": "https://streamtape.to/v/RBAvgeJ2aPfdoyA/Zack_Snyder%27s_Justice_League_%282021%29_13469.mkv.mp4"
         },
         {
@@ -26530,7 +26508,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/a04c/npaixdapldnnnrk6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/b46a/2cg8jegi21aucl86g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/flny6d452kwj",
             "tape": "https://streamtape.to/v/0eAYy02vmpHAYx/Lovelace_%282013%29_9815.mkv.mp4"
         },
         {
@@ -30116,7 +30094,7 @@
             "pathName": "3",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/0e31/zxhsv9amvekkh3x6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/cca4/r7cj3rx9tufe8gl6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/mlvn5wwsd6n1",
             "tape": "https://streamtape.to/v/VXwKp1zJQyuKVGD/Wrong_Turn_3_Left_For_Dead_%282009%29_8776.mkv.mp4"
         },
         {
@@ -49432,7 +49410,7 @@
             "pathName": "2",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/c35d/krxjoijvi585xmj6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/b3d7/kpemzz5ts28s2oo6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/g8f6d6gklk1y",
             "tape": "https://streamtape.to/v/7beww316BrFAr6a/Tiger_Zinda_Hai_%282017%29_4191.mkv.mp4"
         },
         {
