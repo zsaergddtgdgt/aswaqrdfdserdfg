@@ -14245,7 +14245,7 @@
             "directOne": "Hindi",
             "directSecond": "wHiUlFH8AAQ",
             "imbd": "7.3",
-            "rating": "pDVDRip",
+            "rating": "HD 720p",
             "catergory": "Action",
             "Industry": "South",
             "latest": "no",
@@ -14254,8 +14254,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3ee1/3cgb6eog1t8d20z6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/8976/y7j3o0tzxacrwso6g.jpg",
-            "hub": "",
-            "tape": "https://streamtape.to/v/BLA6k3g0MOUyZgM/Chakra_%282021%29_13247.mkv.mp4"
+            "hub": "https://streamhub.to/gpbgh8plqyxr",
+            "tape": "https://streamtape.to/v/yVpmX4Bg2Rt1ZdK/CHAKRA_%282021%29_13247.mkv"
         },
         {
             "id": "507",
@@ -15684,8 +15684,8 @@
             "pathName": "2",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/0671/raxd82lcrhpxro16g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a4ab/kip3urax6hnvor26g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/mwtlgzfzhf9p",
+            "tape": "https://streamtape.to/v/o1momPZw4RiJQMG/The_Croods_A_New_Age_%282020%29_12415.mkv"
         },
         {
             "id": "572",
@@ -16652,8 +16652,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/8eaf/s1h6m2vwffml32i6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/9fe1/u695klj0pa0vx4k6g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/6swrpd7jctzy",
+            "tape": "https://streamtape.to/v/G6wVLq71QpU1pO8/Animal_Instincts_%281992%29_12024.mkv.mp4"
         },
         {
             "id": "616",
@@ -26266,8 +26266,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/b730/4jfopcl1pcnygsg6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/abf4/kc6gd82dg3lj0xz6g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/tdjp09aqclbf",
+            "tape": "https://streamtape.to/v/aZ8bR4krqeCWXY/Satellite_Shankar_%282019%29_17542.mkv"
         },
         {
             "id": "1054",
@@ -30104,7 +30104,7 @@
             "ImageUrlVertical": "https://i.postimg.cc/25BBCqKX/r7cj3rx9tufe8gl6g.jpg",
             "movieName": "Wrong Turn III (2009)",
             "htmlFile": "https://www.8776",
-            "directOne": "Dubbed",
+            "directOne": "English",
             "directSecond": "yYAyDmOjZi0",
             "imbd": "5.3",
             "rating": "HD 720p",
@@ -50048,8 +50048,8 @@
             "pathName": "4",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/bbb5/yygps9j7o2ixlf86g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/d89a/4kt84q2f0l0l1t66g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/qi6vb78lbnpj",
+            "tape": "https://streamtape.to/v/yx1vAG2b3Yu1YKr/American_Pie_Presents_The_Naked_Mile_%282006%29_4239.mkv.mp4"
         },
         {
             "id": "2135",
@@ -59488,28 +59488,6 @@
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/4493/3ongo0an3ugmqbn6g.jpg",
             "hub": "https://streamhub.to/42brbh9njp6k",
             "tape": "https://streamtape.to/v/rJP7xvaJ0yTbpLj/The_Hungry_%282017%29_5291.mkv.mp4"
-        },
-        {
-            "id": "2564",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/vZ92HXZL/rh89pq4zijq1mdi6g.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/pd7LQKB2/u1okc756dvuy5716g.jpg",
-            "movieName": "Shame, Shame, Shame (1999)",
-            "htmlFile": "https://www.5292",
-            "directOne": "English",
-            "directSecond": "Op9iQiB_ANI",
-            "imbd": "6.9",
-            "rating": "Hindi",
-            "catergory": "Adult",
-            "Industry": "HollywoodEnglish",
-            "latest": "no",
-            "latestCatergory": "FALSE",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e6df/rh89pq4zijq1mdi6g.jpg",
-            "driveImageUrlVertical": "https://www.mediafire.com/convkey/c8ff/u1okc756dvuy5716g.jpg",
-            "hub": "",
-            "tape": ""
         },
         {
             "id": "2565",
