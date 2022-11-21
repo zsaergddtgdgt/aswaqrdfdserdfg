@@ -23,6 +23,28 @@
             "tape": "https://streamtape.to/v/ql7Y2vQ3ZOuzQok/The_Warriorr_%282022%29_2715.mkv.mp4"
         },
         {
+            "id": "2716",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/qBnmPqcV/Kabadadaari-2021.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/L6KW5L48/Kabadadaari-2021.jpg",
+            "movieName": "Kabadadaari (2021)",
+            "htmlFile": "https://www.2716",
+            "directOne": "Hindi",
+            "directSecond": "_Fz3K38JXmc",
+            "imbd": "8.1",
+            "rating": "HD 720p",
+            "catergory": "Action,Thriller",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/mc1na53hbo5n",
+            "tape": "https://streamtape.to/v/DajmBRLjr1ukJAg/KABADADAARI_%282021%29_2716.mkv.mp4"
+        },
+        {
             "id": "2616",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/NMy1pCzb/God-Father-2022.jpg",
@@ -85,8 +107,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net/Poster/h1/Dhokha - Round D Corner (2022).jpg",
             "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Dhokha - Round D Corner (2022).jpg",
-            "hub": "https://streamhub.to/7ra6vkflkzl8",
-            "tape": "https://streamtape.to/v/owB4Wj7rbxfbAp/Mister_Mummy_%282022%29_2711.mkv.mp4"
+            "hub": "https://streamhub.to/24c3rsytxcac",
+            "tape": "https://streamtape.to/v/wkYY64rpYRSJmL1/Mister_Mummy_%282022%29_2711.mkv.mp4"
         },
         {
             "id": "2575",
