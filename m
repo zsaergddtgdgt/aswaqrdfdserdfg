@@ -1,6 +1,6 @@
 {
     "AllMovieDataList": [
-    {
+        {
             "id": "2718",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/DZgZcFrC/Sinam-2022.jpg",
@@ -22,7 +22,7 @@
             "hub": "https://streamhub.to/249kj12ti61r",
             "tape": "https://streamtape.to/v/lQoqjxjRvof7eqV/Sinam_%282022%29_2718.mkv"
         },
-    {
+        {
             "id": "2717",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/HknVp2vv/Love-Today-2022.jpg",
@@ -44,7 +44,7 @@
             "hub": "https://streamhub.to/jhg777kc9nvi",
             "tape": "https://streamtape.to/v/RpjZBlzO4gHd8ry/Love_Today_%282022%29_2717.mkv.mp4"
         },
-    {
+        {
             "id": "2715",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/g0tV6PVH/The-Warriorr-2022.jpg",
@@ -110,7 +110,7 @@
             "hub": "https://streamhub.to/371lbmq08zkw",
             "tape": "https://streamtape.to/v/yPOdvBexw4S1bKW/GodFather_%282022%29_12616.mkv.mp4"
         },
-    {
+        {
             "id": "2710",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/5yrWZT8n/Drishyam-2-2022.jpg",
@@ -198,7 +198,7 @@
             "hub": "https://streamhub.to/k09w4evgi4tl",
             "tape": "https://streamtape.to/v/plBAOKw6gVUBqv/Dhokha_-_Round_D_Corner_%282022%29_18094.mkv.mp4"
         },
-    {
+        {
             "id": "2709",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/26dhBFSx/Saroj-Ka-Rishta-2022.jpg",
@@ -220,7 +220,7 @@
             "hub": "https://streamhub.to/conpkxe99t8x",
             "tape": "https://streamtape.to/v/zVlXD29xYyfvLD/Saroj_Ka_Rishta_%282022%29_2709.mkv.mp4"
         },
-    {
+        {
             "id": "2713",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Zq7Gmz7v/Hansan-Rising-Dragon-2022.jpg",
@@ -242,7 +242,7 @@
             "hub": "https://streamhub.to/epp1idztv860",
             "tape": "https://streamtape.to/v/01bwvkrg4Bcb4lP/Hansan%3A_Rising_Dragon_%282022%29_02713.mkv.mp4"
         },
-    {
+        {
             "id": "2712",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/MH8jKNXq/Slumberland-2022.jpg",
@@ -264,7 +264,7 @@
             "hub": "https://streamhub.to/wh8l7mu0kxbw",
             "tape": "https://streamtape.to/v/O6br2bP1zgTZp9Z/Slumberland_%282022%29_2712.mkv.mp4"
         },
-    {
+        {
             "id": "2708",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/3JZ96pk5/The-Wonder-2022.jpg",
@@ -286,7 +286,7 @@
             "hub": "https://streamhub.to/gn9lrdi80sw4",
             "tape": "https://streamtape.to/v/272GkK6rwdcZ2Rb/The_Wonder_%282022%29_2708.mkv.mp4"
         },
-       {
+        {
             "id": "2694",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/yN6mbjjH/Black-Panther-Wakanda-Forever-2022.jpg",
@@ -330,7 +330,7 @@
             "hub": "https://streamhub.to/fh63wiljdct1",
             "tape": "https://streamtape.to/v/39WRLlWZQATdBgV/Black_Adam_%282022%29_12645.mkv.mp4"
         },
-    {
+        {
             "id": "2706",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/26dVsx5S/Chobbar-2022.jpg",
@@ -352,8 +352,7 @@
             "hub": "https://streamhub.to/p6nu2fgo6agn",
             "tape": "https://streamtape.to/v/6kPAawDz0yF903o/Chobbar_%282022%29_12706.mkv.mp4"
         },
-        
-    {
+        {
             "id": "2707",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/bwSGxBjF/Smile-2022.jpg",
@@ -375,7 +374,7 @@
             "hub": "https://streamhub.to/ij217z5psfrd",
             "tape": "https://streamtape.to/v/qj9vowwZjgS16o/Smile_%282022%29_12707.mkv.mp4"
         },
-    {
+        {
             "id": "2705",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/5tcsNhFp/Ori-Devuda-2022.webp",
@@ -419,7 +418,7 @@
             "hub": "https://streamhub.to/51clee41kase",
             "tape": "https://streamtape.to/v/Ma6xxyVBzPfB8z/Pakka_Commercial_%282022%29_17670.mkv.mp4"
         },
-    {
+        {
             "id": "2700",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/nrFBvV25/Sardar-2022.jpg",
@@ -485,7 +484,7 @@
             "hub": "https://streamhub.to/50grtincti73",
             "tape": "https://streamtape.to/v/OVZPkyeaVbTzPm/Hero_%282022%29_12699.mkv.mp4"
         },
-    {
+        {
             "id": "2697",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Gh3rsb20/Uunchai-2022.jpg",
@@ -507,7 +506,7 @@
             "hub": "https://streamhub.to/80cuuwnztfgy",
             "tape": "https://streamtape.to/v/6Q24qK6kBdt42b/Uunchai_%282022%29_12697.mkv.mp4"
         },
-    {
+        {
             "id": "2704",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/MGrSvKqV/Hot-Seat-2022.jpg",
@@ -551,7 +550,7 @@
             "hub": "https://streamhub.to/71r61p1q62g1",
             "tape": "https://streamtape.to/v/bRm7PPAaDDIQex/Thai.massage_%282022%29_12698.mkv.mp4"
         },
-    {
+        {
             "id": "2695",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/qMtFv8P0/Yashoda-2022.webp",
@@ -595,7 +594,7 @@
             "hub": "https://streamhub.to/iqphaxh6uor7",
             "tape": "https://streamtape.to/v/Xr7aKaXJmAHX7q/Monica%2C_O_My_Darling_%282022%29_12693.mkv.mp4"
         },
-    {
+        {
             "id": "2703",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/vT0w9YdW/Don-t-Leave-2022.jpg",
@@ -617,7 +616,7 @@
             "hub": "https://streamhub.to/jj7sogtoavqm",
             "tape": "https://streamtape.to/v/y2K1RlObA4F1WmV/Dont_Leave_%282022%29_12703.mkv.mp4"
         },
-    {
+        {
             "id": "2702",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/g2csJ0f4/Lost-Bullet-2-Back-for-More-2022.jpg",
@@ -13594,7 +13593,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/0cb8/v2voug73zmvdd2n6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/5bdd/sl7s42rrmirhbwy6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/zot58ksi079f",
             "tape": "https://streamtape.to/v/QAYjoay3m0T0e7e/Godzilla_vs_Kong_%282021%29_13622.mkv.mp4"
         },
         {
@@ -13616,7 +13615,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/8636/kwsx0ndnp57r9506g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/721f/prrigvrbmr41huq6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/gy1i2oawcfir",
             "tape": "https://streamtape.to/v/BAAwkjYj3Kh9Yo/Saina_%282021%29_13618.mkv.mp4"
         },
         {
@@ -13836,7 +13835,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/9643/kklv6xjpk7en91e6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/10b6/7t1j50t0p59i97v6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/xm4iruitnywl",
             "tape": "https://streamtape.to/v/YykYrxZ4rVSvJB3/Rogue_%282020%29_13429.mkv.mp4"
         },
         {
@@ -13946,8 +13945,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/861c/86ur0v9cezyjjsm6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/8125/uxkj3f9fdt60hvo6g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/zhfh9e6vzpun",
+            "tape": "https://streamtape.to/v/Myok69ZgB1TmP7l/Raya_and_the_Last_Dragon_%282021%29_13379.mkv.mp4"
         },
         {
             "id": "492",
@@ -14166,7 +14165,7 @@
             "pathName": "2",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/d6eb/r98mcufyiszqzbu6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/3968/v8xbq47yhs8zon56g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/xt0los2p5sh1",
             "tape": "https://streamtape.to/v/Qd0rR1GmBvIg1z/Godzilla_%282014%29_13276.mkv.mp4"
         },
         {
@@ -14210,7 +14209,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/ca21/9bk2oihmbx105fx6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/55d7/c50pant87ozs8o56g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/7ql6opzo7yvs",
             "tape": "https://streamtape.to/v/3w3ZW8dlD6UdzDB/Tuesdays_and_Fridays_%282021%29_13701.mkv.mp4"
         },
         {
@@ -14320,7 +14319,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/5d64/g1mwnnnj3z80v6a6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/2a68/q5j5xdxby4mvd6x6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/oev83oea2fjj",
             "tape": "https://streamtape.to/v/GXjZ4dvYboC1RAa/The_Spy_Who_Dumped_Me_%282018%29_13244.mkv.mp4"
         },
         {
@@ -14408,7 +14407,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/9b4a/lw91gp822q44vrc6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/834e/o39pndexzsunfy76g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/0djo08s0xxl4",
             "tape": "https://streamtape.to/v/jbaW0gODLxIzVVM/Midway_%282019%29_13228.mkv.mp4"
         },
         {
@@ -14518,7 +14517,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/ce2a/bbkgp9exm29obkr6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/e8e4/xg688npl3qt7oj06g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/4vm8q995jqy1",
             "tape": "https://streamtape.to/v/oevPA7vpbafJBAz/To_All_The_Boys_Always_And_Forever_%282021%29_13181.mkv.mp4"
         },
         {
@@ -14936,7 +14935,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/dbb4/6wnzr6lf84aqcv56g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/6f34/ekqgwgxk4ihgegk6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/1rlxjzq1hqfm",
             "tape": "https://streamtape.to/v/yD7a1K72kQI1Yy2/Surya_The_Soldier_%282018%29_12723.mkv.mp4"
         },
         {
@@ -14980,7 +14979,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/5d81/u1l8ajttweqnq7z6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/7108/8sunz8oyqrd92u76g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/psgwwunjsfrb",
             "tape": "https://streamtape.to/v/lr6RajKxpJH7eob/Jamun_%282021%29_12721.mkv.mp4"
         },
         {
@@ -15090,7 +15089,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e556/ka217ri2pkorehq6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/ec6f/fmbm25wuh5m5a5w6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/27ps5g121qlf",
             "tape": "https://streamtape.to/v/Y79JJQqQDWtvxYv/Vanguard_%282020%29_12728.mkv.mp4"
         },
         {
@@ -15455,7 +15454,7 @@
             "directOne": "Hindi",
             "directSecond": "RmSGNL3sJBE",
             "imbd": "5.5",
-            "rating": "pDVDRip",
+            "rating": "HD 720p",
             "catergory": "Horror",
             "Industry": "Bollywood",
             "latest": "no",
@@ -15464,8 +15463,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3366/1a964yyoyzg6a4r6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a1db/dlbbzd87lgfyl5t6g.jpg",
-            "hub": "",
-            "tape": "https://streamtape.to/v/6x1LPMVMVbFl4b/12_O%27_Clock_%282021%29_12540.mkv.mp4"
+            "hub": "https://streamhub.to/9epq0xlu5ai1",
+            "tape": "https://streamtape.to/v/p46y1kAvk6sr2z7/12_O%27_Clock_%282021%29_12540.mkv.mp4"
         },
         {
             "id": "561",
@@ -15530,8 +15529,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/5477/rpwmmmk8gy7c7ig6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/27da/qyhcwn8jx0zu4jc6g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/9kglokka7h8o",
+            "tape": "https://streamtape.to/v/Z3dXYmmVmVTqeZG/I%2C_Me_aur_Main_%282013%29_12518.mkv.mp4"
         },
         {
             "id": "564",
@@ -15992,7 +15991,7 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e771/pt4qbkeyzopbm0x6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/d4a8/8tvyp8wib14ve396g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/1l22ui5puz7h",
             "tape": "https://streamtape.to/v/X1aeBY2o8ptzoO/Avengers_Grimm_%282015%29_12300.mkv.mp4"
         },
         {
@@ -16080,8 +16079,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2a16/iawsf6r0jfguv6j6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/1956/lktvnejpt2bpnx36g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/mwrkgvtglwrl",
+            "tape": "https://streamtape.to/v/gL4LAJ3L4dFqe8m/127_Hours_%282010%29_17540.mkv.mp4"
         },
         {
             "id": "589",
@@ -16146,7 +16145,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1c9e/tdwh2fpd8nhjr986g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/51cd/mfo4kjjrt6a5idm6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/38821cq0mufb",
             "tape": "https://streamtape.to/v/Y7e27JXlyzCvmkD/Monster_Hunter_%282020%29_12286.mkv.mp4"
         },
         {
@@ -16168,8 +16167,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2c89/45l7jubbv2g0bfs6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/3b0f/fnlsyy5m7bebb4r6g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/zi3xawf2sbv5",
+            "tape": "https://streamtape.to/v/16YolRO288heQlw/Indoo_Ki_Jawani_%282020%29_17541.mkv.mp4"
         },
         {
             "id": "593",
@@ -16894,7 +16893,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/976e/i7pidx8u8i6g1pr6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/b4e6/hrga2hducizonvk6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/g8fuiscaqhpp",
             "tape": "https://streamtape.to/v/9XJzok4mgpFaxxp/A_Babysitter%27s_Guide_to_Monster_Hunting_%282020%29_10701.mkv.mp4"
         },
         {
@@ -18940,8 +18939,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/c891/ypr7z3p2hvqpcn46g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/59b4/bzze04sgzbqh8996g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/mw1hefyn7eu1",
+            "tape": "https://streamtape.to/v/qjaeqJPK4Df146/30_Days_Of_Night_%282007%29_1711.mkv.mp4"
         },
         {
             "id": "719",
@@ -21888,7 +21887,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/cee4/uq5vv5yw0f7ureh6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/e128/839iv1m16bm3yog6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/k4340do6knaw",
             "tape": "https://streamtape.to/v/Pr3qqdYbmQfLe0/Patiala_House_%282011%29_1062.mkv.mp4"
         },
         {
@@ -21910,7 +21909,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3c76/hw0je2qydtk52x66g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/53ed/x6obwfxv9fr6qdr6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/jinq02ez0pbl",
             "tape": "https://streamtape.to/v/Ld6JoMpXJ0sRmZj/The_Lunchbox_%282013%29_1010.mkv.mp4"
         },
         {
