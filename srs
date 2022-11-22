@@ -33920,6 +33920,46 @@
                 "9": "https://streamhub.to/hhzhbusxaony",
                 "10": "https://streamhub.to/ur3s5ln3yn22"
             }
+        },
+        {
+            "id": "859",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/BQxHh8Cn/Somebody-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/RC2Lpx5X/Somebody-Season-1.jpg",
+            "movieName": "Somebody Season 1",
+            "htmlFile": "https://www.18859",
+            "directOne": "Crime,Thriller",
+            "directSecond": "oqnwLe69sAY",
+            "imbd": "6.8",
+            "rating": "Hindi+English+Korean",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Dharavi Bank",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/3OoA2Mq7wGFdPp9/Somebody_S01E01_18859_1.mkv.mp4",
+                "2": "https://streamtape.to/v/oD3Ok9xOL0SJLLM/Somebody_S01E02_18859_2.mkv.mp4",
+                "3": "https://streamtape.to/v/klQOqL1LQmCOvGM/Somebody_S01E03_18859_3.mkv.mp4",
+                "4": "https://streamtape.to/v/QXKrybyQ6Di06QQ/Somebody_S01E04_18859_4.mkv.mp4",
+                "5": "https://streamtape.to/v/DA31w8vyBqCkJWd/Somebody_S01E05_18859_5.mkv.mp4",
+                "6": "https://streamtape.to/v/oM3gJ2Z8v9fxm4/Somebody_S01E06_18859_6.mkv.mp4",
+                "7": "https://streamtape.to/v/gLj4W1KA8MF3yQ/Somebody_S01E07_18859_7.mkv.mp4",
+                "8": "https://streamtape.to/v/2W32dDPok2tZ4a3/Somebody_S01E08_18859_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ym4b9vt4fwiu",
+                "2": "https://streamhub.to/ua9imv7ao0mw",
+                "3": "https://streamhub.to/rb6c5n1d6d2f",
+                "4": "https://streamhub.to/a527rixtwpsb",
+                "5": "https://streamhub.to/nu8ulqs5jfo4",
+                "6": "https://streamhub.to/z1zz908cjcbg",
+                "7": "https://streamhub.to/xo09uy7s0u7c",
+                "8": "https://streamhub.to/lalpxzsfwtbx"
+            }
         }
     ]
 }
