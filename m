@@ -8,7 +8,7 @@
             "ImageUrlVertical": "https://i.postimg.cc/Pr91B2h7/Kantara-2022.jpg",
             "movieName": "Kantara (2022)",
             "htmlFile": "https://www.12630",
-            "directOne": "Hindi",
+            "directOne": "Hindi+Kannada",
             "directSecond": "MTECjlKUgEE",
             "imbd": "8.1",
             "rating": "HD 720p",
