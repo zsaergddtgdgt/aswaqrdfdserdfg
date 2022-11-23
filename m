@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
         {
+            "id": "2645",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sgwny7Fd/Black-Adam-2022.png",
+            "ImageUrlVertical": "https://i.postimg.cc/J0v6wWSy/Black-Adam-2022.jpg",
+            "movieName": "Black Adam (2022)",
+            "htmlFile": "https://www.12645",
+            "directOne": "Hindi-English",
+            "directSecond": "MY81VO-mSyw",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/avorm11i3045",
+            "tape": "https://streamtape.to/v/2PBv6Pjmb0SZgdl/Black_Adam_%282022%29_12645.mkv.mp4"
+        },
+        {
             "id": "2718",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/DZgZcFrC/Sinam-2022.jpg",
@@ -307,28 +329,6 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
             "hub": "https://streamhub.to/undtl2vf8jpt",
             "tape": "https://streamtape.to/v/gazjVmaXmKT3vR/Black_Panther_-_Wakanda_Forever_%282022%29_12694.to.mkv.mp4"
-        },
-        {
-            "id": "2645",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/sgwny7Fd/Black-Adam-2022.png",
-            "ImageUrlVertical": "https://i.postimg.cc/J0v6wWSy/Black-Adam-2022.jpg",
-            "movieName": "Black Adam (2022)",
-            "htmlFile": "https://www.12645",
-            "directOne": "Hindi-English",
-            "directSecond": "MY81VO-mSyw",
-            "imbd": "7.0",
-            "rating": "HDRip",
-            "catergory": "Action",
-            "Industry": "Hollywood",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
-            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
-            "hub": "https://streamhub.to/fh63wiljdct1",
-            "tape": "https://streamtape.to/v/39WRLlWZQATdBgV/Black_Adam_%282022%29_12645.mkv.mp4"
         },
         {
             "id": "2706",
@@ -21931,7 +21931,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/4615/pi1fk6i8voprmp76g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/5923/fhbdmq6yip7qxoc6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/9zcg9bxhafdv",
             "tape": "https://streamtape.to/v/2PprB0vL3jHZ3mw/Jazbaa_%282015%29_1011.mkv.mp4"
         },
         {
@@ -22041,7 +22041,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/b9f7/7hi3sed2l9n785h6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/e5f6/schkxcgkolj962j6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/arfjn2ccmp5q",
             "tape": "https://streamtape.to/v/dqbvb88zwKFk8xz/Super_8_%282011%29_9132.mkv.mp4"
         },
         {
@@ -22085,7 +22085,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1df8/e60cokuclvgvrpt6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/7967/f0ms32voaw300kd6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/nb47l04ufpao",
             "tape": "https://streamtape.to/v/V0gqReJeGkiKBX3/Siyama_%282008%29_6387.mkv.mp4"
         },
         {
@@ -22481,7 +22481,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e276/legr703ulya154h6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a10c/v783sm8ky7h4ov86g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/b14pb0qzhu3u",
             "tape": "https://streamtape.to/v/3p1vrPeXQDIdBdy/Kuch_Kuch_Hota_Hai_%281998%29_2333.mkv.mp4"
         },
         {
@@ -23097,8 +23097,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/124c/3yv9y928uxvjzog6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/c11c/52lrkyjllw1pz5u6g.jpg",
-            "hub": "",
-            "tape": ""
+            "hub": "https://streamhub.to/hqivklxi4wdi",
+            "tape": "https://streamtape.to/v/ALq1xg7BXVUX8J1/John_Carter_%282012%29_2894.mkv.mp4"
         },
         {
             "id": "909",
@@ -23251,7 +23251,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/6cf6/f72d4i8ke1q487y6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/abf0/8g2cg4gj8g6uozs6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/hms6zs1nvzla",
             "tape": "https://streamtape.to/v/aoyyP3PeWquldK/The_Black_Hole_%282006%29_2830.mkv.mp4"
         },
         {
@@ -23405,7 +23405,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/681f/q2n7ojxr82gfz4t6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a610/cncsh73gyaouxmv6g.jpg",
-            "hub": "",
+            "hub": "https://streamhub.to/wcsscrx1oe7v",
             "tape": "https://streamtape.to/v/vlqq7d7V7bU4p6k/The_Mortal_Instruments_City_of_Bones_%282013%29_2796.mkv.mp4"
         },
         {
