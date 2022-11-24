@@ -20,7 +20,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
-            "hub": "https://streamhub.to/5j8ph0xbay2h",
+            "hub": "https://v600.streamhub.to/sc6t725jxuytnuzvovss5mzg6s3gy6tfeg5wv7f3vf2nfe7cmj3n54kbq4la/v.mp4",
             "tape": "https://streamtape.to/v/AXZd1GK70lSXrOA/Chup_%282022%29_12600.mkv.mp4"
         },
         {
