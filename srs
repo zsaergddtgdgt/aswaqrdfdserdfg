@@ -33560,46 +33560,6 @@
             }
         },
         {
-            "id": "850",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/sDLbBqzb/Tanaav-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/qvXXf61Q/Tanaav-Season-1.jpg",
-            "movieName": "Tanaav Season 1",
-            "htmlFile": "https://www.18850",
-            "directOne": "Action,Thriller,Drama",
-            "directSecond": "mElpF6g67FA",
-            "imbd": "6.8",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Tanaav",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/MXl8Aa2xwVt6QM/Tanaav_S01E01_18850_1.mkv.mp4",
-                "2": "https://streamtape.to/v/pbqGya722asr2do/Tanaav_S01E02_18850_2.mkv.mp4",
-                "3": "https://streamtape.to/v/GJQM8KDYXgF1eLV/Tanaav_S01E03_18850_3.mkv.mp4",
-                "4": "https://streamtape.to/v/mvDrKYvzA1sbrzR/Tanaav_S01E04_18850_4.mkv.mp4",
-                "5": "https://streamtape.to/v/AXJ24ZX2GJuGjJ/Tanaav_S01E05_18850_5.mkv.mp4",
-                "6": "https://streamtape.to/v/MqdBBZkoZqsmvbe/Tanaav_S01E06_18850_6.mkv.mp4",
-                "7": "https://streamtape.to/v/Xd1MogWgeJhDybx/Tanaav_S01E07_18850_7.mkv.mp4",
-                "8": "https://streamtape.to/v/9yoXPzw27Lc9jZ/Tanaav_S01_E08_18850_8.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/5vv2rorytga9",
-                "2": "https://streamhub.to/gknie4z270r6",
-                "3": "https://streamhub.to/gn2ot33varf5",
-                "4": "https://streamhub.to/co9um1w980b6",
-                "5": "https://streamhub.to/35cf883h7rwh",
-                "6": "https://streamhub.to/i1shpinn49et",
-                "7": "https://streamhub.to/7tux026azij6",
-                "8": "https://streamhub.to/q9o0r9st4fmv"
-            }
-        },
-        {
             "id": "851",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/8c5MWZCt/Mukhbir-The-Story-of-a-Spy-Season-1.webp",
@@ -33968,6 +33928,54 @@
             }
         },
         {
+            "id": "850",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sDLbBqzb/Tanaav-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/qvXXf61Q/Tanaav-Season-1.jpg",
+            "movieName": "Tanaav Season 1",
+            "htmlFile": "https://www.18850",
+            "directOne": "Action,Thriller,Drama",
+            "directSecond": "mElpF6g67FA",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Tanaav",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/MXl8Aa2xwVt6QM/Tanaav_S01E01_18850_1.mkv.mp4",
+                "2": "https://streamtape.to/v/pbqGya722asr2do/Tanaav_S01E02_18850_2.mkv.mp4",
+                "3": "https://streamtape.to/v/GJQM8KDYXgF1eLV/Tanaav_S01E03_18850_3.mkv.mp4",
+                "4": "https://streamtape.to/v/mvDrKYvzA1sbrzR/Tanaav_S01E04_18850_4.mkv.mp4",
+                "5": "https://streamtape.to/v/AXJ24ZX2GJuGjJ/Tanaav_S01E05_18850_5.mkv.mp4",
+                "6": "https://streamtape.to/v/MqdBBZkoZqsmvbe/Tanaav_S01E06_18850_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Xd1MogWgeJhDybx/Tanaav_S01E07_18850_7.mkv.mp4",
+                "8": "https://streamtape.to/v/9yoXPzw27Lc9jZ/Tanaav_S01_E08_18850_8.mkv.mp4",
+                "9":"https://streamtape.to/v/kg8PZ1V8d6h8kr/Tanaav_S01E09_The_Beginning_Of_The_End_18850_9.mkv.mp4",
+                "10":"https://streamtape.to/v/dKydBl2BPpSkO1L/Tanaav_S01E10_Undeterred_18850_10.mkv.mp4",
+                "11":"https://streamtape.to/v/y2m9d7Go7jC16ol/Tanaav_S01E11_Calm_Before_The_Storm_18850_11.mkv.mp4",
+                "12":"https://streamtape.to/v/BO9Vgmab6Bcygo0/Tanaav_S01E12_Chaos_18850_12.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/5vv2rorytga9",
+                "2": "https://streamhub.to/gknie4z270r6",
+                "3": "https://streamhub.to/gn2ot33varf5",
+                "4": "https://streamhub.to/co9um1w980b6",
+                "5": "https://streamhub.to/35cf883h7rwh",
+                "6": "https://streamhub.to/i1shpinn49et",
+                "7": "https://streamhub.to/7tux026azij6",
+                "8": "https://streamhub.to/q9o0r9st4fmv",
+                "9":"https://streamhub.to/ism5cwcuvag4",
+                "10":"https://streamhub.to/go34j7rpjibh",
+                "11":"https://streamhub.to/cqpcprl8bdd9",
+                "12":"https://streamhub.to/owzv6y11dbv8"
+            }
+        },
+        {
             "id": "860",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/cJKsdssZ/Wednesday-Season-1.jpg",
@@ -34005,6 +34013,40 @@
                 "6": "https://streamhub.to/wfq6hmmjt0hc",
                 "7": "https://streamhub.to/z2n3gvmh4kph",
                 "8": "https://streamhub.to/14nbksua7dl0"
+            }
+        },
+        {
+            "id": "861",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/bwKN6vK4/Girls-Hostel-Season-3.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/05Fk5jNj/Girls-Hostel-Season-3.gif",
+            "movieName": "Girls Hostel Season 3",
+            "htmlFile": "https://www.18861",
+            "directOne": "Drama,Comedy",
+            "directSecond": "lG2eNCjiVx8",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Girls Hostel",
+            "pathName": "S3",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/rx1QWombrRibrK0/Girls_Hostel_S03E01_Expectations_18861_1.mkv.mp4",
+                "2": "https://streamtape.to/v/Mroope07xMTmj4L/Girls_Hostel_S03E02_Dilemma_18861_2.mkv.mp4",
+                "3": "https://streamtape.to/v/lDM2XXPbBKta1r/Girls_Hostel_S03E03_Hustle_18861_3.mkv.mp4",
+                "4": "https://streamtape.to/v/MPQgX3rpBqiBo7/Girls_Hostel_S03E04_Frenemies_18861_4.mkv.mp4",
+                "5": "https://streamtape.to/v/V70jgdplrbiKAmW/Girls_Hostel_S03E05_Explosion_18861_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/0zbn8foyppa0",
+                "2": "https://streamhub.to/xegrgs3t9t07",
+                "3": "https://streamhub.to/ygjrm4i16iyy",
+                "4": "https://streamhub.to/qhghqiardj2a",
+                "5": "https://streamhub.to/ji3skmqk0jfb"
             }
         }
     ]

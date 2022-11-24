@@ -2,6 +2,28 @@
     "AllMovieDataList": [
     
         {
+            "id": "2723",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/3w7WKVWR/Halloween-Ends-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/hvwfcG7W/Halloween-Ends-2022.jpg",
+            "movieName": "Halloween Ends (2022)",
+            "htmlFile": "https://www.2723",
+            "directOne": "Hindi+English",
+            "directSecond": "i_mAWKyfj6c",
+            "imbd": "7.0",
+            "rating": "HD 720p",
+            "catergory": "Horror,Thriller",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Bullet%20Train%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Bullet%20Train%20%282022%29.jpg",
+            "hub": "https://streamhub.to/wuubeflevkbg",
+            "tape": "https://streamtape.to/v/9yVWeKGOQrfa0YY/Halloween_Ends_%282022%29_2723.mkv.mp4"
+        },
+        {
             "id": "2630",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/FRCY0HH6/Kantara-2022.jpg",
@@ -2815,7 +2837,7 @@
             "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/5zt1btjzilh8",
-            "tape": "https://streamtape.site/v/1d7l2LMx8YFeQwj/Ranga_Ranga_Vaibhavanga_%282022%29_12611.mkv.mp4"
+            "tape": "https://streamtape.to/v/mDVM7XgZXvCb8Yb/Ranga_Ranga_Vaibhavanga_2022_12611.mkv.mp4"
         },
         {
             "id": "40",
