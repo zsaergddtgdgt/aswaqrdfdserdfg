@@ -33942,7 +33942,7 @@
             "Industry": "webSeries",
             "latest": "FALSE",
             "latestCatergory": "FALSE",
-            "keyName": "Dharavi Bank",
+            "keyName": "Somebody",
             "pathName": "S1",
             "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
             "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
@@ -33965,6 +33965,46 @@
                 "6": "https://streamhub.to/z1zz908cjcbg",
                 "7": "https://streamhub.to/xo09uy7s0u7c",
                 "8": "https://streamhub.to/lalpxzsfwtbx"
+            }
+        },
+        {
+            "id": "860",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/cJKsdssZ/Wednesday-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/15zrmTNM/Wednesday-Season-1.jpg",
+            "movieName": "Wednesday Season 1",
+            "htmlFile": "https://www.18860",
+            "directOne": "Crime,Comedy",
+            "directSecond": "Xc72yWJEb8Q",
+            "imbd": "6.8",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Wednesday",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/YBVwKwORkgFvWXY/Wednesday_S01E01_18860_1.mkv.mp4",
+                "2": "https://streamtape.to/v/OADZrJk4o0cZbk1/Wednesday_S01E02_18860_2.mkv.mp4",
+                "3": "https://streamtape.to/v/MAx7XOBwpWUYAX/Wednesday_S01E03_18860_3.mkv.mp4",
+                "4": "https://streamtape.to/v/OdlDrzQbD1HZlxl/Wednesday_S01E04_18860_4.mkv.mp4",
+                "5": "https://streamtape.to/v/3JR3pwgrrZTdODv/Wednesday_S01E05_18860_5.mkv.mp4",
+                "6": "https://streamtape.to/v/gl9ma0dPavUqK1k/Wednesday_S01E06_18860_6.mkv.mp4",
+                "7": "https://streamtape.to/v/YyxoxWWdjXivvAa/Wednesday_S01E07_18860_7.mkv.mp4",
+                "8": "https://streamtape.to/v/m7Poy7RG7ASkDz/Wednesday_S01E08_18860_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/7tsnpfn0bqn2",
+                "2": "https://streamhub.to/2iineh6soj6k",
+                "3": "https://streamhub.to/zvi0vq2rr1dg",
+                "4": "https://streamhub.to/jrakt69a2o2p",
+                "5": "https://streamhub.to/5lgmnkmgr77p",
+                "6": "https://streamhub.to/wfq6hmmjt0hc",
+                "7": "https://streamhub.to/z2n3gvmh4kph",
+                "8": "https://streamhub.to/14nbksua7dl0"
             }
         }
     ]
