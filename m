@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "2724",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/V6Q23kY7/Bhediya-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Kv2vnmBD/Bhediya-2022.jpg",
+            "movieName": "Bhediya (2022)",
+            "htmlFile": "https://www.2724",
+            "directOne": "Hindi",
+            "directSecond": "d_BPlvbw_ok",
+            "imbd": "8.9",
+            "rating": "HDCamRip",
+            "catergory": "Thriller,Comedy",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/u3jn01f8ubh0",
+            "tape": "https://streamtape.to/v/jPqr0VeZM3UzlJq/Bhediya_%282022%29_2724.mkv.mp4"
+        },
         {
             "id": "2600",
             "activity": "1",
