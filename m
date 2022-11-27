@@ -46,6 +46,28 @@
             "tape": "https://streamtape.to/v/LqVLKBBwMWi4Bj/Bhediya_%282022%29_2724.mkv.mp4"
         },
         {
+            "id": "2694",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/yN6mbjjH/Black-Panther-Wakanda-Forever-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/7ZKDgPQN/Black-Panther-Wakanda-Forever-2022.jpg",
+            "movieName": "Black Panther: Wakanda Forever (2022)",
+            "htmlFile": "https://www.2694",
+            "directOne": "Hindi",
+            "directSecond": "Yp-DBEBSOeE",
+            "imbd": "7.6",
+            "rating": "HDTVRip - V5",
+            "catergory": "Action,Adventure",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Godse%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
+            "hub": "https://streamhub.to/2shtmsqxy3yg",
+            "tape": "https://streamtape.to/v/oL0bQ98epVHJJqW/Black_Panther_-_Wakanda_Forever_%282022%29_2694.to.mkv.mp4"
+        },
+        {
             "id": "2725",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/W48yKBnQ/Matchless-Mulan-2020.jpg",
