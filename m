@@ -7,7 +7,7 @@
             "ImageUrlVertical": "https://i.postimg.cc/qqmRMYLB/The-Guardians-of-the-Galaxy-Holiday-Special-2022.jpg",
             "movieName": "The Guardians of the Galaxy Holiday Special (2022)",
             "htmlFile": "https://www.2727",
-            "directOne": "Hindi[HQ Dubbed]+Eng",
+            "directOne": "Hindi[HQ Dubbed]",
             "directSecond": "OYhFFQl4fLs",
             "imbd": "7.6",
             "rating": "HD 720p",
