@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    {
+            "id": "2735",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/gJJD3QDC/Zakir-Khan-Tathastu-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/YqMCC7Cq/Zakir-Khan-Tathastu-2022.jpg",
+            "movieName": "Zakir Khan: Tathastu (2022)",
+            "htmlFile": "https://www.12735",
+            "directOne": "Hindi",
+            "directSecond": "QTIt_UL1QZc",
+            "imbd": "8.9",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://techapp.postho.in/Poster/h1/Liger%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
+            "hub": "https://streamhub.to/9qktspcfz0zn",
+            "tape": "https://streamtape.to/v/K70BmALZ3ru09qJ/Tathastu_%282022%29_12735.mkv.mp4"
+        },
         {
             "id": "2724",
             "activity": "1",
