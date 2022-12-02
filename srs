@@ -34188,6 +34188,32 @@
                 "1": "https://streamhub.to/194izewrttvv",
                 "2": "https://streamhub.to/6dm7pf4ycjzj"
             }
+        },
+        {
+            "id": "866",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/R0rSVhwY/Vadhandhi-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/9QD592Wj/Vadhandhi-Season-1.jpg",
+            "movieName": "Vadhandhi Season 1",
+            "htmlFile": "https://www.18866",
+            "directOne": "Thriller,Drama",
+            "directSecond": "pNML-Ijzh58",
+            "imbd": "6.8",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Willow",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/BeqlVW9pkquyAJb/Vadhandhi_The_Fable_of_Velonie_%282022%29_18866_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/6kg9ibuc81q8"
+            }
         }
     ]
 }
