@@ -33892,44 +33892,6 @@
             }
         },
         {
-            "id": "839",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/wjYkQk6K/The-Peripheral-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/fWHFCpPG/The-Peripheral-Season-1.jpg",
-            "movieName": "The Peripheral Season 1",
-            "htmlFile": "https://www.18839",
-            "directOne": "Drama,Sci-Fi,Thriller",
-            "directSecond": "Oq1qBRmR96s",
-            "imbd": "5.5",
-            "rating": "Hindi-English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "A",
-            "keyName": "The Peripheral",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
-            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/4GvP2x3mR2CZzA/The.Peripheral.S01E01.Pilot.mkv.mp4",
-                "2": "https://streamtape.to/v/m9rjaBXGz0tdM1/The.Peripheral.S01E02.Empathy.Bonus.mkv.mp4",
-                "3": "https://streamtape.to/v/0Aob3ozlV1IbXjv/The.Peripheral.S01E03_18839_3.mkv.mp4",
-                "4": "https://streamtape.to/v/6bMAmzY99MSoYr/The.Peripheral.S01E04_18839_4.mkv.mp4",
-                "5": "https://streamtape.to/v/dLW882zMGxhkvWX/The_Peripheral_S01E05_18839_5.mkv.mp4",
-                "6": "https://streamtape.to/v/WQKP7Rpd3gHb7mm/The.Peripheral.S01E06_18839_6.mkv.mp4",
-                "7": "https://streamtape.to/v/Zyl4jMB6A7Sq242/The.Peripheral_S01E07_18839_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/ga1kxnv5deiu",
-                "2": "https://streamhub.to/0xyw3kkxy8qx",
-                "3": "https://streamhub.to/1cxco477tosd",
-                "4": "https://streamhub.to/ozads13powe0",
-                "5": "https://streamhub.to/fiuxzo79vynt",
-                "6": "https://streamhub.to/y7xr7iq4kvtj",
-                "7": "https://streamhub.to/hl2zolmoe2m5"
-            }
-        },
-        {
             "id": "850",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/sDLbBqzb/Tanaav-Season-1.jpg",
@@ -34213,6 +34175,72 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/6kg9ibuc81q8"
+            }
+        },
+        {
+            "id": "839",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/wjYkQk6K/The-Peripheral-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/fWHFCpPG/The-Peripheral-Season-1.jpg",
+            "movieName": "The Peripheral Season 1",
+            "htmlFile": "https://www.18839",
+            "directOne": "Drama,Sci-Fi,Thriller",
+            "directSecond": "Oq1qBRmR96s",
+            "imbd": "5.5",
+            "rating": "Hindi-English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "A",
+            "keyName": "The Peripheral",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f625/5xfrqrre0od9o676g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/33aa/ldwk47coru9shkw6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4GvP2x3mR2CZzA/The.Peripheral.S01E01.Pilot.mkv.mp4",
+                "2": "https://streamtape.to/v/m9rjaBXGz0tdM1/The.Peripheral.S01E02.Empathy.Bonus.mkv.mp4",
+                "3": "https://streamtape.to/v/0Aob3ozlV1IbXjv/The.Peripheral.S01E03_18839_3.mkv.mp4",
+                "4": "https://streamtape.to/v/6bMAmzY99MSoYr/The.Peripheral.S01E04_18839_4.mkv.mp4",
+                "5": "https://streamtape.to/v/dLW882zMGxhkvWX/The_Peripheral_S01E05_18839_5.mkv.mp4",
+                "6": "https://streamtape.to/v/WQKP7Rpd3gHb7mm/The.Peripheral.S01E06_18839_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Zyl4jMB6A7Sq242/The.Peripheral_S01E07_18839_7.mkv.mp4",
+                "8":"https://streamtape.to/v/6WPA771jxyt9DGm/The_Peripheral_S01E08_18839_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ga1kxnv5deiu",
+                "2": "https://streamhub.to/0xyw3kkxy8qx",
+                "3": "https://streamhub.to/1cxco477tosd",
+                "4": "https://streamhub.to/ozads13powe0",
+                "5": "https://streamhub.to/fiuxzo79vynt",
+                "6": "https://streamhub.to/y7xr7iq4kvtj",
+                "7": "https://streamhub.to/hl2zolmoe2m5",
+                "8":"https://streamhub.to/jvnv7plzdok3"
+            }
+        },
+        {
+            "id": "867",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/J0G8QMvS/Crushed-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Zqs4vWD6/Crushed-Season-2.jpg",
+            "movieName": "Crushed Season 2",
+            "htmlFile": "https://www.18867",
+            "directOne": "FALSE",
+            "directSecond": "6lacLapwIFU",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Crushed",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Bk93oGg8eZTyZoJ/Crushed_S02_18867_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/hx6bxnro7wz7"
             }
         }
     ]
