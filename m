@@ -44,6 +44,50 @@
             "hub": "https://streamhub.to/n3mdlwo2jjp2",
             "tape": "https://streamtape.to/v/MJoLPGAJ6DFmVde/Ram_Setu_%282022%29_12657.mkv.mp4"
         },
+        {
+            "id": "2751",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/3wdRgQqQ/HIT-The-2nd-Case-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/v86VJf3w/HIT-The-2nd-Case-2022.jpg",
+            "movieName": "HIT: The 2nd Case (2022)",
+            "htmlFile": "https://www.2751",
+            "directOne": "Hindi [HQ Dubbed]",
+            "directSecond": "4GzAwnjVTqc",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Crime,Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/27yo6q3wcrbj",
+            "tape": "https://streamtape.to/v/0BRPOYJRDmtDmg/HIT_The_2nd_Case_2022_2751.mkv.mp4"
+        },
+        {
+            "id": "2750",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/NMBh71Jq/Repeat-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/4nCmBLrN/Repeat-2022.jpg",
+            "movieName": "Repeat (2022)",
+            "htmlFile": "https://www.2750",
+            "directOne": "Hindi [HQ Dubbed]",
+            "directSecond": "Eyp6uPaXrNc",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Crime,Thriller",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/un2cqqbb793n",
+            "tape": "https://streamtape.to/v/gr89bAD84rFqdx6/Repeat_%282022%29_2750.mkv.mp4"
+        },
      {
             "id": "2739",
             "activity": "1",
@@ -20853,7 +20897,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/a8b3/b4pvzpztpi52ja96g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/edc8/qywd7jvvfg3tx5m6g.jpg",
-            "hub": "https://streamhub.to/pdjgs1s1lm69",
+            "hub": "https://streamhub.to/txjz2z8cj39o",
             "tape": "https://streamtape.to/v/A3DKrQaJXbsXqyQ/Chintu_Ka_Birthday_%282020%29_1482.mkv.mp4"
         },
         {
@@ -20875,7 +20919,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/ea09/bmyxlbirgxai0jl6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/c171/63r7t5vd0boye1k6g.jpg",
-            "hub": "https://streamhub.to/q5ej7zyl8k4z",
+            "hub": "https://streamhub.to/fuw44zhefk8y",
             "tape": "https://streamtape.to/v/1xQXpORBoaFeYLa/Choked_Paisa_Bolta_Hai_%282020%29_1483.mkv.mp4"
         },
         {
@@ -20897,7 +20941,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/06e8/v08yl0y648mqcnr6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/80df/cnjyv8dk9umpirw6g.jpg",
-            "hub": "https://streamhub.to/f5adnhxsknzf",
+            "hub": "https://streamhub.to/fxz172kwmigp",
             "tape": "https://streamtape.to/v/GGw3V27PZbh1J8X/Eeb_Allay_Ooo_%282020%29_1461.mkv.mp4"
         },
         {
@@ -20941,7 +20985,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1112/jduqnde1vlrdl1x6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/fdad/o0ooqx7mhiuo1er6g.jpg",
-            "hub": "https://streamhub.to/9vtodqhy1mcn",
+            "hub": "https://streamhub.to/j2cly3wvror8",
             "tape": "https://streamtape.to/v/qymdlQem89Izbda/Awara_Paagal_Deewana_%282002%29_1466.mkv.mp4"
         },
         {
@@ -20963,7 +21007,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/4167/wzjjc36vn6dnus46g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/297e/ixzago38t03st1m6g.jpg",
-            "hub": "https://streamhub.to/agssgs2kbgc9",
+            "hub": "https://streamhub.to/92w60jesle8x",
             "tape": "https://streamtape.to/v/01Bv8ojAapcmJ2/Bol_Bachchan_%282012%29_1467.mkv.mp4"
         },
         {
@@ -20985,7 +21029,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/c31a/5kjf59ocjg6d1966g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/b46e/ybh5ocgfu7thact6g.jpg",
-            "hub": "https://streamhub.to/cl5sneppttp8",
+            "hub": "https://streamhub.to/5w5a4t51m3to",
             "tape": "https://streamtape.to/v/jPlrQo688oUzBqV/Dulha_Mil_Gaya_%282010%29_1468.mkv.mp4"
         },
         {
@@ -21007,7 +21051,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3168/md8vggqu9ohjw1w6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a4ce/s42lwi2bimazddi6g.jpg",
-            "hub": "https://streamhub.to/s5vpj7wyk18h",
+            "hub": "https://streamhub.to/1lxiwwu200p8",
             "tape": "https://streamtape.to/v/3Aqed7P1XWCdeY4/Kasoor_%282001%29_1469.mkv.mp4"
         },
         {
@@ -21051,7 +21095,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/ac72/fidylym63hn95a26g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/dab6/9rtvv3f5ai6uhqa6g.jpg",
-            "hub": "https://streamhub.to/umlebwye1ytv",
+            "hub": "https://streamhub.to/7q5x0v1jnm3e",
             "tape": "https://streamtape.to/v/bppWp0L6QwCPZyB/Tumsa_Nahin_Dekha_%282004%29_1471.mkv.mp4"
         },
         {
@@ -21513,7 +21557,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/0773/y3cqlzrviye8gx86g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/dc43/eis1dgj8rfjlzzm6g.jpg",
-            "hub": "https://streamhub.to/ao9bjtd0akt5",
+            "hub": "https://streamhub.to/c85u4h78dya9",
             "tape": "https://streamtape.to/v/k9wBWvOAAxFOkap/Salaam_Bombay_%281988%29_1234.mkv.mp4"
         },
         {
@@ -21557,7 +21601,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/5325/pfijb8s7ln478wl6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/4c20/lfw46bs03w9ktw96g.jpg",
-            "hub": "https://streamhub.to/3sa5nbhg3nnz",
+            "hub": "https://streamhub.to/d0xg9yqig405",
             "tape": "https://streamtape.to/v/gojo6o2RaYU41y/Wedding_Anniversary_%282017%29_1216.mkv.mp4"
         },
         {
@@ -21645,7 +21689,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/5642/0w2h1lz04vkkq3d6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/6fd5/pig4ga4zooxou6b6g.jpg",
-            "hub": "https://streamhub.to/43p66qu9y0gn",
+            "hub": "https://streamhub.to/4uu5062g4jz8",
             "tape": "https://streamtape.to/v/3p1RW2Y8p3IdWwL/Court_Martial_%282020%29_1161.mkv.mp4"
         },
         {
@@ -21711,7 +21755,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/aa74/qr85krty4xrjms06g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/d0bf/5bx7f0nfzilzu186g.jpg",
-            "hub": "https://streamhub.to/h0ldr30akei8",
+            "hub": "https://streamhub.to/putuwfkid5f5",
             "tape": "https://streamtape.to/v/YWaQY0vWo1ivVoJ/Bedhab_%282019%29_1139.mkv.mp4"
         },
         {
@@ -22129,7 +22173,7 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2bb5/j2qn3ydfzyuy5hw6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/30ca/2jxhj5xh17201bc6g.jpg",
-            "hub": "https://streamhub.to/x6jq3hxjnmo1",
+            "hub": "https://streamhub.to/3v4rdvrodtso",
             "tape": "https://streamtape.to/v/yryPx0W6kPi1Wx9/Fukrey_%282013%29_9793.mkv.mp4"
         },
         {
@@ -22261,7 +22305,7 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3de1/nv8l70dgp2dh3n36g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/ce28/3kra5oe16us11ko6g.jpg",
-            "hub": "https://streamhub.to/nro7m98kso80",
+            "hub": "https://streamhub.to/rmt71jppjkus",
             "tape": "https://streamtape.to/v/8B6ZpezdjOtoKdR/Singham_returns_%282014%29_9816.mkv.mp4"
         },
         {
@@ -22327,7 +22371,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e717/5tcscb3mbww22p16g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/9c87/0wklysls87ewlyv6g.jpg",
-            "hub": "https://streamhub.to/3p6h6z1czpr1",
+            "hub": "https://streamhub.to/l5z1255l6776",
             "tape": "https://streamtape.to/v/lP1zDlX3jAC7Ye9/The_Lift_Boy_%282020%29_1104.mkv.mp4"
         },
         {
@@ -22635,7 +22679,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/bc49/7ckg2wozpksfime6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/9492/p173cwfcasw36cc6g.jpg",
-            "hub": "https://streamhub.to/ievqmfmdxah1",
+            "hub": "https://streamhub.to/a1tgs4esrpsr",
             "tape": "https://streamtape.to/v/KXZYWAZmY3U0xXG/Gunday_%282014%29_9871.mkv.mp4"
         },
         {
@@ -22657,7 +22701,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/a942/8vb0suwki47ytiu6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/fbbf/nesx6m1gelr0oei6g.jpg",
-            "hub": "https://streamhub.to/xdms288tkle0",
+            "hub": "https://streamhub.to/hzg5z2dhuv4f",
             "tape": "https://streamtape.to/v/oZloOmJ9LZiJqAA/Madaari_%282016%29_9869.mkv.mp4"
         },
         {
@@ -22679,7 +22723,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/b86e/st9h5arr0baake16g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/74bc/03l43migeve2u5e6g.jpg",
-            "hub": "https://streamhub.to/9ku08elsmddw",
+            "hub": "https://streamhub.to/mhv3w6lfq1e2",
             "tape": "https://streamtape.to/v/1OdOJeQkrgtePMy/D-Day_%282018%29_9848.mkv.mp4"
         },
         {
@@ -23053,7 +23097,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/6cd2/8oye7vx9euwpwrz6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/113b/4k8zk3qk4i7v2pl6g.jpg",
-            "hub": "https://streamhub.to/vkphyfj9i3f2",
+            "hub": "https://streamhub.to/x6oypd3l9j8g",
             "tape": "https://streamtape.to/v/L1zBgQLO23IRRYD/Ateet_%282020%29_2405.mkv.mp4"
         },
         {
@@ -23075,7 +23119,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2dc2/ylpkeyhmxeq6bql6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/066f/cfdh9ls0ky60dys6g.jpg",
-            "hub": "https://streamhub.to/cnjy26ecfyge",
+            "hub": "https://streamhub.to/m31lrkw5e05v",
             "tape": "https://streamtape.to/v/BzYDDWLyJGIyBVl/Pata_Nahi_Par_Bolna_Hain_%282020%29_2384.mkv.mp4"
         },
         {
@@ -23097,7 +23141,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/8e81/og6mp3npa8o1h666g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/f7d0/3yl2rzgerkl1ct16g.jpg",
-            "hub": "https://streamhub.to/2686s9c6bvko",
+            "hub": "https://streamhub.to/idugj9lht8eg",
             "tape": "https://streamtape.to/v/xX7Mj4j2q6FkkDv/Anand_%281971%29_2364.mkv.mp4"
         },
         {
@@ -23207,7 +23251,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2ede/lnisbxvbrp1si7h6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/f1c5/sqiu4a95v9gwvbe6g.jpg",
-            "hub": "https://streamhub.to/w5k6jjrcz0mv",
+            "hub": "https://streamhub.to/ql8x4pe9f1uh",
             "tape": "https://streamtape.to/v/gjx7AyjqXyiqyvj/ACID_-_Astounding_Courage_in_Distress_%282020%29_2088.mkv.mp4"
         },
         {
@@ -23251,7 +23295,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e612/xunmhmiuhart12x6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/666a/5eu5poptx4wc2ps6g.jpg",
-            "hub": "https://streamhub.to/29knhqrpvk0h",
+            "hub": "https://streamhub.to/4ldm3atwj8ie",
             "tape": "https://streamtape.to/v/4WQR4az9RksKgbl/One_Stop_For_Love_%282020%29_10153.mkv.mp4"
         },
         {
@@ -24285,7 +24329,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/7276/klecehee8rawa8i6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/f040/2x1jtyrkf7sgfo96g.jpg",
-            "hub": "https://streamhub.to/8tnxhfgxkxjr",
+            "hub": "https://streamhub.to/xq9waaw79f29",
             "tape": "https://streamtape.to/v/b186A0g29yIPeMm/Bunker_%282020%29_2703.mkv.mp4"
         },
         {
@@ -25407,7 +25451,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1ec6/9qguzqbzlq4nino6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/0b81/yk95wzfzb6nuwai6g.jpg",
-            "hub": "https://streamhub.to/cgy5ktvr46sl",
+            "hub": "https://streamhub.to/x7su094bv4yx",
             "tape": "https://streamtape.to/v/o1ZGYGk1qKsJlM3/Is_Love_Enough_Sir_%282020%29_2617.mkv.mp4"
         },
         {
@@ -25781,7 +25825,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/9edd/du9mc7qwjzwu9aj6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/01ef/bcf8npsmecu4fqs6g.jpg",
-            "hub": "https://streamhub.to/pjodhr3oezgs",
+            "hub": "https://streamhub.to/719kcwckj1gw",
             "tape": "https://streamtape.to/v/aqPPwXlW0afx6wz/Guilty_%282020%29_2824.mkv.mp4"
         },
         {
@@ -26595,7 +26639,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/0318/zpo8et7qkdk3zjp6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/3fef/aog1y6aajcf3tut6g.jpg",
-            "hub": "https://streamhub.to/2xrr5lcq9qnz",
+            "hub": "https://streamhub.to/o8c3qinezw6l",
             "tape": "https://streamtape.to/v/4XadPoMADWSK68x/Jawaani_Jaaneman_%282020%29_2343.mkv.mp4"
         },
         {
@@ -26617,7 +26661,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f370/8ziv25kqzeno5xi6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/28f4/rn1a06e4yorz8h16g.jpg",
-            "hub": "https://streamhub.to/a9i58gwmcfk1",
+            "hub": "https://streamhub.to/cysk8qwnosk9",
             "tape": "https://streamtape.to/v/03XDQMz97Gse9A/Panga_%282020%29_2293.mkv.mp4"
         },
         {
@@ -26683,7 +26727,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e83f/qzeatz9rxb1rkux6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a16e/26xydcn6apws7bj6g.jpg",
-            "hub": "https://streamhub.to/ze43urdjex5u",
+            "hub": "https://streamhub.to/h0j8siwu51dm",
             "tape": "https://streamtape.to/v/QbXZ8OyW9AiglJ/Motichoor_Chaknachoor_%282019%29_2278.mkv.mp4"
         },
         {
@@ -26771,7 +26815,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3864/q0pw2pchahc6e9e6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/3721/sdv343kcqoj75p26g.jpg",
-            "hub": "https://streamhub.to/po35swea0k6z",
+            "hub": "https://streamhub.to/2egjitttf2pp",
             "tape": "https://streamtape.to/v/d8Pyx6ddz8iQqO/Jai_Mummy_Di_%282020%29_2256.mkv.mp4"
         },
         {
@@ -27585,7 +27629,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e96a/mn6srta4bw678846g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/1244/dh8u9krbjjgjph26g.jpg",
-            "hub": "https://streamhub.to/6i1jqoo657cr",
+            "hub": "https://streamhub.to/xk4h1bizdj5a",
             "tape": "https://streamtape.to/v/BJqAD2PXX7SypJ6/The_Sky_Is_Pink_%282019%29_2834.mkv.mp4"
         },
         {
@@ -29037,7 +29081,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/f86f/onf7vmq6cbymgin6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/cf5b/89pg8z2gsdygii56g.jpg",
-            "hub": "https://streamhub.to/457hji08pbif",
+            "hub": "https://streamhub.to/awrctwyxxqa1",
             "tape": "https://streamtape.to/v/Mal0ewRzPVFmvkZ/Bypass_Road_%282019%29_9199.mkv.mp4"
         },
         {
@@ -29763,7 +29807,7 @@
             "pathName": "4",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/36c1/wui0xyqondzbic66g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/6f73/jzp41utj902z0sh6g.jpg",
-            "hub": "https://streamhub.to/ddarsjoxbc2o",
+            "hub": "https://streamhub.to/uzatimhiqh7s",
             "tape": "https://streamtape.to/v/Z27p1Wr19qSqp2a/Housefull_4_%282019%29_9001.mkv.mp4"
         },
         {
@@ -29785,7 +29829,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/57f9/wetie5b4sakejrs6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/8ca2/w01567gxdrvvwml6g.jpg",
-            "hub": "https://streamhub.to/4z1b6ea5te91",
+            "hub": "https://streamhub.to/a7aoh67pivm5",
             "tape": "https://streamtape.to/v/grDD77zMgGcq1M7/Made_in_China_%282019%29_8979.mkv.mp4"
         },
         {
@@ -29829,7 +29873,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1b2c/mngy5qsojdzavtr6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/c200/n9331jwzeb8rfqz6g.jpg",
-            "hub": "https://streamhub.to/0mohealdjz6j",
+            "hub": "https://streamhub.to/7g9tlf004ml1",
             "tape": "https://streamtape.to/v/B4DD4zlPoRUyBwP/Saand_Ki_Aankh_%282019%29_8985.mkv.mp4"
         },
         {
@@ -29939,7 +29983,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/eb5e/vk87k9eotekxuep6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/09ca/ff9dgwv9gn4ci4j6g.jpg",
-            "hub": "https://streamhub.to/q2tknmebl7uf",
+            "hub": "https://streamhub.to/kbyzadq4cje2",
             "tape": "https://streamtape.to/v/y22Y312rp7c1VJx/Gunwali_Dulhaniya_%282019%29_8963.mkv.mp4"
         },
         {
@@ -30335,7 +30379,7 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e4d4/3hwnq1hmf2nuo2b6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/442c/h44p2yny1i6yldw6g.jpg",
-            "hub": "https://streamhub.to/ec42oyi6zg2j",
+            "hub": "https://streamhub.to/g182j2fwuyz4",
             "tape": "https://streamtape.to/v/jOp02GDwmKHLBd/Grand_Masti_%282013%29_8837.mkv.mp4"
         },
         {
@@ -31061,7 +31105,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/4e71/9iyq93ahb2a4o5g6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/7433/m2tjdr021fjqspt6g.jpg",
-            "hub": "https://streamhub.to/ij0axukaidfi",
+            "hub": "https://streamhub.to/dyqdlof9e0rt",
             "tape": "https://streamtape.to/v/BXzMObw0rwhV3Q/Ekkees_Tareekh_Shubh_Muhurat_%282018%29_8658.mkv.mp4"
         },
         {
@@ -32271,7 +32315,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/058b/yosfsb2jjm520jm6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/771f/9ws64040c3swvee6g.jpg",
-            "hub": "https://streamhub.to/dm5592rb7jxk",
+            "hub": "https://streamhub.to/cs6mgehhmdac",
             "tape": "https://streamtape.to/v/QJwB7Z429OF0MAO/Talvar_%282015%29_3021.mkv.mp4"
         },
         {
@@ -32293,7 +32337,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/922b/hddxsnzb3zghc0m6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/98ca/jmczl0cfdj6brbf6g.jpg",
-            "hub": "https://streamhub.to/x6o4978n5m3e",
+            "hub": "https://streamhub.to/kdqbmru53cb4",
             "tape": "https://streamtape.to/v/2k01Wk8AG9HZ8JM/The_Zoya_Factor_%282019%29_3022.mkv.mp4"
         },
         {
@@ -32315,7 +32359,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/6f02/magdh7akwq48jyp6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/ff0c/26kvdnqsfzavrdf6g.jpg",
-            "hub": "https://streamhub.to/5y30rsclyc7h",
+            "hub": "https://streamhub.to/4fi85drug8sn",
             "tape": "https://streamtape.to/v/XdxAKqy0w0s0ZG/Prassthanam_%282019%29_3023.mkv.mp4"
         },
         {
@@ -32359,7 +32403,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/4305/94lvd6fspiroop96g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/8804/wxu1wydlqo8a74p6g.jpg",
-            "hub": "https://streamhub.to/pbj5tz7zh5jc",
+            "hub": "https://streamhub.to/arz0gqea3qio",
             "tape": "https://streamtape.to/v/kp6WWmvaGjt87d/Pal_Pal_Dil_Ke_Paas_%282019%29_3024.mkv.mp4"
         },
         {
@@ -32535,7 +32579,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/4235/o14l18j2bcqntfe6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/3493/ama5tbyxjgdayp36g.jpg",
-            "hub": "https://streamhub.to/sx5udsppd0bs",
+            "hub": "https://streamhub.to/i19udvkedtk7",
             "tape": "https://streamtape.to/v/xkYWQoW7GXSkWBO/Ram_Ki_Janmabhoomi_%282019%29_3034.mkv.mp4"
         },
         {
@@ -32645,7 +32689,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/c87d/sx41tya57y2nqnj6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/0852/of0uq9fmxepk6hm6g.jpg",
-            "hub": "https://streamhub.to/qvp5s3x7nmnm",
+            "hub": "https://streamhub.to/6zrrbdzdfk0u",
             "tape": "https://streamtape.to/v/zwjw1oxZjaiveD/Tango_Charlie_%282005%29_3049.mkv.mp4"
         },
         {
@@ -32689,7 +32733,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/5c13/xsjgsjxwpc4c8fy6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/c787/sh5zyj98q1uedqd6g.jpg",
-            "hub": "https://streamhub.to/m0jsj91li62e",
+            "hub": "https://streamhub.to/fj6rqmlz0sfe",
             "tape": "https://streamtape.to/v/zPOBRPlrqRcYdpm/Section_375_%282019%29_3053.mkv.mp4"
         },
         {
@@ -34581,7 +34625,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/09f6/25wbbhgi1anrw9h6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/2e21/o2wsz992luzy81v6g.jpg",
-            "hub": "https://streamhub.to/0ih600ncr166",
+            "hub": "https://streamhub.to/258xuke5tcg5",
             "tape": "https://streamtape.to/v/qr9yoagPRohzJ8b/Judgementall_Hai_Kya_%282019%29_3178.mkv.mp4"
         },
         {
@@ -34647,7 +34691,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/da9e/ilh2lhu350uube56g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/0595/a47qeejh0zn9pel6g.jpg",
-            "hub": "https://streamhub.to/kn4w1n9c6iuj",
+            "hub": "https://streamhub.to/peeij76it3o9",
             "tape": "https://streamtape.to/v/J9QaKjVjpaTjzWd/One_Day_Justice_Delivered_%282019%29_3182.mkv.mp4"
         },
         {
@@ -34669,7 +34713,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/aa9c/8tl3hxzq9488frj6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/70af/a2cfi309bousu3e6g.jpg",
-            "hub": "https://streamhub.to/01vcy1vj0c07",
+            "hub": "https://streamhub.to/2w26xe3kalg0",
             "tape": "https://streamtape.to/v/XPrKy3YPaghD9my/Arjun_Patiala_%282019%29_3183.mkv.mp4"
         },
         {
@@ -35329,7 +35373,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/13d1/q9q1477porkjz356g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/503a/icj8vc0qjwebxn66g.jpg",
-            "hub": "https://streamhub.to/x9ncbteuwfwf",
+            "hub": "https://streamhub.to/isqy5h7wrr4k",
             "tape": "https://streamtape.to/v/7dRD1OXOWkc8lm/Malaal_%282019%29_3230.mkv.mp4"
         },
         {
@@ -38387,7 +38431,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/114e/x2k0fb148fhrqgf6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/5ff9/a10epieq0wxoyay6g.jpg",
-            "hub": "https://streamhub.to/925sbggsusbp",
+            "hub": "https://streamhub.to/3oq4n6gdcqov",
             "tape": "https://streamtape.to/v/dPOvVBbrRDs71z/Saadi_Love_Story_%282013%29_3426.mkv.mp4"
         },
         {
@@ -54183,7 +54227,7 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/ea5f/pzmkg5njqh20e5f6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a0fa/5kj9aiz350idf666g.jpg",
-            "hub": "https://streamhub.to/rab1e1ockqky",
+            "hub": "https://streamhub.to/6znmp92tdkog",
             "tape": "https://streamtape.to/v/wYmo12yOjLcWak/Percy_Jackson_And_The_Olympians_The_Lightning_Thief_%282010%29_4441.mkv.mp4"
         },
         {
