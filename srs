@@ -34276,6 +34276,36 @@
             }
         },
         {
+            "id": "870",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/SQrtLzjs/Fall-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/dtgRGqR3/Fall-Season-1.jpg",
+            "movieName": "Fall Season 1",
+            "htmlFile": "https://www.18870",
+            "directOne": "Drama",
+            "directSecond": "Doxuz6Ke210",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Fall",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/9lLY7pZP0Via8d1/Fall_S01E01_18870_1.mkv.mp4",
+                "2": "https://streamtape.to/v/Vz7azKpz9YUKwBg/Fall_S01E02_18870_2.mkv.mp4",
+                "3": "https://streamtape.to/v/l4R6WkBX2WczR9/Fall_S01E03_18870_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/amqkz0w2xqow",
+                "2": "https://streamhub.to/ulob3xz6j6vt",
+                "3": "https://streamhub.to/am2sjjesqmi3"
+            }
+        },
+        {
             "id": "869",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/26QmkSRp/Faadu-A-Love-Story-Season-1.jpg",
@@ -34290,7 +34320,7 @@
             "Industry": "webSeries",
             "latest": "FALSE",
             "latestCatergory": "FALSE",
-            "keyName": "Moving in with Malaika",
+            "keyName": "Faadu – A Love Story",
             "pathName": "S1",
             "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
             "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
