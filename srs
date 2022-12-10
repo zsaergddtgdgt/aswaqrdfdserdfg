@@ -34350,6 +34350,46 @@
                 "10": "https://streamhub.to/towkb347iq3c",
                 "11":"https://streamhub.to/fsqukyqb9jom"
             }
+        },
+        {
+            "id": "871",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/q7dXbwSH/CAT-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/0NFx16Gv/CAT-Season-1.jpg",
+            "movieName": "CAT Season 1",
+            "htmlFile": "https://www.18871",
+            "directOne": "Crime,Drama",
+            "directSecond": "PLsF0sd6GiY",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "CAT",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/DoQV0d9Zp8Ik03M/Cat_S01_E01_18871_1.mkv.mp4",
+                "2": "https://streamtape.to/v/6qJ9mAybLat9DLY/Cat_S01_E02_18871_2.mkv.mp4",
+                "3": "https://streamtape.to/v/kWRz3RDPRQfOlrJ/Cat_S01_E03_18871_3.mkv.mp4",
+                "4": "https://streamtape.to/v/jbxMDWb7Q0FzZBQ/Cat_S01_E04_18871_4.mkv.mp4",
+                "5": "https://streamtape.to/v/apX3ya8264FxRGr/Cat_S01_E05_18871_5.mkv.mp4",
+                "6": "https://streamtape.to/v/dROea84RPvtkqxg/Cat_S01_E06_18871_6.mkv.mp4",
+                "7": "https://streamtape.to/v/lWoxBrWlomU7Pem/Cat_S01_E07_18871_7.mkv.mp4",
+                "8": "https://streamtape.to/v/xb4Da1Mbjxuk2eL/Cat_S01_E08_18871_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/vl6fvmck04my",
+                "2": "https://streamhub.to/2tjy2agfrqgk",
+                "3": "https://streamhub.to/vv9fxrlk0hhm",
+                "4": "https://streamhub.to/7jlt7v3n6r82",
+                "5": "https://streamhub.to/s6omhz6xedrd",
+                "6": "https://streamhub.to/c91x45gv9ey6",
+                "7": "https://streamhub.to/c0zxj1efqioi",
+                "8": "https://streamhub.to/m2v6l47yn9gu"
+            }
         }
     ]
 }
