@@ -1,6 +1,137 @@
 {
     "AllMovieDataList": [
-    
+        {
+            "id": "2629",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/3Rd6Jt4v/Doctor-G-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/C1mtwWxY/Doctor-G-2022.jpg",
+            "movieName": "Doctor G (2022)",
+            "htmlFile": "https://www.12629",
+            "directOne": "Hindi",
+            "directSecond": "XJrRrMCEmp8",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/se24dfn45k5k",
+            "tape": "https://streamtape.to/v/3pJ9GXJoLRudoYz/Doctor_G_%282022%29_12629.mkv.mp4"
+        },
+        {
+            "id": "2764",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/9FVgTFKd/Life-Is-Good-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/hGHpGSV7/Life-Is-Good-2022.jpg",
+            "movieName": "Life Is Good (2022)",
+            "htmlFile": "https://www.2764",
+            "directOne": "Hindi",
+            "directSecond": "xAo7YNArum4",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/3rbtfrwlsj8h",
+            "tape": "https://streamtape.to/v/a4KkrV6PGPTx7WB/Life_is_good_%282022%29_2764.mkv.mp4"
+        },
+        {
+            "id": "2763",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/4d5pVZrd/Salaam-Venky-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/JzGK8ySQ/Salaam-Venky-2022.jpg",
+            "movieName": "Salaam Venky (2022)",
+            "htmlFile": "https://www.12763",
+            "directOne": "Hindi",
+            "directSecond": "CS0XfdRCUhk",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/w2l0etzm706b",
+            "tape": "https://streamtape.to/v/LLMrb3pd09fRdwx/Salaam_Venky_%282022%29_12763.mkv.mp4"
+        },
+        {
+            "id": "2762",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/BQ3jTdq9/Home-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/K4hcYy4c/Home-2022.jpg",
+            "movieName": "#Home (2022)",
+            "htmlFile": "https://www.2762",
+            "directOne": "Hindi+Malayam",
+            "directSecond": "0xrCuNa_zZU",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/rq3qfh9dpi04",
+            "tape": "https://streamtape.to/v/YLqOXDRa4Aud7p/Home_%282021%29_2762.mkv.mp4"
+        },
+        {
+            "id": "2761",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/SNLkG3J8/Vadh-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/v8JZh5XR/Vadh-2022.jpg",
+            "movieName": "Vadh (2022)",
+            "htmlFile": "https://www.12761",
+            "directOne": "Hindi",
+            "directSecond": "O5EkZtIXb1Q",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Drama,Thriller",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/3hm08ayynhia",
+            "tape": "https://streamtape.to/v/bv8V3WlAWQtP1Ka/Vadh_%282022%29_12761.mkv.mp4"
+        },
+        {
+            "id": "2760",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/KcgWPTRg/Maarrich-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/yd2bq1rd/Maarrich-2022.jpg",
+            "movieName": "Maarrich (2022)",
+            "htmlFile": "https://www.12760",
+            "directOne": "Hindi",
+            "directSecond": "NKz9oJhVT6g",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Thriller",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/ubtsgcdw1dds",
+            "tape": "https://streamtape.to/v/KX4axK6Y8rT02LO/Maarrich_%282022%29_12760.mkv.mp4"
+        },
         {
             "id": "2660",
             "activity": "1",
@@ -23,7 +154,7 @@
             "hub": "https://streamhub.to/1ejkx8y84b0m",
             "tape": "https://streamtape.to/v/ZrXzjM7yPPTqXJV/Har_Har_Mahadev_%282022%29_12660.mkv.mp4"
         },
-    {
+        {
             "id": "2753",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/QMfnfd7Z/Blurr-2022.jpg",
@@ -265,7 +396,7 @@
             "hub": "https://streamhub.to/mc9brmawdueh",
             "tape": "https://streamtape.to/v/o17qRoba0yHj0D/Beeba_Boys_%282015%29_2752.mkv.mp4"
         },
-     {
+        {
             "id": "2741",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/Xq2Htyps/An-Action-Hero-2022.jpg",
@@ -353,7 +484,7 @@
             "hub": "https://streamhub.to/un2cqqbb793n",
             "tape": "https://streamtape.to/v/gr89bAD84rFqdx6/Repeat_%282022%29_2750.mkv.mp4"
         },
-     {
+        {
             "id": "2739",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/8P8MZkQH/Freddy-2022.jpg",
@@ -419,7 +550,7 @@
             "hub": "https://streamhub.to/odrjnruuyy50",
             "tape": "https://streamtape.to/v/1D8kklOLpxheZ3e/Snowman_%282022%29_2748.mkv.mp4"
         },
-    {
+        {
             "id": "2747",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/QCkq0VpX/Nazar-Andaaz-2022.jpg",
@@ -485,7 +616,7 @@
             "hub": "https://streamhub.to/70l5ya71vr7w",
             "tape": "https://streamtape.to/v/vkpqj2ojrPc4gBX/Goodbye_%282022%29_12617.mkv.mp4"
         },
-    {
+        {
             "id": "2738",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/1tmkZKZm/India-Lockdown-2022.webp",
@@ -727,7 +858,7 @@
             "hub": "https://streamhub.to/lqsui5lbs07k",
             "tape": "https://streamtape.to/v/zwk9q6Vxv9upZ3/Uppena_%282021%29_12740.mkv.mp4"
         },
-    {
+        {
             "id": "2737",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/52tLZFHw/Troll-2022.jpg",
@@ -749,7 +880,7 @@
             "hub": "https://streamhub.to/6ol7ek0tr4f4",
             "tape": "https://streamtape.to/v/V891kXPzLehKeLy/Troll_%282022%29_12737.mkv.mp4"
         },
-    {
+        {
             "id": "2736",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/sf8yCk01/Qala-2022.jpg",
@@ -771,7 +902,7 @@
             "hub": "https://streamhub.to/hsjclmjvwodn",
             "tape": "https://streamtape.to/v/z3w20KY7w1FYd1L/Qala_%282022%29_12736.mkv.mp4"
         },
-    {
+        {
             "id": "2735",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/gJJD3QDC/Zakir-Khan-Tathastu-2022.jpg",
@@ -836,8 +967,8 @@
             "driveImageUrlVertical": "https://leathermed.net/Poster/v1/Dhokha - Round D Corner (2022).jpg",
             "hub": "https://streamhub.to/dakrk11v0w3x",
             "tape": "https://streamtape.to/v/P8YGplWpJpu0p83/Drishyam_2_%282022%29_2710.mkv.mp4"
-        }, 
-         {
+        },
+        {
             "id": "2734",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/tTrDRc9s/Hunt-2022.jpg",
@@ -858,8 +989,8 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Godse%20%282022%29.jpg",
             "hub": "https://streamhub.to/riu2a629dh9t",
             "tape": "https://streamtape.to/v/OgavBo81PbSgjj/Hunt_%282022%29_2734.mkv.mp4"
-        }, 
-         {
+        },
+        {
             "id": "2733",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/RVzYhkBY/My-Name-Is-Vendetta-2022.jpg",
@@ -881,7 +1012,7 @@
             "hub": "https://streamhub.to/ol5hm6gbtd4m",
             "tape": "https://streamtape.to/v/K00ODYokWbCJmz/My_Name_Is_Vendetta_%282022%29_2733.mkv.mp4"
         },
-         {
+        {
             "id": "2732",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/W3VLTGDC/A-Man-of-Action-2022.jpg",
@@ -3058,28 +3189,6 @@
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "hub": "https://streamhub.to/c46mj8viafyn",
             "tape": "https://streamtape.to/v/aR7vGOWR4YIxXzx/Modi_Ji_Ki_beti_%282022%29_12642.mkv.mp4"
-        },
-        {
-            "id": "2629",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/3Rd6Jt4v/Doctor-G-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/C1mtwWxY/Doctor-G-2022.jpg",
-            "movieName": "Doctor G (2022)",
-            "htmlFile": "https://www.12629",
-            "directOne": "Hindi",
-            "directSecond": "XJrRrMCEmp8",
-            "imbd": "7.6",
-            "rating": "HDCamRip",
-            "catergory": "Drama",
-            "Industry": "Bollywood",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
-            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
-            "hub": "https://streamhub.to/13qjimtqjh1w",
-            "tape": "https://streamtape.to/v/7P1k6P3BdXcx9k/Doctor.g.2022_12629.mkv.mp4"
         },
         {
             "id": "2631",
