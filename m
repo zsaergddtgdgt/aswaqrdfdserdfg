@@ -21,7 +21,7 @@
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "hub": "https://streamhub.to/orjbht2qydms",
-            "tape": "https://v803.streamhub.to/sc6tzwtfxyytnuzvovtc52j6u2sayhwrqco6hj26twhdgonkvs5tbsq43e3a/v.mp4"
+            "tape": "https://streamtape.to/v/y0Rb0GBd9zc1lpo/M.C.K_%28Macharla_Chunaav_Kshetra%29_%282022%29_2765.mkv.mp4"
         },
         {
             "id": "2629",

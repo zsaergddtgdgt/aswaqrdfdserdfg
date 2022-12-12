@@ -34390,6 +34390,32 @@
                 "7": "https://streamhub.to/c0zxj1efqioi",
                 "8": "https://streamhub.to/m2v6l47yn9gu"
             }
+        },
+        {
+            "id": "872",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/wTTyLg6F/Hasratein-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/q7B5dt0y/Hasratein-Season-1.jpg",
+            "movieName": "Hasratein Season 1",
+            "htmlFile": "https://www.18872",
+            "directOne": "Drama",
+            "directSecond": "MZNgspFslDo",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Hasratein",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/e0gKBZJpXwCYWLY/Hasratein_%282022%29_S01_18872_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/9amdhfclr0i3"
+            }
         }
     ]
 }
