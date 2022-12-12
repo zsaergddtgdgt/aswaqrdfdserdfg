@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2765",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/mkQh1FKc/M-C-K-Macharla-Chunaav-Kshetra-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/YSsv571S/M-C-K-Macharla-Chunaav-Kshetra-2022.jpg",
+            "movieName": "M.C.K - Macharla Chunaav Kshetra (2022)",
+            "htmlFile": "https://www.2765",
+            "directOne": "Hindi",
+            "directSecond": "FCrGSkymNEM",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/orjbht2qydms",
+            "tape": "https://v803.streamhub.to/sc6tzwtfxyytnuzvovtc52j6u2sayhwrqco6hj26twhdgonkvs5tbsq43e3a/v.mp4"
+        },
         {
             "id": "2629",
             "activity": "1",
@@ -34,7 +57,7 @@
             "imbd": "7.6",
             "rating": "HDCamRip",
             "catergory": "Drama",
-            "Industry": "South",
+            "Industry": "Bollywood",
             "latest": "no",
             "latestCatergory": "yes",
             "keyName": "FALSE",
