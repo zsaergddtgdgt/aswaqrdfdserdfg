@@ -34176,7 +34176,7 @@
                 "5": "https://streamtape.to/v/dLW882zMGxhkvWX/The_Peripheral_S01E05_18839_5.mkv.mp4",
                 "6": "https://streamtape.to/v/WQKP7Rpd3gHb7mm/The.Peripheral.S01E06_18839_6.mkv.mp4",
                 "7": "https://streamtape.to/v/Zyl4jMB6A7Sq242/The.Peripheral_S01E07_18839_7.mkv.mp4",
-                "8":"https://streamtape.to/v/6WPA771jxyt9DGm/The_Peripheral_S01E08_18839_8.mkv.mp4"
+                "8": "https://streamtape.to/v/6WPA771jxyt9DGm/The_Peripheral_S01E08_18839_8.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/ga1kxnv5deiu",
@@ -34186,7 +34186,7 @@
                 "5": "https://streamhub.to/fiuxzo79vynt",
                 "6": "https://streamhub.to/y7xr7iq4kvtj",
                 "7": "https://streamhub.to/hl2zolmoe2m5",
-                "8":"https://streamhub.to/jvnv7plzdok3"
+                "8": "https://streamhub.to/jvnv7plzdok3"
             }
         },
         {
@@ -34237,42 +34237,12 @@
             "EpisodeTape": {
                 "1": "https://streamtape.to/v/4Pvp346XYKFKv8V/Willow.S01E01_2022_18865_1.mkv.mp4",
                 "2": "https://streamtape.to/v/9e9kWqw80zHYRP/Willow.S01E02_2022_18865_2.mkv.mp4",
-                "3":"https://streamtape.to/v/qrPGM7lgKgszeO6/Willow_S01E03_18865_3.mkv.mp4"
+                "3": "https://streamtape.to/v/qrPGM7lgKgszeO6/Willow_S01E03_18865_3.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/194izewrttvv",
                 "2": "https://streamhub.to/6dm7pf4ycjzj",
-                "3":"https://streamhub.to/82ywoysgv4hh"
-            }
-        },
-        {
-            "id": "868",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/6qFYqNnn/Moving-in-with-Malaika-Season-1.png",
-            "ImageUrlVertical": "https://i.postimg.cc/XJsnTsFT/Moving-in-with-Malaika-Season-1.png",
-            "movieName": "Moving in with Malaika Season 1",
-            "htmlFile": "https://www.18868",
-            "directOne": "Realty Show",
-            "directSecond": "5v7YgNNgaVs",
-            "imbd": "6.8",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Moving in with Malaika",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/g2RkkrzxGlfvZW/Moving_In_With_Malaika_S01E01_18868_1.mkv.mp4",
-                "2":"https://streamtape.to/v/17K4k4mqXxFezv6/Moving_In_With_Malaika_S01E02_18868_2.mkv.mp4",
-                "3":"https://streamtape.to/v/xlWL1Q0LajukRBK/Moving_In_With_Malaika_S01E03_18868_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/rojxm00e52b1",
-                "2":"https://streamhub.to/upmxk0d7082m",
-                "3":"https://streamhub.to/hn4xdws7n315"
+                "3": "https://streamhub.to/82ywoysgv4hh"
             }
         },
         {
@@ -34335,7 +34305,7 @@
                 "8": "https://streamtape.to/v/9B3zBZaa0YS6AY/Faadu_S01E08_18869_8.mkv.mp4",
                 "9": "https://streamtape.to/v/kZz2DQYaD8f8eG/Faadu_S01E09_18869_9.mkv.mp4",
                 "10": "https://streamtape.to/v/L1gwJL2YojTa9p/Faadu_S01E10_18869_10.mkv.mp4",
-                "11":"https://streamtape.to/v/LXprDl1o6RfRLOd/Faadu_S01E11_18869_11.mkv.mp4"
+                "11": "https://streamtape.to/v/LXprDl1o6RfRLOd/Faadu_S01E11_18869_11.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/ppmi1zzbw8du",
@@ -34348,7 +34318,7 @@
                 "8": "https://streamhub.to/2116nr9s9439",
                 "9": "https://streamhub.to/7l0n0nolg4bu",
                 "10": "https://streamhub.to/towkb347iq3c",
-                "11":"https://streamhub.to/fsqukyqb9jom"
+                "11": "https://streamhub.to/fsqukyqb9jom"
             }
         },
         {
@@ -34389,6 +34359,40 @@
                 "6": "https://streamhub.to/c91x45gv9ey6",
                 "7": "https://streamhub.to/c0zxj1efqioi",
                 "8": "https://streamhub.to/m2v6l47yn9gu"
+            }
+        },
+        {
+            "id": "868",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/6qFYqNnn/Moving-in-with-Malaika-Season-1.png",
+            "ImageUrlVertical": "https://i.postimg.cc/XJsnTsFT/Moving-in-with-Malaika-Season-1.png",
+            "movieName": "Moving in with Malaika Season 1",
+            "htmlFile": "https://www.18868",
+            "directOne": "Realty Show",
+            "directSecond": "5v7YgNNgaVs",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Moving in with Malaika",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/g2RkkrzxGlfvZW/Moving_In_With_Malaika_S01E01_18868_1.mkv.mp4",
+                "2": "https://streamtape.to/v/17K4k4mqXxFezv6/Moving_In_With_Malaika_S01E02_18868_2.mkv.mp4",
+                "3": "https://streamtape.to/v/xlWL1Q0LajukRBK/Moving_In_With_Malaika_S01E03_18868_3.mkv.mp4",
+                "4": "https://streamtape.to/v/4GdO9DVkJLSK0L2/Moving_In_With_Malaika_S01E04_18868_4.mkv.mp4",
+                "5": "https://streamtape.to/v/KW24qR9V4DIgLk/Moving_In_With_Malaika_S01E05_18868_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/rojxm00e52b1",
+                "2": "https://streamhub.to/upmxk0d7082m",
+                "3": "https://streamhub.to/hn4xdws7n315",
+                "4": "https://streamhub.to/ubhiub2znd7o",
+                "5": "https://streamhub.to/z6dw61zb1pez"
             }
         },
         {
