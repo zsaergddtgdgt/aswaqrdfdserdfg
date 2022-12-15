@@ -111,6 +111,28 @@
             "tape": "https://streamtape.to/v/yxDX8QQZ4QskBb/Alluri_%282022%29_12766.mkv.mp4"
         },
         {
+            "id": "2772",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/1RcFRq39/The-Dictator-2012.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/fyxfD2gZ/The-Dictator-2012.jpg",
+            "movieName": "The Dictator (2012)",
+            "htmlFile": "https://www.2772",
+            "directOne": "Hindi+English",
+            "directSecond": "fAqjifhdnIo",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/i2lnpjmjuqdi",
+            "tape": "https://streamtape.to/v/Xb1vGePYz2fDaKv/The_Dictator_2012_2772.mkv.mp4"
+        },
+        {
             "id": "2768",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/kMQGzLP6/Shadow-Assassins-2022.jpg",

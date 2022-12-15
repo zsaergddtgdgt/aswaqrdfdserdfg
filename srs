@@ -34216,36 +34216,6 @@
             }
         },
         {
-            "id": "865",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/pXpxX3Mz/Willow-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/qvytbNRm/Willow-Season-1.jpg",
-            "movieName": "Willow Season 1",
-            "htmlFile": "https://www.18865",
-            "directOne": "Action,Adventure",
-            "directSecond": "pNML-Ijzh58",
-            "imbd": "6.8",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Willow",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/4Pvp346XYKFKv8V/Willow.S01E01_2022_18865_1.mkv.mp4",
-                "2": "https://streamtape.to/v/9e9kWqw80zHYRP/Willow.S01E02_2022_18865_2.mkv.mp4",
-                "3": "https://streamtape.to/v/qrPGM7lgKgszeO6/Willow_S01E03_18865_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/194izewrttvv",
-                "2": "https://streamhub.to/6dm7pf4ycjzj",
-                "3": "https://streamhub.to/82ywoysgv4hh"
-            }
-        },
-        {
             "id": "870",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/SQrtLzjs/Fall-Season-1.jpg",
@@ -34396,6 +34366,38 @@
             }
         },
         {
+            "id": "865",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/pXpxX3Mz/Willow-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/qvytbNRm/Willow-Season-1.jpg",
+            "movieName": "Willow Season 1",
+            "htmlFile": "https://www.18865",
+            "directOne": "Action,Adventure",
+            "directSecond": "pNML-Ijzh58",
+            "imbd": "6.8",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Willow",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4Pvp346XYKFKv8V/Willow.S01E01_2022_18865_1.mkv.mp4",
+                "2": "https://streamtape.to/v/9e9kWqw80zHYRP/Willow.S01E02_2022_18865_2.mkv.mp4",
+                "3": "https://streamtape.to/v/qrPGM7lgKgszeO6/Willow_S01E03_18865_3.mkv.mp4",
+                "4":"https://streamtape.to/v/RpBboV3WwVSdOX6/Willow_S01E04_18865_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/194izewrttvv",
+                "2": "https://streamhub.to/6dm7pf4ycjzj",
+                "3": "https://streamhub.to/82ywoysgv4hh",
+                "4":"https://streamhub.to/bgjtdixzowu3"
+            }
+        },
+        {
             "id": "872",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/wTTyLg6F/Hasratein-Season-1.jpg",
@@ -34419,6 +34421,42 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/9amdhfclr0i3"
+            }
+        },
+        {
+            "id": "873",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/3J91f6MQ/Physics-Wallah-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/kMhnvY2B/Physics-Wallah-Season-1.gif",
+            "movieName": "Physics Wallah Season 1",
+            "htmlFile": "https://www.18873",
+            "directOne": "Biography,Drama",
+            "directSecond": "oRpB-YF1QsU",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Physics Wallah",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/aZ6ryD9ebrSxj8B/Physics_Wallah_S01E01_18873_1.mkv.mp4",
+                "2": "https://streamtape.to/v/PjrOkPlx99U01ma/Physics_Wallah_S01E02_18873_2.mkv.mp4",
+                "3": "https://streamtape.to/v/J2qjAb08j8HgB1/Physics_Wallah_S01E03_18873_3.mkv.mp4",
+                "4": "https://streamtape.to/v/XJrW888783hDYaZ/Physics_Wallah_S01E04_18873_4.mkv.mp4",
+                "5": "https://streamtape.to/v/q6KGArMXWjUzlbA/Physics_Wallah_S01E05_18873_5.mkv.mp4",
+                "6": "https://streamtape.to/v/OJGdXVxgxVs1GJ/Physics_Wallah_S01E06_18873_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/xo0t5p39ax28",
+                "2": "https://streamhub.to/t1y4x90k5d0y",
+                "3": "https://streamhub.to/gjywf51xjdni",
+                "4": "https://streamhub.to/383bl0ow7mmv",
+                "5": "https://streamhub.to/mkontcg88lwx",
+                "6": "https://streamhub.to/zwgrqejajign"
             }
         }
     ]
