@@ -68,6 +68,28 @@
             "tape": "https://streamtape.to/v/3pJ9GXJoLRudoYz/Doctor_G_%282022%29_12629.mkv.mp4"
         },
         {
+            "id": "2774",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/tTFdgXyn/The-Witch-Part-2-The-Other-One-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/HWKvnLQj/The-Witch-Part-2-The-Other-One-2022.jpg",
+            "movieName": "The Witch: Part 2 – The Other One (2022)",
+            "htmlFile": "https://www.2774",
+            "directOne": "Hindi+English",
+            "directSecond": "EgOiCWTR_JU",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Action,Mystery",
+            "Industry": "Hollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/nj3m6lqz7ld7",
+            "tape": "https://streamtape.to/v/BJoOXxDdBDuykRm/The_Witch_Part_2_The_Other_One_%282022%29_2774.mkv.mp4"
+        },
+        {
             "id": "2771",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/zXTrJ2Cs/Head-Bush-2022.jpg",
