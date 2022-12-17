@@ -34378,36 +34378,6 @@
             }
         },
         {
-            "id": "870",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/SQrtLzjs/Fall-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/dtgRGqR3/Fall-Season-1.jpg",
-            "movieName": "Fall Season 1",
-            "htmlFile": "https://www.18870",
-            "directOne": "Drama",
-            "directSecond": "Doxuz6Ke210",
-            "imbd": "6.8",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Fall",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/yxWdaW13Lqh18o3/Fall_S01E01_18870_1.mkv.mp4",
-                "2": "https://streamtape.to/v/x1abeR72DKIkaDj/Fall_S01E02_18870_2.mkv.mp4",
-                "3": "https://streamtape.to/v/BG4w9Dy30XtWpy/Fall_S01E03_18870_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/amqkz0w2xqow",
-                "2": "https://streamhub.to/ulob3xz6j6vt",
-                "3": "https://streamhub.to/am2sjjesqmi3"
-            }
-        },
-        {
             "id": "869",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/26QmkSRp/Faadu-A-Love-Story-Season-1.jpg",
@@ -34491,40 +34461,6 @@
                 "6": "https://streamhub.to/c91x45gv9ey6",
                 "7": "https://streamhub.to/c0zxj1efqioi",
                 "8": "https://streamhub.to/m2v6l47yn9gu"
-            }
-        },
-        {
-            "id": "868",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/6qFYqNnn/Moving-in-with-Malaika-Season-1.png",
-            "ImageUrlVertical": "https://i.postimg.cc/XJsnTsFT/Moving-in-with-Malaika-Season-1.png",
-            "movieName": "Moving in with Malaika Season 1",
-            "htmlFile": "https://www.18868",
-            "directOne": "Realty Show",
-            "directSecond": "5v7YgNNgaVs",
-            "imbd": "6.8",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Moving in with Malaika",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/0AlAwOJJVwtLaO/Moving_In_With_Malaika_S01E01_18868_1.mkv.mp4",
-                "2": "https://streamtape.to/v/j4p6OVw4rgcmOZ/Moving_In_With_Malaika_S01E02_18868_2.mkv.mp4",
-                "3": "https://streamtape.to/v/e03xAojGOrIwgb/Moving_In_With_Malaika_S01E03_18868_3.mkv.mp4",
-                "4": "https://streamtape.to/v/3oD8R4jQjesdQXQ/Moving_In_With_Malaika_S01E04_18868_4.mkv.mp4",
-                "5": "https://streamtape.to/v/1RBJMbyBMrheaDx/Moving_In_With_Malaika_S01E05_18868_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/rojxm00e52b1",
-                "2": "https://streamhub.to/upmxk0d7082m",
-                "3": "https://streamhub.to/hn4xdws7n315",
-                "4": "https://streamhub.to/ubhiub2znd7o",
-                "5": "https://streamhub.to/z6dw61zb1pez"
             }
         },
         {
@@ -34804,6 +34740,80 @@
             }
         },
         {
+            "id": "870",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/SQrtLzjs/Fall-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/dtgRGqR3/Fall-Season-1.jpg",
+            "movieName": "Fall Season 1",
+            "htmlFile": "https://www.18870",
+            "directOne": "Drama",
+            "directSecond": "Doxuz6Ke210",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Fall",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/yxWdaW13Lqh18o3/Fall_S01E01_18870_1.mkv.mp4",
+                "2": "https://streamtape.to/v/x1abeR72DKIkaDj/Fall_S01E02_18870_2.mkv.mp4",
+                "3": "https://streamtape.to/v/BG4w9Dy30XtWpy/Fall_S01E03_18870_3.mkv.mp4",
+                "4": "https://streamtape.to/v/MyM6k77X0lImR7V/Fall_S01_E04_18870_4.mkv.mp4",
+                "5": "https://streamtape.to/v/8O1Ay7PBAeIoBK0/Fall_S01_E05_18870_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/amqkz0w2xqow",
+                "2": "https://streamhub.to/ulob3xz6j6vt",
+                "3": "https://streamhub.to/am2sjjesqmi3",
+                "4": "https://streamhub.to/ud8bwyhgj4x4",
+                "5": "https://streamhub.to/s2t9f7mlepop"
+            }
+        },
+        {
+            "id": "868",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/6qFYqNnn/Moving-in-with-Malaika-Season-1.png",
+            "ImageUrlVertical": "https://i.postimg.cc/XJsnTsFT/Moving-in-with-Malaika-Season-1.png",
+            "movieName": "Moving in with Malaika Season 1",
+            "htmlFile": "https://www.18868",
+            "directOne": "Realty Show",
+            "directSecond": "5v7YgNNgaVs",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Moving in with Malaika",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/0AlAwOJJVwtLaO/Moving_In_With_Malaika_S01E01_18868_1.mkv.mp4",
+                "2": "https://streamtape.to/v/j4p6OVw4rgcmOZ/Moving_In_With_Malaika_S01E02_18868_2.mkv.mp4",
+                "3": "https://streamtape.to/v/e03xAojGOrIwgb/Moving_In_With_Malaika_S01E03_18868_3.mkv.mp4",
+                "4": "https://streamtape.to/v/3oD8R4jQjesdQXQ/Moving_In_With_Malaika_S01E04_18868_4.mkv.mp4",
+                "5": "https://streamtape.to/v/1RBJMbyBMrheaDx/Moving_In_With_Malaika_S01E05_18868_5.mkv.mp4",
+                "6": "https://streamtape.to/v/O6bYab3zdaHZPdR/Moving_In_With_Malaika_%282022%29_S01E06_18868_6.mkv.mp4",
+                "7": "https://streamtape.to/v/B4Jop8OqARtyaX9/Moving_In_With_Malaika_%282022%29_S01E07_18868_7.mkv.mp4",
+                "8": "https://streamtape.to/v/l2vWdXr4P9fm1B/Moving_In_With_Malaika_%282022%29_S01E08_18868_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/rojxm00e52b1",
+                "2": "https://streamhub.to/upmxk0d7082m",
+                "3": "https://streamhub.to/hn4xdws7n315",
+                "4": "https://streamhub.to/ubhiub2znd7o",
+                "5": "https://streamhub.to/z6dw61zb1pez",
+                "6": "https://streamhub.to/lubgnzk2xdbs",
+                "7": "https://streamhub.to/j8jb41mfyt1t",
+                "8": "https://streamhub.to/u8srdi2hu1pf"
+            }
+        },
+        {
             "id": "883",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/x124DGGD/The-Recruit-Season-1.jpg",
@@ -34841,6 +34851,62 @@
                 "6": "https://streamhub.to/5u44zva9qd07",
                 "7": "https://streamhub.to/exfb0584bper",
                 "8": "https://streamhub.to/nzk3qk66707g"
+            }
+        },
+        {
+            "id": "885",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/sDMZhR4f/The-Bengal-Scam-Bima-Kando-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/8c9cHjmp/The-Bengal-Scam-Bima-Kando-Season-1.jpg",
+            "movieName": "The Bengal Scam: Bima Kando Season 1",
+            "htmlFile": "https://www.18885",
+            "directOne": "Thriller",
+            "directSecond": "zCzfqB0O0Nk",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Bengal Scam: Bima Kando",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/AALKpvGo6OuDo1/The_Bengal_Scam_Bima_Kando_%282022%29_18885_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/23maapryhiuk"
+            }
+        },
+        {
+            "id": "884",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/GttFST06/Indian-Predator-Beast-of-Bangalore-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/bvFkSNST/Indian-Predator-Beast-of-Bangalore-Season-1.jpg",
+            "movieName": "Indian Predator : Beast of Bangalore Season 1",
+            "htmlFile": "https://www.18884",
+            "directOne": "Documentary,Crime",
+            "directSecond": "XcW9MABKK90",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Indian Predator : Beast of Bangalore",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Pq2zRbGLB3H0m3y/Beast_of_Bangalore_Indian_Predator_S01_E01_18884_1.mkv.mp4",
+                "2": "https://streamtape.to/v/glYjXGbMPrIg7x/Beast_of_Bangalore_Indian_Predator_S01_E02_18884_2.mkv.mp4",
+                "3": "https://streamtape.to/v/JWgDMYbDlAFjLr0/Beast_of_Bangalore_Indian_Predator_S01_E03_18884_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/j9q0x4d8f12d",
+                "2": "https://streamhub.to/xqmpumy3djo8",
+                "3": "https://streamhub.to/3sncly0kprv3"
             }
         }
     ]
