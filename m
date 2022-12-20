@@ -10,7 +10,7 @@
             "directOne": "Hindi",
             "directSecond": "AHjYIbxHKV0",
             "imbd": "7.6",
-            "rating": "HD HQ-TC",
+            "rating": "HD HQ-TC V2",
             "catergory": "Adventure,Action",
             "Industry": "Hollywood",
             "latest": "no",
@@ -19,8 +19,8 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
-            "hub": "https://streamhub.to/7wzhrkur3tal",
-            "tape": "https://streamtape.to/v/DXAqRxqMr2uk9pG/Avatar_-_The_Way_Of_Water_%282022%29_2773.mkv.mp4"
+            "hub": "https://streamhub.to/p3tknno81ial",
+            "tape": "https://streamtape.to/v/xoP0AOdzXGhkOrv/Avatar_-_The_Way_Of_Water_%282022%29_2773.mkv.mp4"
         },
         {
             "id": "2789",
