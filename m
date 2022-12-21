@@ -21,7 +21,7 @@
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
             "hub": "https://streamhub.to/z8stqewqzsyh",
-            "tape": "https://streamtape.to/v/rDOBY16oevUbjre/Phone_Bhoot_%282022%29_12682.mkv.mp4"
+            "tape": "https://streamtape.to/v/jka0YllM4MuGXp/Phone_Bhoot_%282022%29_12682.mkv.mp4"
         },
         {
             "id": "2773",
