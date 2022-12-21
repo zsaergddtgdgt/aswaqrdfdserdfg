@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2682",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/vmHV554J/Phone-Bhoot-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Mp1cCdB2/Phone-Bhoot-2022.jpg",
+            "movieName": "Phone Bhoot (2022)",
+            "htmlFile": "https://www.12682",
+            "directOne": "Hindi",
+            "directSecond": "5fTVslrPsL0",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Comedy,Horror",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
+            "hub": "https://streamhub.to/z8stqewqzsyh",
+            "tape": "https://streamtape.to/v/rDOBY16oevUbjre/Phone_Bhoot_%282022%29_12682.mkv.mp4"
+        },
         {
             "id": "2773",
             "activity": "1",
@@ -2793,28 +2816,6 @@
             "driveImageUrlVertical": "https://techapp.postho.in/Poster/v1/Liger%20%282022%29.jpg",
             "hub": "https://streamhub.to/63bxvl4nddvw",
             "tape": "https://streamtape.to/v/RyzoVVm3OYUd1qa/The_Ghost_%282022%29_12628.mkv.mp4"
-        },
-        {
-            "id": "2682",
-            "activity": "1",
-            "ImageUrlHorizontal": "https://i.postimg.cc/vmHV554J/Phone-Bhoot-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/Mp1cCdB2/Phone-Bhoot-2022.jpg",
-            "movieName": "Phone Bhoot (2022)",
-            "htmlFile": "https://www.12682",
-            "directOne": "Hindi",
-            "directSecond": "5fTVslrPsL0",
-            "imbd": "7.6",
-            "rating": "HDCamRip",
-            "catergory": "Comedy,Horror",
-            "Industry": "Bollywood",
-            "latest": "no",
-            "latestCatergory": "yes",
-            "keyName": "FALSE",
-            "pathName": "FALSE",
-            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
-            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Brahmastra%20Part%20One%20Shiva%20%282022%29.jpg",
-            "hub": "https://streamhub.to/k87y4xo7ub0w",
-            "tape": "https://streamtape.to/v/OX7k6WjVwkFZRP8/Phone_Bhoot_%282022%29_12682.mkv.mp4"
         },
         {
             "id": "2681",
