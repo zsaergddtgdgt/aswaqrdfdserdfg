@@ -35118,6 +35118,46 @@
                 "7": "https://streamhub.to/vdz7dk5bh6pb",
                 "8": "https://streamhub.to/1tcar4rt32tz"
             }
+        },
+        {
+            "id": "892",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/0QftbQkX/Alice-in-Borderland-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/4dTMYqzy/Alice-in-Borderland-Season-2.jpg",
+            "movieName": "Alice in Borderland Season 2",
+            "htmlFile": "https://www.18892",
+            "directOne": "Action,Thriller",
+            "directSecond": "Yvl_VnZ-H-A",
+            "imbd": "7.0",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Alice in Borderland",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/bb36/8g0pz8znwlhoib86g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/1cbd/vmjy45o7c7398nx6g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/1byP2VAXV4CeRdm/Alice_In_Borderland_S02E01_18892_1.mkv.mp4",
+                "2": "https://streamtape.to/v/rbdmMlp8YQTbbG9/Alice_In_Borderland_S02E02_18892_2.mkv.mp4",
+                "3": "https://streamtape.to/v/ag6RRwPjV2hx6dy/Alice_In_Borderland_S02E03_18892_3.mkv.mp4",
+                "4": "https://streamtape.to/v/qjY3vG7ax0cZR9/Alice_In_Borderland_S02E04_18892_4.mkv.mp4",
+                "5": "https://streamtape.to/v/WXW4WdR2L0Cb8oj/Alice_In_Borderland_S02E05_18892_5.mkv.mp4",
+                "6": "https://streamtape.to/v/JDKZqzlD7wt90V/Alice_In_Borderland_S02E06_18892_6.mkv.mp4",
+                "7": "https://streamtape.to/v/re7l6R2MyJfbB26/Alice_In_Borderland_S02E07_18892_7.mkv.mp4",
+                "8": "https://streamtape.to/v/W3bwQmjP93UbjkB/Alice_In_Borderland_S02E08_18892_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/nto2ffblsnz2",
+                "2": "https://streamhub.to/jz9g7e1nakm5",
+                "3": "https://streamhub.to/y8oeriluehl8",
+                "4": "https://streamhub.to/7fz7edlzyaur",
+                "5": "https://streamhub.to/90kgavd03gch",
+                "6": "https://streamhub.to/wkcdw3yf0zf7",
+                "7": "https://streamhub.to/pmfj2lj3v8f3",
+                "8": "https://streamhub.to/koz6971pixzu"
+            }
         }
     ]
 }
