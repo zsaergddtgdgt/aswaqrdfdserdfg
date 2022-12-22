@@ -2,6 +2,28 @@
     "AllMovieDataList": [
     
         {
+            "id": "2790",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/ZRZV1LFt/Jaya-Jaya-Jaya-Jaya-Hey-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/2SyptCjF/Jaya-Jaya-Jaya-Jaya-Hey-2022.jpg",
+            "movieName": "Jaya Jaya Jaya Jaya Hey (2022)",
+            "htmlFile": "https://www.2790",
+            "directOne": "Hindi",
+            "directSecond": "NKcK52VtmqY",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/9rmuhmixfk71",
+            "tape": "https://streamtape.to/v/yMraZKxWV9F1QPv/Jaya_Jaya_Jaya_Jaya_Hey_2022_2790.mkv.mp4"
+        },
+        {
             "id": "2682",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/vmHV554J/Phone-Bhoot-2022.jpg",
@@ -28422,7 +28444,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/e2aa/tde2chnqwn2m5kr6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/c8f8/6angbynmyzhdnxs6g.jpg",
-            "hub": "https://streamhub.to/q6jbmzpy3jns",
+            "hub": "https://streamhub.to/kh1e5k9lapnj",
             "tape": "https://streamtape.to/v/J0D8vPRzd1tjv2Y/9_%282009%29_9685.mkv.mp4"
         },
         {
@@ -28532,7 +28554,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/2232/hsdmxu0r0ktfxsd6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/d3f4/mrt7sr2rxbd67xg6g.jpg",
-            "hub": "https://streamhub.to/2zi3m0ywkfhv",
+            "hub": "https://streamhub.to/v5j77l4jpscn",
             "tape": "https://streamtape.to/v/RDQLlDMZYeHdyWl/Hanson_and_the_Beast_%282017%29_9675.mkv.mp4"
         },
         {
@@ -28554,7 +28576,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/3024/vpn8b93bbeq3fmd6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/9eee/l2g3authrpj45pp6g.jpg",
-            "hub": "https://streamhub.to/w0nu1pkrfl2e",
+            "hub": "https://streamhub.to/mvvd6tzchlg2",
             "tape": "https://streamtape.to/v/Ye4ejvGJaXhvXzk/Bad_Kids_of_Crestview_Academy_%282017%29_9676.mkv.mp4"
         },
         {
@@ -28620,7 +28642,7 @@
             "pathName": "3",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/cfba/xhv2xmtjfc00vfk6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/2cf7/bgm05u5ceztv9nq6g.jpg",
-            "hub": "https://streamhub.to/mty2is4sxdt5",
+            "hub": "https://streamhub.to/wcmqa0rm8uzk",
             "tape": "https://streamtape.to/v/ApMx46XroWhXRQ7/Allegiant_%282016%29_9569.mkv.mp4"
         },
         {
@@ -28642,7 +28664,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/d099/ezhfyl8ypfabsyu6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/8a06/x9euet6zeoxw3fp6g.jpg",
-            "hub": "https://streamhub.to/ec07xbl543d9",
+            "hub": "https://streamhub.to/7lruwqrd09au",
             "tape": "https://streamtape.to/v/9ojvPg7pZPcBvQ/Max_Steel_%282016%29_9670.mkv.mp4"
         },
         {
@@ -28664,7 +28686,7 @@
             "pathName": "1",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1790/yk00eomzvb3trfp6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/3c58/hqnrlem8fc3shrx6g.jpg",
-            "hub": "https://streamhub.to/ue60ytlan5vi",
+            "hub": "https://streamhub.to/18mygep94kdh",
             "tape": "https://streamtape.to/v/xeYLP11wQrT0GQ/Clash_Of_The_Titans_%282010%29_9671.mkv.mp4"
         },
         {
@@ -29060,7 +29082,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/0134/mwjiijgg6o1h3bt6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/a893/iiwk45a6b7g9gjb6g.jpg",
-            "hub": "https://streamhub.to/mx8ur6nnkfu2",
+            "hub": "https://streamhub.to/nxikkfq3pvxu",
             "tape": "https://streamtape.to/v/g0k882mzgVHq14l/The_Room_%282019%29_9502.mkv.mp4"
         },
         {
@@ -29082,7 +29104,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/354f/73umtop1y6zr0pz6g.jpg",
             "driveImageUrlVertical": "https://www.mediafire.com/convkey/34c4/mrr3a6gmvr0jw7b6g.jpg",
-            "hub": "https://streamhub.to/eu85dx0hakjg",
+            "hub": "https://streamhub.to/urewhsbdtjpj",
             "tape": "https://streamtape.to/v/X1JYagzZVxHD8Bj/15_Minutes_%282001%29_9493.mkv.mp4"
         },
         {
