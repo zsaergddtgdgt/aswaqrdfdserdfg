@@ -34760,11 +34760,13 @@
             "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
             "EpisodeTape": {
                 "1": "https://streamtape.to/v/Jyg2xDkBpMfj4Jr/National_Treasure_Edge_of_History_S01E01_18875_1.mkv.mp4",
-                "2": "https://streamtape.to/v/KXpXgz2l0ec0VMd/National_Treasure_Edge_of_History_S01E02_18875_2.mkv.mp4"
+                "2": "https://streamtape.to/v/KXpXgz2l0ec0VMd/National_Treasure_Edge_of_History_S01E02_18875_2.mkv.mp4",
+                "3": "https://streamtape.to/v/y293Q7Ax0WSoeJ/National_Treasure_Edge_Of_History_S01E03_18875_3.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/0ry5xj2smo6o",
-                "2": "https://streamhub.to/0t2aov8hugrc"
+                "2": "https://streamhub.to/0t2aov8hugrc",
+                "3": "https://streamhub.to/6mokzi9p2dhk"
             }
         },
         {
@@ -34791,40 +34793,6 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/za0zhz7r6jn1"
-            }
-        },
-        {
-            "id": "870",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/SQrtLzjs/Fall-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/dtgRGqR3/Fall-Season-1.jpg",
-            "movieName": "Fall Season 1",
-            "htmlFile": "https://www.18870",
-            "directOne": "Drama",
-            "directSecond": "Doxuz6Ke210",
-            "imbd": "6.8",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Fall",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/yxWdaW13Lqh18o3/Fall_S01E01_18870_1.mkv.mp4",
-                "2": "https://streamtape.to/v/x1abeR72DKIkaDj/Fall_S01E02_18870_2.mkv.mp4",
-                "3": "https://streamtape.to/v/BG4w9Dy30XtWpy/Fall_S01E03_18870_3.mkv.mp4",
-                "4": "https://streamtape.to/v/MyM6k77X0lImR7V/Fall_S01_E04_18870_4.mkv.mp4",
-                "5": "https://streamtape.to/v/8O1Ay7PBAeIoBK0/Fall_S01_E05_18870_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/amqkz0w2xqow",
-                "2": "https://streamhub.to/ulob3xz6j6vt",
-                "3": "https://streamhub.to/am2sjjesqmi3",
-                "4": "https://streamhub.to/ud8bwyhgj4x4",
-                "5": "https://streamhub.to/s2t9f7mlepop"
             }
         },
         {
@@ -35080,6 +35048,44 @@
             }
         },
         {
+            "id": "870",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/SQrtLzjs/Fall-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/dtgRGqR3/Fall-Season-1.jpg",
+            "movieName": "Fall Season 1",
+            "htmlFile": "https://www.18870",
+            "directOne": "Drama",
+            "directSecond": "Doxuz6Ke210",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Fall",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/yxWdaW13Lqh18o3/Fall_S01E01_18870_1.mkv.mp4",
+                "2": "https://streamtape.to/v/x1abeR72DKIkaDj/Fall_S01E02_18870_2.mkv.mp4",
+                "3": "https://streamtape.to/v/BG4w9Dy30XtWpy/Fall_S01E03_18870_3.mkv.mp4",
+                "4": "https://streamtape.to/v/MyM6k77X0lImR7V/Fall_S01_E04_18870_4.mkv.mp4",
+                "5": "https://streamtape.to/v/8O1Ay7PBAeIoBK0/Fall_S01_E05_18870_5.mkv.mp4",
+                "6": "https://streamtape.to/v/pdP4daGyppcRj4/Fall_S01E06_18870_6.mkv.mp4",
+                "7": "https://streamtape.to/v/qJKgP6VO2qtzm11/Fall_S01E07_18870_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/amqkz0w2xqow",
+                "2": "https://streamhub.to/ulob3xz6j6vt",
+                "3": "https://streamhub.to/am2sjjesqmi3",
+                "4": "https://streamhub.to/ud8bwyhgj4x4",
+                "5": "https://streamhub.to/s2t9f7mlepop",
+                "6": "https://streamhub.to/ejfngplyxsfs",
+                "7" "https://streamhub.to/q5faukc1ffuw"
+            }
+        },
+        {
             "id": "890",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/XJSJXypL/Jack-Ryan-Season-3.jpg",
@@ -35157,6 +35163,40 @@
                 "6": "https://streamhub.to/wkcdw3yf0zf7",
                 "7": "https://streamhub.to/pmfj2lj3v8f3",
                 "8": "https://streamhub.to/koz6971pixzu"
+            }
+        },
+        {
+            "id": "893",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/zGQswF56/Kathmandu-Connection-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/j52RqSxY/Kathmandu-Connection-Season-2.jpg",
+            "movieName": "Kathmandu Connection Season 2",
+            "htmlFile": "https://www.18893",
+            "directOne": "Crime,Thriller",
+            "directSecond": "xDuBpbD-TgE",
+            "imbd": "6.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Kathmandu Connection",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/adc5/ssevqq7amu7gvub6g.jpg",
+            "driveImageUrlVertical": "https://www.mediafire.com/convkey/f540/t0wdgotgfstru746g.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Jybrl33GBatjzZB/Kathmandu_Connection_S02e01_18893_1.mkv.mp4",
+                "2": "https://streamtape.to/v/VzdKLkZoDAfKM4d/Kathmandu_Connection_S02e02_18893_2.mkv.mp4",
+                "3": "https://streamtape.to/v/1pa2BJb92Qceek9/Kathmandu_Connection_S02e03_18893_3.mkv.mp4",
+                "4": "https://streamtape.to/v/JwaVOxlXkqFj1M1/Kathmandu_Connection_S02e04_18893_4.mkv.mp4",
+                "5": "https://streamtape.to/v/g9WZ9Xa6k4cBwX/Kathmandu_Connection_S02e05_18893_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/81yb04y5wzrf",
+                "2": "https://streamhub.to/yd3by7wnpui1",
+                "3": "https://streamhub.to/eirxwxset8g1",
+                "4": "https://streamhub.to/wa7b798zbqa2",
+                "5": "https://streamhub.to/yko2tm0cgis0"
             }
         }
     ]

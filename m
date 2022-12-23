@@ -90,6 +90,28 @@
             "tape": "https://streamtape.to/v/M0JWkPej0QtBjV/Ardha_Shathabdam_%282022%29_12639.mkv.mp4"
         },
         {
+            "id": "2792",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/prRhpk8w/Tara-vs-Bilal-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/d3jspYhX/Tara-vs-Bilal-2022.jpg",
+            "movieName": "Tara vs Bilal (2022)",
+            "htmlFile": "https://www.12792",
+            "directOne": "Hindi",
+            "directSecond": "W9PYDBH9EhI",
+            "imbd": "7.6",
+            "rating": "HD 720p",
+            "catergory": "Romance",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/4quj1rm30egn",
+            "tape": "https://streamtape.to/v/BB896lAQ7PFybwR/Tara_Vs_Bilal_2022_12792.mkv.mp4"
+        },
+        {
             "id": "2791",
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/G3XYtYRn/Kala-2021.jpg",
