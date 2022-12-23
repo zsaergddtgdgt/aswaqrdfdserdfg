@@ -35200,6 +35200,102 @@
             }
         },
         {
+            "id": "895",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/nLLKK5ZG/The-Fabulous-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/mrS37s0D/The-Fabulous-Season-1.jpg",
+            "movieName": "The Fabulous Season 1",
+            "htmlFile": "https://www.18895",
+            "directOne": "Comedy,Drama",
+            "directSecond": "L9aFcotj7Qc",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Fabulous",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/ap8J36ow7rFxRrB/The_Fabulous_S01E01_18895_1.mkv.mp4",
+                "2": "https://streamtape.to/v/M6bW3wwP8AumObR/The_Fabulous_S01E02_18895_2.mkv.mp4",
+                "3": "https://streamtape.to/v/JKK0mGRyM7tVog/The_Fabulous_S01E03_18895_3.mkv.mp4",
+                "4": "https://streamtape.to/v/6xwrzx0qaPseAo/The_Fabulous_S01E04_18895_4.mkv.mp4",
+                "5": "https://streamtape.to/v/jWX49GYkrLCqzl/The_Fabulous_S01E05_18895_5.mkv.mp4",
+                "6": "https://streamtape.to/v/0AzARPm3P8ibXAB/The_Fabulous_S01E06_18895_6.mkv.mp4",
+                "7": "https://streamtape.to/v/kq4exjGgpbIQzL/The_Fabulous_S01E07_18895_7.mkv.mp4",
+                "8": "https://streamtape.to/v/aG9YZOYYJgSxVyl/The_Fabulous_S01E08_18895_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/kh7uvv4ufrqd",
+                "2": "https://streamhub.to/rx8u5tt10v1o",
+                "3": "https://streamhub.to/euznhvjsid9v",
+                "4": "https://streamhub.to/u4hhyhkgswqh",
+                "5": "https://streamhub.to/2ag0cktnshsz",
+                "6": "https://streamhub.to/juwujqtbi9y4",
+                "7": "https://streamhub.to/4q1n8kqomgog",
+                "8": "https://streamhub.to/hoyg0nc5ppgc"
+            }
+        },
+        {
+            "id": "896",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/R0Y2LH3s/Big-Mouth-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/fRJKjgxs/Big-Mouth-Season-1.jpg",
+            "movieName": "Big Mouth Season 1",
+            "htmlFile": "https://www.18896",
+            "directOne": "Action,Crime",
+            "directSecond": "TcOkCY4qtcA",
+            "imbd": "8.1",
+            "rating": "Hindi+Korean",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Big Mouth",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/7BdlpleJ7msA7La/Big_Mouth_S01E01_18896_1.mkv.mp4",
+                "2": "https://streamtape.to/v/PkYKPXvwOMfGrL/Big_Mouth_S01E02_18896_2.mkv.mp4",
+                "3": "https://streamtape.to/v/Bj2AZ3pbVOUyBO7/Big_Mouth_S01E03_18896_3.mkv.mp4",
+                "4": "https://streamtape.to/v/DZMVRlVmpjTwmQ/Big_Mouth_S01E04_18896_4.mkv.mp4",
+                "5": "https://streamtape.to/v/4dDjBy8LbvCKgOW/Big_Mouth_S01E05_18896_5.mkv.mp4",
+                "6": "https://streamtape.to/v/yw1lWYek8Yi1V03/Big_Mouth_S01E06_18896_6.mkv.mp4",
+                "7": "https://streamtape.to/v/lqw4X0dev0f7Lrr/Big_Mouth_S01E07_18896_7.mkv.mp4",
+                "8": "https://streamtape.to/v/qZ8QBxkp3XszdW3/Big_Mouth_S01E08_18896_8.mkv.mp4",
+                "9": "https://streamtape.to/v/JWDGApbz8vtj0Ol/Big_Mouth_S01E09_18896_9.mkv.mp4",
+                "10": "https://streamtape.to/v/6j98qJOBQeiLQD/Big_Mouth_S01E10_18896_10.mkv.mp4",
+                "11": "https://streamtape.to/v/GwvzoQv1LjC17RP/Big_Mouth_S01E11_18896_11.mkv.mp4",
+                "12": "https://streamtape.to/v/QD7VQGzBejt0PZL/Big_Mouth_S01E12_18896_12.mkv.mp4",
+                "13": "https://streamtape.to/v/zl7pWryzOeiYY1X/Big_Mouth_S01E13_18896_13.mkv.mp4",
+                "14": "https://streamtape.to/v/xme30Zz8LgUkOZl/Big_Mouth_S01E14_18896_14.mkv.mp4",
+                "15": "https://streamtape.to/v/QJqzG1ymwQIwAW/Big_Mouth_S01E15_18896_15.mkv.mp4",
+                "16": "https://streamtape.to/v/yVJQ6eV9M2U1X2D/Big_Mouth_S01E16_18896_16.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/2sel7v80anbr",
+                "2": "https://streamhub.to/l3k5b8b975fv",
+                "3": "https://streamhub.to/uy445t41r4z5",
+                "4": "https://streamhub.to/zt9gbk6ho0za",
+                "5": "https://streamhub.to/fbv5rv6db8e9",
+                "6": "https://streamhub.to/v1vl44z4pgok",
+                "7": "https://streamhub.to/pfsmn8nsp91e",
+                "8": "https://streamhub.to/slkcfxo7o23y",
+                "9": "https://streamhub.to/uq9l1uj4e4uf",
+                "10": "https://streamhub.to/8ub5rbjfzaun",
+                "11": "https://streamhub.to/sufpmvjgshsx",
+                "12": "https://streamhub.to/1cbu6qipx4id",
+                "13": "https://streamhub.to/mkal0fq650jq",
+                "14": "https://streamhub.to/lrqdfm7r1hri",
+                "15": "https://streamhub.to/lkm969ba1x0p",
+                "16": "https://streamhub.to/90ic5nole1he"
+            }
+        },
+        {
             "id": "894",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/tC1Zxwwj/TVF-Pitchers-Season-2.webp",
@@ -35219,12 +35315,11 @@
             "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
             "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
             "EpisodeTape": {
-                "1": "https://v808.streamhub.to/sc6t6o2rxyytnuzvovqs5ytyveou6skoj7lqkx4l2cdjua2pspnwfcurellq/v.mp4"
+                "1": "https://streamtape.to/v/qrYRDmAyGkF1b0/TVF_Pitchers_%282022%29_18894_1.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/d4e486j6eq36"
             }
         }
-        
     ]
 }
