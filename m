@@ -1,6 +1,5 @@
 {
     "AllMovieDataList": [
-    
         {
             "id": "2773",
             "activity": "1",
