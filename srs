@@ -34516,40 +34516,6 @@
             }
         },
         {
-            "id": "865",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://i.postimg.cc/pXpxX3Mz/Willow-Season-1.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/qvytbNRm/Willow-Season-1.jpg",
-            "movieName": "Willow Season 1",
-            "htmlFile": "https://www.18865",
-            "directOne": "Action,Adventure",
-            "directSecond": "pNML-Ijzh58",
-            "imbd": "6.8",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "Willow",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/AL6owJ1YMwtBJA/Willow.S01E01_2022_18865_1.mkv.mp4",
-                "2": "https://streamtape.to/v/G97P8jjaPDT1veQ/Willow.S01E02_2022_18865_2.mkv.mp4",
-                "3": "https://streamtape.to/v/qKZj2AAA7yTzVRr/Willow_S01E03_18865_3.mkv.mp4",
-                "4": "https://streamtape.to/v/lPXwzgkWaAuOD3/Willow_S01E04_18865_4.mkv.mp4",
-                "5": "https://streamtape.to/v/7pw4L269dMCA10G/Willow_S01E05_18865_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/194izewrttvv",
-                "2": "https://streamhub.to/6dm7pf4ycjzj",
-                "3": "https://streamhub.to/82ywoysgv4hh",
-                "4": "https://streamhub.to/bgjtdixzowu3",
-                "5": "https://streamhub.to/na3xmp10v0av"
-            }
-        },
-        {
             "id": "872",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://i.postimg.cc/wTTyLg6F/Hasratein-Season-1.jpg",
@@ -35287,7 +35253,8 @@
                 "10": "https://streamtape.to/v/gPaLx6vZpdFG9R/Moving_In_With_Malaika_%282022%29_S01E10_18868_10.mkv.mp4",
                 "11": "https://streamtape.to/v/z72rzad7WAtYVzj/Moving_In_With_Malaika_%282022%29_S01E11_18868_11.mkv.mp4",
                 "12": "https://streamtape.to/v/0JZXgVMzmwIbJkg/Moving_In_With_Malaika_%282022%29_S01E12_18868_12.mkv.mp4",
-                "13": "https://streamtape.to/v/Vdo4qQxzVkCZbw/Moving_In_With_Malaika_%282022%29_S01E13_18868_13.mkv.mp4"
+                "13": "https://streamtape.to/v/Vdo4qQxzVkCZbw/Moving_In_With_Malaika_%282022%29_S01E13_18868_13.mkv.mp4",
+                "14": "https://streamtape.to/v/pblPPvePRVHryWJ/Moving_In_With_Malaika_%282022%29_S01E14_18868_14.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/rojxm00e52b1",
@@ -35302,7 +35269,8 @@
                 "10": "https://streamhub.to/xige1b4z0yvq",
                 "11": "https://streamhub.to/wzhg9w4365tu",
                 "12": "https://streamhub.to/u16a2ls03y5a",
-                "13": "https://streamhub.to/dm54d857b02w"
+                "13": "https://streamhub.to/dm54d857b02w",
+                "14":"https://streamhub.to/9e33jg5yf7i3"
             }
         },
         {
@@ -35335,6 +35303,40 @@
                 "2": "https://streamhub.to/3x863124mcju",
                 "3": "https://streamhub.to/qwninpi9o46m",
                 "4": "https://streamhub.to/i4jcdeed0fo9"
+            }
+        },
+        {
+            "id": "865",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/pXpxX3Mz/Willow-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/qvytbNRm/Willow-Season-1.jpg",
+            "movieName": "Willow Season 1",
+            "htmlFile": "https://www.18865",
+            "directOne": "Action,Adventure",
+            "directSecond": "pNML-Ijzh58",
+            "imbd": "6.8",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Willow",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Indian%20Predator%20-%20The%20Butcher%20of%20Delhi%20Season%201.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/AL6owJ1YMwtBJA/Willow.S01E01_2022_18865_1.mkv.mp4",
+                "2": "https://streamtape.to/v/G97P8jjaPDT1veQ/Willow.S01E02_2022_18865_2.mkv.mp4",
+                "3": "https://streamtape.to/v/qKZj2AAA7yTzVRr/Willow_S01E03_18865_3.mkv.mp4",
+                "4": "https://streamtape.to/v/lPXwzgkWaAuOD3/Willow_S01E04_18865_4.mkv.mp4",
+                "5": "https://streamtape.to/v/7pw4L269dMCA10G/Willow_S01E05_18865_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/194izewrttvv",
+                "2": "https://streamhub.to/6dm7pf4ycjzj",
+                "3": "https://streamhub.to/82ywoysgv4hh",
+                "4": "https://streamhub.to/bgjtdixzowu3",
+                "5": "https://streamhub.to/na3xmp10v0av"
             }
         },
         {
@@ -35419,6 +35421,42 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/pd99jagl7zu0"
+            }
+        },
+        {
+            "id": "900",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/fTw40HN5/Rise-of-Empires-Ottoman-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/sXFqfmmY/Rise-of-Empires-Ottoman-Season-2.jpg",
+            "movieName": "Rise of Empires Ottoman Season 2",
+            "htmlFile": "https://www.18900",
+            "directOne": "History,Drama",
+            "directSecond": "FALSE",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Rise of Empires Ottoman",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/zwd813QPeMCYDam/Rise_of_Empires_Ottoman_S02E01_18900_1.mkv.mp4",
+                "2": "https://streamtape.to/v/ZxDMWGR6Kruql92/Rise_of_Empires_Ottoman_S02E02_18900_2.mkv.mp4",
+                "3": "https://streamtape.to/v/qgkpmxRe7eFzlag/Rise_of_Empires_Ottoman_S02E03_18900_3.mkv.mp4",
+                "4": "https://streamtape.to/v/d78xx8k19BHkaqj/Rise_of_Empires_Ottoman_S02E04_18900_4.mkv.mp4",
+                "5": "https://streamtape.to/v/e3LgZD9owltJDP/Rise_of_Empires_Ottoman_S02E05_18900_5.mkv.mp4",
+                "6": "https://streamtape.to/v/ZVRb1ljYj1Sqeod/Rise_of_Empires_Ottoman_S02E06_18900_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/91ksgqkxo9cj",
+                "2": "https://streamhub.to/q9mory33dnk1",
+                "3": "https://streamhub.to/tb3m3xjc4fm3",
+                "4": "https://streamhub.to/i8wlmgein3gk",
+                "5": "https://streamhub.to/dv2n94rssesi",
+                "6": "https://streamhub.to/rbr3r3m0xmka"
             }
         }
     ]
